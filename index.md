@@ -2,17 +2,7 @@
 dg-home: true
 dg-publish: true
 ---
+# Welcome to the site
 
-I love women.
-- Testing if this works
-- Joe
-- Biden
-## Real
-# Real
-
-```py
-print("hello")
-```
-
-
-
+This is going to be an attempt at making a somewhat updated version of AQWG. Blah blah blah yes. I am testing site stuff I will change this bit later. Read stuff below:
+- [Newbie Guide](newbie-guide.md) - For returning players and new players, or even those who want a quick refresher!
