@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 Any enhancement recommendations I reference here will be from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wupDvLuPnRC0fF0aNPc7rzrri7X1YcYy7S2s5Z6o_F4/edit#gid=181595567), with thanks to the following people:
 - Bootiest (Zeukro/Falcude)
 - Thae
