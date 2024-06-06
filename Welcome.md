@@ -8,5 +8,7 @@ This is going to be an attempt at making a somewhat updated version of AQWG. Mos
 
 [[Newbie Guide]] - For returning players and new players, or even those who want a quick refresher!
 
+[[Basic Class Enhancement Guide]] - This guide generally reflects the popular choice for each class, it accounts for variety however it may not necessarily be the optimal choice for every situation. Use this to get a general grasp for a class.
+
 Remember to also follow the [AQW Wiki](http://aqwwiki.wikidot.com/) as it updated constantly with information regarding the new releases and is the best resource for anything and everything AQW related.
 
