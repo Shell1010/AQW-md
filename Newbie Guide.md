@@ -3,7 +3,7 @@ dg-publish: true
 ---
  I will try my best to be as comprehensive as possible. This is obviously still WIP but just to showcase this.
 
-## Settings
+# Settings
 
 
 ![[Pasted image 20240606114416.png]]
@@ -28,7 +28,7 @@ dg-publish: true
 - Ignoring/Accepting invites, whispers and whether profanity should be censored.
 - Censor profanity doesn't apply to all profanity.
 
-### Advanced Options
+## Advanced Options
 
 Here are a list of recommended advanced options to enable to enhance your gameplay:
 
@@ -56,7 +56,7 @@ Here are a list of recommended advanced options to enable to enhance your gamepl
 - Visual Skill CDs - Shows cooldown interval when a skill is on cooldown.
 
 
-## User Interface
+# User Interface
 
 ![[Pasted image 20240605215029.png]]
 
@@ -82,7 +82,7 @@ Here are a list of recommended advanced options to enable to enhance your gamepl
 - This is the skills UI. It shows you the skills you can use. By hovering over each skill you can view the detailed description for it. This will show the cooldown duration as well as what sort of effects this skill does.
 
  
-## Points and Currency
+# Points and Currency
  
 These are the main point and currency systems in the game as of right now:
 
@@ -110,5 +110,79 @@ These are the main point and currency systems in the game as of right now:
 - Adventure Coins (ACs)
 	- This is the premium currency for AQW. They are required to get certain items or some classes in the game. Around 1000 ACs are given out for free each year, and even more so during certain events like Frostval.
 	- Shown when opening your inventory.
+
+
+# Commands
+
+Below are a list of chat commands you can input in chat to perform an action. You can find a full list of every command [here in the AQW Wiki](http://aqwwiki.wikidot.com/commands-canned-chat).
+
+| Command                                                       | Description                                                                                                                                          |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [player name] > (space bar)                                   | Temporarily switch to private chat with a specified player. Works with players that have a space in their name                                       |
+| /w [player name] (space bar), /tell [player name] (space bar) | Temporarily switch to private chat with a specified player. Doesn't work with those who have a space in their name.                                  |
+| /s, /say, /1 (space bar)                                      | Switch to normal chat.                                                                                                                               |
+| /p (space bar)                                                | Switch to party chat.                                                                                                                                |
+| [player name] > (space bar)                                   | Temporarily switch chat to private chat with specified player (works for players that have a space in their name)                                    |
+| /w, /tell [player] (space bar)                                | Temporarily switch chat to private chat with specified player (does not work for players with a space in their name)                                 |
+| /s, /say, /1 (space bar)                                      | Switch chat to normal chat                                                                                                                           |
+| /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
+| /g (space bar)                                                | Switches chat to guild chat (**s**, **say** or **1** followed by pressing the space bar deactivates guild chat)                                      |
+| /c (space bar)                                                | Switch chat to private chat with the last player that PM'd you (**s**, **say** or **1** followed by pressing the space bar deactivates private chat) |
+| /r (space bar)                                                | Reply to the last person who whispered to you in private chat                                                                                        |
+| > (space bar)                                                 | Reply to the last person who whispered to you in private chat                                                                                        |
+| /roll                                                         | Randomly rolls a number between 1 and 100, within emote chat, in the format "<player> rolls a <number between 1 and 100>".                           |
+| /e, /me, /em [message]                                        | Displays a custom emote in chat                                                                                                                      |
+| /afk                                                          | Toggles your AFK status on/off                                                                                                                       |
+| /report [player]                                              | Brings up the report menu for specified player                                                                                                       |
+| /who                                                          | View all users in the current instance                                                                                                               |
+| /who [player]                                                 | Shows if the specified player is online. If they are online, the player will appear on the list. Otherwise, the list will appear empty               |
+| /friend [player]                                              | Invites player to join your friends list                                                                                                             |
+| /duel [player]                                                | Invites that person to a 1v1 PvP                                                                                                                     |
+| /ignore [player]                                              | Ignores a player. The players' names will then be visible on the Ignore List in the order in which they were ignored.                                |
+| /unignore [player]                                            | Unignores a player. This command can be also used on words/phrases that are not part of usernames, and they will still be added to the Ignore List.  |
+| /partyon                                                      | Toggles party invites on                                                                                                                             |
+| /partyoff                                                     | Toggles party invites off                                                                                                                            |
+| /friendon                                                     | Toggles friend invites on                                                                                                                            |
+| /friendoff                                                    | Toggles friend invites off                                                                                                                           |
+| /pmon                                                         | Toggles whispers on                                                                                                                                  |
+| /pmoff                                                        | Toggles whispers off                                                                                                                                 |
+|                                                               |                                                                                                                                                      |
+| /gc [guild name]                                              | Creates a guild under the given guild name. Member only.                                                                                             |
+| /gd [player]                                                  | Demotes a player in your guild.                                                                                                                      |
+| /gi [player]                                                  | Invites a player to your guild                                                                                                                       |
+| /gp [player]                                                  | Promotes a player in your guild                                                                                                                      |
+| /gr [player]                                                  | Removes a player from your guild                                                                                                                     |
+| /rg [player]                                                  | Renames a guild (**Price:** 1,000 AC)                                                                                                                |
+| /g (space bar)                                                | Switches chat to guild chat (**s**, **say** or **1** followed by pressing the space bar deactivates guild chat)                                      |
+| /guild                                                        | Opens the guild interface                                                                                                                            |
+| /motd                                                         | Shows guild's message of the day.                                                                                                                    |
+| /motd [message of the day]                                    | Either creates or sets a new message of the day (can only be done by the Guild Leader or a Guild Officer)                                            |
+| /invite [player]                                              | Invites player to join your party                                                                                                                    |
+| /ps [player]                                                  | Summons a player from another map (must be in your party to do so)                                                                                   |
+| /pi [player]                                                  | Invites a player to your party                                                                                                                       |
+| /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
+
+
+# Classes
+
+Getting the classes below is only a suggestion. This isn't necessarily the only way to play the game, they are just intended for reaching endgame somewhat smoothly.
+
+Any enhancement recommendations I reference here will be from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wupDvLuPnRC0fF0aNPc7rzrri7X1YcYy7S2s5Z6o_F4/edit#gid=181595567), with thanks to the following people:
+- Bootiest (Zeukro/Falcude)
+- Thae
+- Shuga
+- RNA
+- Argleblargle
+- Halli606
+- subscribe to why live
+
+## Early Game
+| Class/Duplicate Class                                                | Purpose/Niche                   | Enhancements                                                                                                  | How to Obtain                                                                                                | Extra Information                                                                                                                         |
+| -------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [Chunin/Imperial Chunin](http://aqwwiki.wikidot.com/imperial-chunin) | Farming/Basic Support (Debuffs) | Full Luck (non-awe/non-forge)<br><br>Spiral Carve (awe)<br><br>Ravenous/Dauntless/Lacerate/Vim/Lament (forge) | Get Rank 10 Yokai (just finish the story with a rep boost) and buy at /dragonkoiz                            |                                                                                                                                           |
+| [Oracle](http://aqwwiki.wikidot.com/oracle)                          | Support/Basic Soloing           | Full Wizard (non-forge/non-awe)<br><br>Awe Blast (awe)<br><br>Awe Blast/Wizard/Absolution (forge)             | Free to obtain via the Game Menu. Shop > Class Shop > Buy oracle for free.                                   |                                                                                                                                           |
+| [Mage](http://aqwwiki.wikidot.com/mage)                              | Farming                         | Full Wizard (non-forge/non-awe)<br><br>Health Vamp (awe)<br><br>Valiance/Pneuma/Lament (forge)                | Free to obtain via the /trainers map and buying from the Mage NPC.                                           |                                                                                                                                           |
+| [Blood Sorceress](http://aqwwiki.wikidot.com/blood-sorceress)        | Farming/Basic Soloing           | Full Wizard (non-forge/non-awe)<br><br>Awe Blast (awe)<br><br>Valiance/Pneuma/Avarice or Lament (forge)<br>   | Boss drop from [Scarletta](http://aqwwiki.wikidot.com/scarletta) in /towerofmirrors                          | Upgrades to [scarlet sorceress](http://aqwwiki.wikidot.com/scarlet-sorceress-0-ac) at LVL 50! Obtainable at /towerofmirrors from a quest. |
+| [Neo Metal Necro](http://aqwwiki.wikidot.com/neo-metal-necro)        | Soloing/DPS                     | Full Luck (non-forge/non-awe)<br><br>Awe Blast (awe)<br><br>Lacerate/Forge/Lament (forge)<br>                 | Obtained from the /skulldome merge shop after getting 10x [Bone Pick](http://aqwwiki.wikidot.com/bone-pick). | Upgrades to [Doom Metal Necro](http://aqwwiki.wikidot.com/doom-metal-necro) after also completing a questline.                            |
 
 
