@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 
-Here are some locations to gather Gold fast for your quests or whatever.
+Here are some locations to gather Gold fast for your quests or whatever. 
 
 | Gold Per Second | Location/Quest                                                     | Extra Information                                                                                                                                                                            |
 | --------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

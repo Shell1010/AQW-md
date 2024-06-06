@@ -163,6 +163,7 @@ You can actually do both of these farms at the same time, as Lord of Order is si
 - [[Archpaladin Guide]]
 
 Items you should also farm in the mean time:
+- [[Armour of Awe]]
 - [[Awescended]]
 - [[Blinding Light of Destiny]]
 - [[Drakath Armour]]
