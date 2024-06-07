@@ -158,7 +158,7 @@ In the mean time you should also focus on completing the Blade of Awe. Read this
 
 Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get two of the most useful endgame classes, Archpaladin and Lord of Order. These two classes will be your entry into Ultras and will stick with you long into the endgame.
 
-You can actually do both of these farms at the same time, as Lord of Order is simply daily quests and archpaladin can be completed within a day or two.
+You can actually do both of these farms at the same time, as Lord of Order is simply daily 10 quests and archpaladin can be completed within a day or two.
 - [[Lord of Order Guide]]
 - [[Archpaladin Guide]]
 
