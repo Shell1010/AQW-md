@@ -28,6 +28,7 @@ A Comprehensive newbie guide, starting from UI elements to a basic game play pro
 - Ignoring/Accepting invites, whispers and whether profanity should be censored.
 - Censor profanity doesn't apply to all profanity.
 
+---
 ## Advanced Options
 
 Here are a list of recommended advanced options to enable to enhance your gameplay:
@@ -55,7 +56,7 @@ Here are a list of recommended advanced options to enable to enhance your gamepl
 - Reaccept Quest after turn-in - Optional, this is optimal for farming situations where you are required to accept a quest multiple times. Alongside Quest Log turn-ins you can complete quests while you continue to farm.
 - Visual Skill CDs - Shows cooldown interval when a skill is on cooldown.
 
-
+---
 # User Interface
 
 ![[Pasted image 20240605215029.png]]
@@ -82,6 +83,7 @@ Here are a list of recommended advanced options to enable to enhance your gamepl
 - This is the skills UI. It shows you the skills you can use. By hovering over each skill you can view the detailed description for it. This will show the cooldown duration as well as what sort of effects this skill does.
 
  
+---
 # Points and Currency
  
 These are the main point and currency systems in the game as of right now:
@@ -112,6 +114,7 @@ These are the main point and currency systems in the game as of right now:
 	- Shown when opening your inventory.
 
 
+---
 # Commands
 
 Below are a list of chat commands you can input in chat to perform an action. You can find a full list of every command [here in the AQW Wiki](http://aqwwiki.wikidot.com/commands-canned-chat).
@@ -143,27 +146,43 @@ Below are a list of chat commands you can input in chat to perform an action. Yo
 | /pi {player}                                                  | Invites a player to your party                                                                                                                       |
 | /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
 
-
+---
 # Story/Progression
 
 I'll try to outline some goals you should accomplish during different parts of the game. There are quite a lot of things you can do and there is no *best* way to play this game but this guide will try to help you reach endgame somewhat smoothly.
 
-At the very start of the game focus on completing the 13 Lord of Chaos storyline. Generally it is a good idea to level up to 30 so that bosses are not too difficult for you at this stage of the game. Please refer to the [[Levelling Guide]] and [[Gold Guide]] if needed. 
+At the very start of the game focus on completing the 13 Lord of Chaos storyline. Generally it is a good idea to power level to 30 so that bosses are not too difficult for you at this stage of the game. Please refer to the [[Levelling Guide]] and [[Gold Guide]] if needed. 
 
-Also it is suggested at this stage of the game to get yourself 1 farming class and 1 soloing class for the purpose of clearing bosses and quests. These classes are not necessarily going to be your best options but used to farm better endgame classes. Please refer to the [[Basic Class Guide]] for more info.
+Also it is suggested at this stage of the game to get yourself 1 farming class and 1 soloing class for the purpose of clearing bosses and quests. These classes are not necessarily going to be your best options but used to farm better endgame classes. Please refer to the [[Basic Class Guide#Early Game Classes|Basic Class Guide]] for more info.
 
-In the mean time you should also focus on completing the Blade of Awe. Read this [[Blade of Awe Guide]]
-
-*I feel like I should add more text here but I don't actually know what else to write about someone help*
+In the mean time you should also focus on completing the Blade of Awe. Read this [[Blade of Awe Guide]]. By completing the Blade of Awe you can obtain some awe enhancements, these are enhancements that have special effects and are used to 
 
 Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get two of the most useful endgame classes, Archpaladin and Lord of Order. These two classes will be your entry into Ultras and will stick with you long into the endgame.
 
-You can actually do both of these farms at the same time, as Lord of Order is simply daily 10 quests and archpaladin can be completed within a day or two.
+You can actually do both of these farms at the same time, as Lord of Order is simply daily 10 quests and Archpaladin can be completed within a day or two.
 - [[Lord of Order Guide]]
 - [[Archpaladin Guide]]
 
-Items you should also farm in the mean time:
+Items you should also farm in the mean time while you are waiting in-between Lord of Order:
 - [[Armour of Awe]]
 - [[Awescended]]
 - [[Blinding Light of Destiny]]
 - [[Drakath Armour]]
+- [[Boosted Weapon Guide|Some 30% or 15% Boosted Weapons]]
+
+Once you have obtained Lord of Order or Archpaladin (both preferably) you will now be able to enter ultras and be useful! You will be required to first complete the /timeinn questline, this can be done using your Archpaladin class but you may need some extra help for bosses like Engineer. Ultra Tyndarius may require you to finish the Shadows of War II questline. The following are dailies ultras you should do:
+- [[Timeinn Ultras#Ultra Ezrajal|Ultra Ezrajal]]
+- [[Timeinn Ultras#Ultra Warden|Ultra Warden]]
+- [[Timeinn Ultras#Ultra Engineer|Ultra Engineer]]
+- [[Ultra Tyndarius]]
+
+Doing the Timeinn Ultras allows you to obtain two of the easiest 51% Damage boosted weapons in the game, Exalted Apotheosis and Dual Exalted Apotheosis, being 24 and 36 dailies. This is also alongside multiple 30%, 35% and 40% boosted weapons.
+
+
+The following are Weekly Ultras and other than Nulgath have their own requirements which I will list in their guides:
+- [[Ultra Nulgath]]
+- [[Ultra Dage]]
+- [[Champion Drakath]]
+- [[Astravia Ultras#Ultra Darkon|Ultra Darkon]]
+- [[Astravia Ultras#Ultra Drago|Ultra Drago]]
+- [[Ultra Malgor]]

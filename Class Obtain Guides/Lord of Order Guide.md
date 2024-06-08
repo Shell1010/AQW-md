@@ -15,6 +15,9 @@ It is recommended to complete the following storylines before starting the quest
 - [/blackholesun](http://aqwwiki.wikidot.com/black-hole-sun) (can /goto)
 - [/doomvault](http://aqwwiki.wikidot.com/doom-vault) and [/doomvaultb](http://aqwwiki.wikidot.com/doom-vault-b)
 
+
+---
+
 You can start the quest from Mirror Drakath in /battleoff.
 
 - **"Heart of Servitude"**
@@ -24,12 +27,15 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Travel to [/citadelruins](http://aqwwiki.wikidot.com/citadel-ruins) and complete the ["Defeat Enn'tropy"](http://aqwwiki.wikidot.com/polish-s-quests#2) quest for the reward "Mage's Gratitude". You will need to have completed this questline for you to have access to the quest.
 	- Travel to [/ravenscar](http://aqwwiki.wikidot.com/ravenscar) and complete the questline. Once you have completed it you should be able to access the shop from [Mina's Ghost](http://aqwwiki.wikidot.com/mina-s-ghost) and buy "Ravenscar's Truth".
 
+---
 
 - **"Spirit of Justice"**
 	- Travel to [/dwarfprison](http://aqwwiki.wikidot.com/dwarf-prison) and kill [Warden Elfis](http://aqwwiki.wikidot.com/warden-elfis) till he drops the "Warden Elfis Detained" item.
 	- Travel to [/prison](http://aqwwiki.wikidot.com/prison) and kill the [Piggy Drake](http://aqwwiki.wikidot.com/piggy-drake) till he drops the "Piggy Drake Punished" item.
 	- Head to the [/mysteriousdungeon](http://aqwwiki.wikidot.com/mysterious-dungeon) and kill the mysterious stranger on screen 19.
 	- Travel to [/dreammaster](http://aqwwiki.wikidot.com/dream-master) and kill the Callico Cobby on screen 6. You may need to complete the questline starting from [/spookeasy](http://aqwwiki.wikidot.com/spookeasy) if you cannot find anyone to /goto.
+
+---
 
 - **"Purification of Chaos"**
 	- There are a lot of methods to obtain [chaoroot](http://aqwwiki.wikidot.com/chaoroot), you can kill the hydra heads as one of the faster methods
@@ -39,11 +45,15 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- To obtain the "Chaorrupting Particles" x15 you should join [/shadowgates](http://aqwwiki.wikidot.com/shadow-gates) and complete the questline. You will be able to kill the chaorruption at the end that will drop it.
 	- Join [/stormtemple](http://aqwwiki.wikidot.com/the-storm-temple) and beat lionfang till he gives you his "Purified Raindrops" x45.
 
+---
+
 - **"Steadfast Will"**
 	- Head to [/gaiazor](http://aqwwiki.wikidot.com/gaiazor-location) and take the "Gaiazor's Cornerstone" from him. You may need to complete the [questline](http://aqwwiki.wikidot.com/ravinos-brightglade-s-quests#4) to access Screen 8.
 	- Head to [/treetitanbattle](http://aqwwiki.wikidot.com/tree-titan-battle) and kill Dakka till he drops his stuff. You may need to finish entirety of this storyline. So start from [/treetitan](http://aqwwiki.wikidot.com/tree-titan).
 	- Head to [/andre](http://aqwwiki.wikidot.com/andre) and attack the giant necklace. You may need to finish the entirety of [/giant](http://aqwwiki.wikidot.com/giant-tale) storyline.
 	- Kill Desolich at [/desolich](http://aqwwiki.wikidot.com/desolich-location) for his skull.
+
+---
 
 - **"Strike of Order"**
 	- Grab the "Hanzamune Dragon Koi Blade" from killing Kitsune at [/kitsune](http://aqwwiki.wikidot.com/kitsune-s-lair). It is somewhat low-ish drop rate.
@@ -51,11 +61,15 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Get the "Dragonoid of hours" from killing the Dragonoid boss at [/mqlesson](http://aqwwiki.wikidot.com/mq-lesson)
 	- Grab "Safiria's Spirit Orb" from Safiria after clicking the "Take the Spirit Orb" button at [/maxius](http://aqwwiki.wikidot.com/maxius).
 
+---
+
 - **"Harmony"**
 	- Get "Unity of Life" from [/elemental](http://aqwwiki.wikidot.com/elemental) and kill the Tree of Destiny.
 	- Join [/orchestra](http://aqwwiki.wikidot.com/orkestra) and kill Faust for the "Harmony of Solace".
 	- Defeat the Pactagonal Knights at [/cathedral](http://aqwwiki.wikidot.com/cathedral-of-time) for "Teamwork Observed".
 	- Defeat the Queen's Archsage in [/goose](http://aqwwiki.wikidot.com/cysero-s-secret) for the "Scroll of Enchantment".
+
+---
 
 - **"Ordinance"**
 	- Get "Acolyte's Braille" from [/newfinale](http://aqwwiki.wikidot.com/new-finale) and kill the Chaos Healer from willow creek, screen 2.
@@ -65,6 +79,8 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Kill enemies from [/weaverwar](http://aqwwiki.wikidot.com/weaver-war) for "Suppressed Weaver's". You may need to complete the questline to access the rooms.
 	- Kill Extriki at [/extriki](http://aqwwiki.wikidot.com/extriki-location) for Strength of Resillience.
 
+---
+
 - **"Axiom"**
 	- Kill the Guardian Spirit for "Law of Nature" at [/elfhame](http://aqwwiki.wikidot.com/elfhame). You may need to complete the questline to access this screen.
 	- Kill Kathool at [/deepchaos](http://aqwwiki.wikidot.com/deep-chaos) for the "Law of Time".
@@ -72,6 +88,8 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Kill the Reflecteract at [/blackholesun](http://aqwwiki.wikidot.com/black-hole-sun) for the "Law of Relativity". Should be a relatively short questline.
 	- Kill the Tonitro at [/thunderfang](http://aqwwiki.wikidot.com/thunderfang-spire) for the "Law of Conservation of Energy".
 	- Defeat the Red Dragon at [/lair](http://aqwwiki.wikidot.com/lair) for the "Law of Low Drop Rates".
+
+---
 
 - **"Blessing of Order"**
 	- Kill Undead Raxgore at [/doomvaultb](http://aqwwiki.wikidot.com/doom-vault-b) for "Weapon Imprint" x15.
@@ -81,7 +99,11 @@ You can start the quest from Mirror Drakath in /battleoff.
 		- Alternatively you could use Dragon of Time but I assume you don't have this at the current stage of the game.
 	- Kill Serepthys at [/yasaris](http://aqwwiki.wikidot.com/yasaris) for "Inversion Infusion".
 
+---
+
 - **"The Final Challenge"**
 	- Kill the Champion of Chaos at [/ultradrakath](http://aqwwiki.wikidot.com/ultra-drakath). 
 	- Remember to select the Lord of Order class, or you'll have to wait another day.
 
+
+I don't feel like I should make a guide for this class as it is very braindead, just make sure your buffs do not fade when using the class. For enhancements read [[Basic Class Guide]].
