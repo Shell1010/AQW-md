@@ -4,12 +4,9 @@ dg-publish: true
 
 Here are some locations to gather Gold fast for your quests or whatever. The upper thresholds of each farm can be possible with gold boosts and boosted items, or just being faster. Some of these methods are not effected by Gold boosts, for example selling bindings or vouchers.
 
-With thanks to the following people for providing with some information:
+With thanks to the following people for providing me with information:
 - Milenius (Raidenexa)
 - Darkness2544 (Pizza Melt Ambassador)
-
-
-*Think I'm missing a lot here, may need help with this*
 
 | Gold Per Second | Location/Quest                                                                                                               | Extra Information                                                                                                                                                                                                    |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

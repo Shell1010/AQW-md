@@ -4,7 +4,7 @@ dg-publish: true
 
 Here are some locations to level up fast.
 
-*If someone can give like a XP per second value that'd be cool*
+*If someone can give like a XP per second value that'd be cool, but otherwise are there any other meta places for XP?*
 
 | Level  | Location        | Extra Information                                                                                                                                                                                                                        |
 | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -5,24 +5,24 @@ You can always refer back to the [wiki](http://aqwwiki.wikidot.com/valencia-s-qu
 
 Start the Blade of awe by joining /museum, clicking on valencia, Blade of Awe > To the CrossRoads. You then click on valencia again and start her Awe Quests. Each quest item is used to forge the Blade of Awe.
 
-- "Find the Stonewrit!"
+- **"Find the Stonewrit!"**
 	- Drops from any dragon monster.
 	- /join [etherwardes](http://aqwwiki.wikidot.com/etherstorm-war-desoloth) and kill any dragons you find till you get the drop.
 
-- "Find the Handle!"
+- **"Find the Handle!"**
 	- Drops from any elemental monster.
 	- /join [gilead](http://aqwwiki.wikidot.com/ruins-of-great-gilead) and kill any elementals you find till you get the drop.
 
-- "Find the Hilt!"
+- **"Find the Hilt!"**
 	- Drops from any undead monster.
 	- /join [shadowfallwar](http://aqwwiki.wikidot.com/shadowfall-war-location) and kill enemies in Screen 2.
 
-- "Find the Blade!"
+- **"Find the Blade!"**
 	- Drops from any chaos beast.
 	- If you haven't completed the mobius storyline, /join [hydra](http://aqwwiki.wikidot.com/hydra-lake) and kill the hydras at the end.
 	- If you have completed the mobius storyline, /join [mobius](http://aqwwiki.wikidot.com/mobius), click on Dew Drop NPC and click "The Hydra" option, this will teleport you to the 3 hydra heads
 
-- "Find the Runes!"
+- **"Find the Runes!"**
 	- Drops from any chaos lord.
 	- It is a 2% drop rate from [/Escherion](http://aqwwiki.wikidot.com/escherion-s-tower), so kill him till it drops.
 
