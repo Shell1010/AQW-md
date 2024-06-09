@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Armor of Awe Guide
+  og:description: Guide to obtain the Armour of Awe
+  description: Guide to obtain the Armour of Awe
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 You can always refer back to the [wiki](http://aqwwiki.wikidot.com/valencia-s-quests) but this guide should be concise enough for you.
 

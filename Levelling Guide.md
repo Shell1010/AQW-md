@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: XP Guide
+  og:description: Guide to obtain XP optimally
+  description: Guide to obtain XP optimally
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 
 Here are some locations to level up fast.

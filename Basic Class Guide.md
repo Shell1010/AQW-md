@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Class Enhancement Guide
+  og:description: A basic class enhancement guide
+  description: A basic class enhancement guide
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 
 Any enhancement recommendations I reference here will be from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wupDvLuPnRC0fF0aNPc7rzrri7X1YcYy7S2s5Z6o_F4/edit#gid=181595567), with thanks to the following people:
@@ -11,7 +17,7 @@ Any enhancement recommendations I reference here will be from [this spreadsheet]
 - Halli606
 - subscribe to why live
 
-We explore a range of class enhancements tailored for a generalist playstyle. It is important to note that the enhancements may not always be the most optimal for every scenario, the effectiveness of the enhancement may vary depending on the situation, you may need to switch enhancements if needed. 
+We explore a range of class enhancements tailored for a generalist playstyle. It is important to note that the enhancements may not always be the most optimal for every scenario, the effectiveness of the enhancement may vary depending on the situation, you may need to switch enhancements if needed. The most important thing is to adapt accordingly, read the room and make sure you aren't stubborn.
 
 Additionally, the categorisations for each class is intended to show the ease of obtaining the class but it doesn't necessarily imply that the class will be useless outside of this stage of the game. For example with Shaman the class may be obtainable easily at early/mid game but it is considered a great endgame farmer once you have obtained some forge enhancements.
 

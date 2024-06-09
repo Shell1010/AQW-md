@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Archpaladin Guide
+  og:description: Guide to obtain Archpaladin
+  description: Guide to obtain Archpaladin
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 There aren't necessarily any prerequisites to start the quests but it is a good idea to have Rank 10 Good Reputation and the 13 Lord of Chaos saga completed, as this is needed for one of the quests. Please refer to the [[Faction Reputation Guides]] for information on how to reach Rank 10 Good.
 

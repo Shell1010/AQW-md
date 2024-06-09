@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Gold Guides
+  og:description: Guide to obtain Gold optimally
+  description: Guide to obtain Gold optimally
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 
 Here are some locations to gather Gold fast for your quests or whatever. The upper thresholds of each farm can be possible with gold boosts and boosted items, or just being faster. Some of these methods are not effected by Gold boosts, for example selling bindings or vouchers.

@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Archpaladin Usage
+  og:description: Class Usage guide for Archpaladin
+  description: Class Usage guide for Archpaladin
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 
 Guide to obtain [[Archpaladin Guide|archpaladin here]] if you don't have it. 
@@ -83,14 +89,15 @@ Pretty much the only time you'd ever use this skill is while Righteous Seal (4 S
 
 ## Enhancements
 
-You can take a look at [[Basic Class Guide]] for a general enhancement overview for Archpaladin if you do not have forges. But in this guide I'll try to specifiy some different enhancement variations where AP may do better in specific situations.
+You can take a look at [[Basic Class Guide]] for a general enhancement overview for Archpaladin if you do not have forges. But in this guide I'll try to specifiy some different enhancement variations where AP may work better in specific situations. The most important thing is to adapt accordingly, read the room and make sure you aren't stubborn when changing up enhancements.
 
 | Situation                  | Enhancements                                    | Rating | Extra Information                                                                          |
 | -------------------------- | ----------------------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | Farming                    | Valiance or Lacerate/Vim/Avarice                | 4/10   | I mean there could be worse.                                                               |
 | Solo (3k DMG Boss)         | Smite or Valiance/Forge/Vainglory or Penitence  | 6/10   | DPS wasn't too good but provides great defensive buffs. Really hard to die as archpaladin. |
-| Solo (Attempt at High DPS) | Valiance/Anima/Vainglory or Lament              | 6/10   | Slightly better, ?                                                                         |
+| Solo (Attempt at High DPS) | Valiance/Anima/Vainglory or Lament              | 6/10   | Slightly better, less survivability.                                                       |
 | Party                      | Valiance or Arcana/Forge/Vainglory or Penitence | 8/10   | Provides great party supports, integral in ultras like champion drakath, ultra malgor.     |
+| Champion Drakath           | Lacerate/Forge/Penitence                        | 8/10   | Can also swap for Awe Blast or Arcana's Concerto as you are a support.                     |
 
 ---
 

@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Lord of Order Guide
+  og:description: Guide to obtain Lord of Order
+  description: Guide to obtain Lord of Order
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 To start off there aren't necessarily prerequisites behind Lord of Order's questline, but some quests are locked behind storylines, and the final quest will need you to have finished the 13 Lord of Chaos saga. 
 
