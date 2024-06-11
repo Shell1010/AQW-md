@@ -46,6 +46,8 @@ Basically kill each chaos lord for a drop
 	- Grab drakath's sword from [/ultradrakath](http://aqwwiki.wikidot.com/ultra-drakath). It is a 1% drop so good luck.
 	- Get the Chaorrupted Hourglass from iadoa in [/timespace](http://aqwwiki.wikidot.com/time-space).
 
+---
+
 - **"A Means to an End"**
 	- Get the ultimate darkness gem from [/shadowfallwar](http://aqwwiki.wikidot.com/shadowfall-war-location).
 	- Grab x2000 Undead Energy from the 5 headed dracolich at [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon).

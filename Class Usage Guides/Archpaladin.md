@@ -12,7 +12,7 @@ Guide to obtain [[Archpaladin Guide|archpaladin here]] if you don't have it.
 
 This class is incredibly simple to use and takes the role of support/defensive tank. In ultras it is used in almost every comp in pubs. It also does extra damage against undead.
 
-It is recommended to use Auras UI in the advanced options when using this class as you will be able to better track the Auras for Righteous Seal and Broken Seal.
+It is recommended to use Auras UI in the [[Newbie Guide#Advanced Options|advanced options]] when using this class as you will be able to better track the Auras for Righteous Seal and Broken Seal.
 
 ## Skills Overview
 
