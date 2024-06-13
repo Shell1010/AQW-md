@@ -88,3 +88,13 @@ These are classes obtained through a relatively difficult questline, have multip
 | Class/Duplicate Class | Purpose/Niche   | Enhancements                                                                                         | How to Obtain                                            | Extra Information                    |
 | --------------------- | --------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
 | Verus Doomknight      | DPS/DPS Support | Full Luck (non-awe/non-forge)<br><br>Spiral Carve (awe)<br><br>Dauntless or Valiance/Anima/Vainglory | Follow the [[Verus Doomknight Guide]] for a walkthrough. | It also provides some great debuffs. |
+
+---
+
+# Endgame/Meta Classes
+
+This section will be dedicated for classes that have great Ultra viability, or are deemed the best in their particular niche. These aren't necessarily tied to a point in the game, though they tend to majority be those in the Late-Game section. A class may be considered starter but could be classed into this section due to their utility (for example LH).
+
+| Class/Duplicate Class | Purpose/Niche   | Enhancements                                                                                         | How to Obtain                                            | Extra Information                    |
+| --------------------- | --------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------ |
+| Verus Doomknight      | DPS/DPS Support | Full Luck (non-awe/non-forge)<br><br>Spiral Carve (awe)<br><br>Dauntless or Valiance/Anima/Vainglory | Follow the [[Verus Doomknight Guide]] for a walkthrough. | It also provides some great debuffs. |

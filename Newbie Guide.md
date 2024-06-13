@@ -1,64 +1,19 @@
 ---
 dg-publish: true
 dg-metatags:
-  - object Object
+  og:site_name: AQW Guide
+  og:title: Newbie Guide
+  og:description: Newbie/Returning Player Guide
+  description: Newbie/Returning Player Guide
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 A Comprehensive newbie guide, starting from UI elements to a basic game play progression guide.
 
-# Settings
+Thank you to the following people for advice:
+- Shuga
+- Milenius
+- Borb
 
-
-![[Pasted image 20240606114416.png]]
-
-- Music - Opens a slider for the volume of background music. Not always consistent as I found that some maps just play music anyway even if it is at 0 (muted).
-- Sound FX - Opens a slider for the volume of Sound effects.
-- Other - Opens a slider for the volume of Other sound effects.
-- Camera Tool - Opens a UI where you can change the pose of your hero, perform emotes, checkout skill animations, change player scaling and other features. Useful for screenshots.
-- World Camera - Zoom in/out of the map you are currently in, useful for screenshots.
-- Advanced Options - Opens a UI for advanced quality of life options. 
-- Guild Manager - Opens guild menu
-- Friends list - Opens friends list 
-- Ignore list - Opens ignore list, if you dont have any ignored it will not open.
-
-![[Pasted image 20240606121459.png]]
-
-- Tooltips - During combat ability tooltips will not show up on hover
-- Goto - Stop players from using /goto command to get to you
-- Hide/Show here is only client side and doesn't effect other users. Others may still be able to see your pet.
-
-![[Pasted image 20240606121934.png]]
-- Ignoring/Accepting invites, whispers and whether profanity should be censored.
-- Censor profanity doesn't apply to all profanity.
-
----
-## Advanced Options
-
-Here are a list of recommended advanced options to enable to enhance your gameplay:
-
-- Allow Quest Log Turn-Ins - You are now able to complete quests via the questlog, instead of walking all the way back to the NPC
-- Auto-Untarget Dead Targets - Automatically untarget enemies that are dead
-- Auto-Untarget Self - Prevents you from targetting yourself, for example when you use a support skill without attacking an enemy
-- Character Select Screen - Optional setting but makes login easier and you can select between multiple characters if you have alts.
-- Chat settings 
-- Disable Red messages - So your entire chat doesn't get filled when you spam a skill on cooldown
-- Chat UI
-- Class Actives/Auras UI - You can view auras/buffs/debuffs underneath the player portrait UI and enemy portrait UI. 
-- Custom drops UI - A less intrusive UI for drops
-- Invert menu
-- Opened menu
-- Draggable mode 
-- Disable damage strobe - Disabling the annoying flash when hitting an enemy and getting hit by one
-- Disable Self animations - Optional, disables movement animations. For performance.
-- Disable monster animations - Optional, disables monster attack animations. For performance.
-- Disable skill animations - Optional, for performance.
-- Disable weapon animations - Optional, for performance.
-- Freeze/Lock monster position - Convenient for majority of situations, so monster doesn't move around so much.
-- Hide healing bubbles
-- Quest Pinner - Being able to now pin quests, using the exclamation mark by the player portrait to access pinned quests.
-- Reaccept Quest after turn-in - Optional, this is optimal for farming situations where you are required to accept a quest multiple times. Alongside Quest Log turn-ins you can complete quests while you continue to farm.
-- Visual Skill CDs - Shows cooldown interval when a skill is on cooldown.
-
----
 # User Interface
 
 ![[Pasted image 20240605215029.png]]
@@ -84,7 +39,6 @@ Here are a list of recommended advanced options to enable to enhance your gamepl
 
 - This is the skills UI. It shows you the skills you can use. By hovering over each skill you can view the detailed description for it. This will show the cooldown duration as well as what sort of effects this skill does.
 
- 
 ---
 # Points and Currency
  
@@ -113,7 +67,56 @@ These are the main point and currency systems in the game as of right now:
 ![[Pasted image 20240605223103.png]]
 - Adventure Coins (ACs)
 	- This is the premium currency for AQW. They are required to get certain items or some classes in the game. Around 1000 ACs are given out for free each year, and even more so during certain events like Frostval.
-	- Shown when opening your inventory.
+	- Shown when opening your inventory. 
+
+---
+# Settings
+
+
+![[Pasted image 20240606114416.png]]
+
+- Music - Opens a slider for the volume of background music. Not always consistent as I found that some maps just play music anyway even if it is at 0 (muted).
+- Sound FX - Opens a slider for the volume of Sound effects.
+- Other - Opens a slider for the volume of Other sound effects.
+- Camera Tool - Opens a UI where you can change the pose of your hero, perform emotes, checkout skill animations, change player scaling and other features. Useful for screenshots.
+- World Camera - Zoom in/out of the map you are currently in, useful for screenshots.
+- Advanced Options - Opens a UI for advanced quality of life options. 
+- Guild Manager - Opens guild menu
+- Friends list - Opens friends list 
+- Ignore list - Opens ignore list, if you dont have any ignored it will not open.
+
+![[Pasted image 20240606121459.png]]
+
+- Tooltips - During combat ability tooltips will not show up on hover
+- Goto - Stop players from using /goto command to get to you
+- Hide/Show here is only client side and doesn't effect other users. Others may still be able to see your pet.
+
+![[Pasted image 20240606121934.png]]
+- Ignoring/Accepting invites, whispers and whether profanity should be censored.
+- Censor profanity doesn't apply to all profanity.
+
+---
+## Advanced Options
+
+Here are a list of recommended advanced options to enhance your gameplay, anything classed as optional are means to enhance performance or are simply situational. 
+
+| Recommended                                                                                                                                                                                                   | Optional                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Allow Quest Log Turn-Ins**<br><br>You can now complete quests via the questlog, instead of walking all the way back to your NPC.                                                                            | **Character Select Screen**<br><br>Provides little gameplay improvements, is simply easier to login initially. You can also select between multiple alts. An unintended feature is that this allows you to attempt to join a full server each time you hit play, whereas through the regular UI you are blocked from attempting to join a full server until a refresh. Basically you can join the minute a server space becomes available (idk if i explained this well). |
+| **Auto-Untarget Dead Targets**<br><br>Can optimise farming, as you are untargetting dead enemies faster.                                                                                                      | **Disable Self Animations**<br><br>Disables certain movement animations for the sake of performance.                                                                                                                                                                                                                                                                                                                                                                      |
+| **Auto-Untarget Self**<br><br>Prevents you from targetting yourself, example when using a support skill without attacking an enemy.                                                                           | **Disable Monster Animations**<br><br>Disables monster attack animations for the sake of performance.                                                                                                                                                                                                                                                                                                                                                                     |
+| **Chat Settings**<br><br>Additional chat settings alongside the new Chat UI                                                                                                                                   | **Disable Skill Animations**<br><br>Disables all skill animtions. You can select Show your skill animations only if you want to still have some beauty left.                                                                                                                                                                                                                                                                                                              |
+| **Disable Red Messages**<br><br>So when you use a skill that is on cooldown the red text doesn't appear, and hopefully your chat doesn't get flooded.                                                         | **Disable Weapon Animations**<br><br>Disable weapon attack animations                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Class Actives/Auras UI**<br><br>You can view Auras/Buffs/Debuffs under your portrait as well as the enemy portrait. Use this to track things like your Taunts (scroll of enrage - Focus), Broken Seal, etc. | **Re-accept Quest After Turn-In**<br><br>Self explanatory, very useful when farming. Can be situational, depends if you farming or not.                                                                                                                                                                                                                                                                                                                                   |
+| **Custom Drops UI**<br><br>Less intrusive drops UI, very noice AE well done.                                                                                                                                  | **Travel Menu**<br><br>Add multiple different rooms, or different private rooms, you will then be able to hop between maps using your "y" key being the default bind.                                                                                                                                                                                                                                                                                                     |
+| **Invert Menu**<br><br>So it drops downwards instead of upwards.                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Opened Menu**<br><br>Initial state is opened for drop UI.                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Draggable Mode**<br><br>So you can drag the drop UI.                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Disable Damage Strobe**<br><br>Turn off annoying flash when you get hit, or you hit an enemy.                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Freeze/Lock Monster Positions**<br><br>More convenient if the monster sticks in one place so people from far away don't aggro it and pull the boss.                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Hide Healing Bubbles**<br><br>Yes.                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Quest Pinner**<br><br>Be able to pin quests through the icon in top left of a quest window. Access pinned quests through the explanation mark in the player portrait.                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Visual Skill CDs**<br><br>So you can see cooldowns on skills.                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 
 ---
@@ -149,6 +152,12 @@ Below are a list of chat commands you can input in chat to perform an action. Yo
 | /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
 
 ---
+
+# Calendar
+
+Pretty much daily there are server-side boosts that are active when you play the game, this may be related to Gold, XP, CP, Rep, or even boosts for materials for certain farms like BLoD (Spirit Orbs) or SDKA (Dark Spirit Orbs). You can view all the calendar boosts [here](https://www.artix.com/calendar/).
+
+---
 # Story/Progression
 
 I'll try to outline some goals you should accomplish during different parts of the game. There are quite a lot of things you can do and there is no *best* way to play this game but this guide will try to help you reach endgame somewhat smoothly.
@@ -157,13 +166,37 @@ At the very start of the game focus on completing the 13 Lord of Chaos storyline
 
 Also it is suggested at this stage of the game to get yourself 1 farming class and 1 soloing class for the purpose of clearing bosses and quests. These classes are not necessarily going to be your best options but used to farm better endgame classes. Please refer to the [[Basic Class Guide#Early Game Classes|Basic Class Guide]] for more info.
 
-In the mean time you should also focus on completing the Blade of Awe. Read this [[Blade of Awe Guide]]. By completing the Blade of Awe you can obtain some awe enhancements, these are enhancements that have special effects and are used to 
+In the mean time you should also focus on completing the Blade of Awe. Read this [[Blade of Awe Guide]]. By completing the Blade of Awe you can obtain some awe enhancements, these are enhancements that have special effects and are used in specific situations/specific classes. This is a very short new player grind, can be completed within 30 minutes to an hour.
 
-Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get two of the most useful endgame classes, Archpaladin and Lord of Order. These two classes will be your entry into Ultras and will stick with you long into the endgame.
+You can also begin the [Doomwood Saga](http://aqwwiki.wikidot.com/story:doomwood) atleast completing upto Part 1 as this is required for BLoD/SDKA. While at the current moment I do not have an entire saga guide, however, there is [this post](https://forums2.battleon.com/f/tm.asp?m=21809672&mpage=1&key=&#21809672) on battleon forums that can be followed to complete the saga should you get stuck at any point. Only begin BLoD or SDKA when you have acquired a decent farming class, Master Ranger, Shaman, Blaze Binder, and better, are some that come to mind.
 
-You can actually do both of these farms at the same time, as Lord of Order is simply daily 10 quests and Archpaladin can be completed within a day or two.
+Another saga to get introduced with is the [/citadel](http://aqwwiki.wikidot.com/citadel) questline. This will get you introduced with the evil factions in the game, this being Nation. Legion is another faction in game, accessed in [/underworld](http://aqwwiki.wikidot.com/underworld) but joining Legion requires a bare minimum of having 1200 ACs. You spend only 120 ACs after completing the questline upto **"Fail to the King"** and selling the armour within 24 hours. The two evil factions allow you to obtain special classes, weapons and in general are very useful for those who are willing to put a little time into the game.
+
+Some returning players may not know of this but there are some new enhancements in the game named forge enhancements. These are obtained by completing [these quests](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) at [/forge](http://aqwwiki.wikidot.com/forge), and they provide enhancements similar to awe in the sense that they have special abilities. Some of these abilities activate on certain skills, and even have their own cooldowns, please read the [[Forge Guide]] for a guide to obtain a forge enhancement and their information. For now I'd suggest obtaining lacerate and the basic Forge enhancements since those are the easiest to get.
+
+Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get three of the most useful endgame classes, Archpaladin, Lord of Order, and Stonecrusher. These three classes will be your entry into Ultras and will stick with you long into the endgame.
+
+You can actually do LOO, AP, and SC all at the same time, as Lord of Order is simply daily 10 quests and Archpaladin can be completed within a day or two, whereas SC has merely three reputation requirements.
 - [[Lord of Order Guide]]
 - [[Archpaladin Guide]]
+- [[Basic Class Guide#Mid-Game Classes|SC should be located here]]
+
+In the [[Basic Class Guide]] I separate the classes into five subcategories:
+- [[Basic Class Guide#Starter Classes|Starter]]
+- [[Basic Class Guide#Early Game Classes|Early]]
+- [[Basic Class Guide#Mid-Game Classes|Middle]]
+- [[Basic Class Guide#Late-Game Classes|Late]]
+- [[Basic Class Guide#Endgame/Meta Classes|Endgame/Meta]]
+
+For the sake of simplicity in this guide, starter, early, mid and late are all associated with how far in progression you are. If you have just started the game, the [[Basic Class Guide#Starter Classes|Starter]] section is for you. 
+
+Got some basic prerequisites? Strong enough that you can farm a boss, or able to complete a short questline? You can use the [[Basic Class Guide#Early Game Classes|Early]] section.
+
+The [[Basic Class Guide#Mid-Game Classes|Middle]] section can start becoming a little vague but generally you'd have completed the 13 Lord of Chaos saga by now. Perhaps you have multiple Rank 10 reputations, or are now capable enough to start completing some questlines associated with classes.
+
+The [[Basic Class Guide#Late-Game Classes|Late]] section often has multiple prerequisites or multiple item farms, example BoA, Seppy's helm, Mysterious egg, and in general the quests are long ish and tedious, may take around 4-5 days (assuming your playing like 2-3 hours a day). Generally done at higher levels too (70+).
+
+The [[Basic Class Guide#Endgame/Meta Classes|Endgame/Meta]] section is dedicated for classes that have great ultra viability, utilised in most comps or at the very least they are considered the best in their niche or provide a unique niche. The classes listed here may be from either the Starter, Early, Mid or Late sections but they do not necessarily mean
 
 Items you should also farm in the mean time while you are waiting in-between Lord of Order:
 - [[Armour of Awe]]
@@ -172,6 +205,10 @@ Items you should also farm in the mean time while you are waiting in-between Lor
 - [[Drakath Armour]]
 - [[Boosted Weapon Guide|Some 30% or 15% Boosted Weapons]]
 
+After the 13 Lords of Chaos saga you can continue to follow the story tab for the map, or alternatively if you wish to unlock some ultras content, complete the [Shadows of War](http://aqwwiki.wikidot.com/story:shadows-of-war) and [Shadows of War II](http://aqwwiki.wikidot.com/shadows-of-war-ii) through their storyline maps for [[Ultra Tyndarius]] and [[Ultra Malgor]]. For [[Astravia Ultras#Ultra Drago|Ultra Drago]] and [[Astravia Ultras#Ultra Darkon|Ultra Darkon]] complete the [Darkon's Elegy of Madness](http://aqwwiki.wikidot.com/story:darkon-s-elegy-of-madness)(Best Saga ever).
+
+*Not really done with this section but yee*
+
 Once you have obtained Lord of Order or Archpaladin (both preferably) you will now be able to enter ultras and be useful! You will be required to first complete the /timeinn questline, this can be done using your Archpaladin class but you may need some extra help for bosses like Engineer. Ultra Tyndarius may require you to finish the Shadows of War II questline. The following are dailies ultras you should do:
 - [[Timeinn Ultras#Ultra Ezrajal|Ultra Ezrajal]]
 - [[Timeinn Ultras#Ultra Warden|Ultra Warden]]
@@ -179,7 +216,6 @@ Once you have obtained Lord of Order or Archpaladin (both preferably) you will n
 - [[Ultra Tyndarius]]
 
 Doing the Timeinn Ultras allows you to obtain two of the easiest 51% Damage boosted weapons in the game, Exalted Apotheosis and Dual Exalted Apotheosis, being 24 and 36 dailies. This is also alongside multiple 30%, 35% and 40% boosted weapons.
-
 
 The following are Weekly Ultras and other than Nulgath have their own requirements which I will list in their guides:
 - [[Ultra Nulgath]]

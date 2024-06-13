@@ -7,7 +7,7 @@ dg-metatags:
   description: Class usage guide for VDK
   og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
-(Guide to obtain [[Verus Doomknight Guide|Verus Doomknight here]] if you don't already have it.
+Guide to obtain [[Verus Doomknight Guide|Verus Doomknight here]] if you don't already have it.
 
 Verus doomknight is an incredible simple class and takes the role of DPS/DPS Support thanks to its amazing debuffs.
 
@@ -20,7 +20,6 @@ It is recommended to use the Auras UI [[Newbie Guide#Advanced Options|advanced o
 	- All skills except auto attack grant you 1 stack of doom
 	- 10 stacks used for Unleashed Doom (5 skill)
 		- During it's activation you cannot gain stacks till the buff is over
-
 
 ![[Pasted image 20240610234842.png]]
 
