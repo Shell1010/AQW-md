@@ -1,7 +1,13 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Guide
+  og:title: Valencia Codes
+  og:description: List of Valencia codes for /museum
+  description: List of Valencia codes for /museum
+  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
-This is a list of all working codes from valencia, not currently implemented but I'll try make a script to manually update this through github actions.
+This is a list of all working codes from valencia, not currently implemented but I'll try make a script to automatically update this through github actions.
 
 - **W1shb0n3** - Blackened Turdraken Assassin
 - **Oicu812**- Beckett Shop (Skullwraith)

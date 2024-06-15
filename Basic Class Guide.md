@@ -2,16 +2,16 @@
 dg-publish: true
 dg-metatags:
   og:site_name: AQW Guide
-  og:title: Class Enhancement Guide
-  og:description: A basic class enhancement guide
-  description: A basic class enhancement guide
+  og:title: Class Progression/Enhancement Guide
+  og:description: A class progression and enhancement guide
+  description: A class progression and enhancement guide
   og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 
 Any enhancement recommendations I reference here will be from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wupDvLuPnRC0fF0aNPc7rzrri7X1YcYy7S2s5Z6o_F4/edit#gid=181595567), with thanks to the following people:
 - Bootiest (Zeukro/Falcude)
 - Thae
-- Shuga
+- Shuga (Red Sugar)
 - RNA
 - Argleblargle
 - Halli606

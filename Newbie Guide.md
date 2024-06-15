@@ -10,7 +10,7 @@ dg-metatags:
 A Comprehensive newbie guide, starting from UI elements to a basic game play progression guide.
 
 Thank you to the following people for advice:
-- Shuga
+- Shuga (Red Sugar)
 - Milenius
 - Borb
 
