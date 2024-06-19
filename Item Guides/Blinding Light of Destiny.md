@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: BLoD Guide
   og:description: Guide to obtain the BLoD
   description: Guide to obtain the BLoD

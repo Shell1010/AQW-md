@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Forge Guide
   og:description: A Forge progression guide
   description: A Forge progression guide

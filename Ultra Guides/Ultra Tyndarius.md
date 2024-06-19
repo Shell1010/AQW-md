@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Ultra Tyndarius
   og:description: Guide to Ultra Tyndarius
   description: Guide to Ultra Tyndarius

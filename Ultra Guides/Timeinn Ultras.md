@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Timeinn Ultras
   og:description: Guide to the Timeinn Ultras
   description: Guide to the Timeinn Ultras

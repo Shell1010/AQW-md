@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Champion Drakath
   og:description: Guide to Champion Drakath
   description: Guide to Champion Drakath

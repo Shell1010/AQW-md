@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Newbie Guide
   og:description: Newbie/Returning Player Guide
   description: Newbie/Returning Player Guide

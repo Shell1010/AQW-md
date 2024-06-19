@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Astravia Ultras
   og:description: Guide to the Astravia Ultras
   description: Guide to the Astravia Ultras

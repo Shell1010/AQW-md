@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Drakath's Armour Guide
   og:description: Guide to obtain Drakath's Armour
   description: Guide to obtain Drakath's Armour

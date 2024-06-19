@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Archpaladin Usage
   og:description: Class Usage guide for Archpaladin
   description: Class Usage guide for Archpaladin
@@ -103,7 +103,7 @@ You can take a look at [[Basic Class Guide]] for a general enhancement overview 
 
 ## Gameplay/Combos
 
-Okay this class is pretty braindead, there aren't necessarily anything you need to manage other than making sure you use 5 right before 4 is about to end.
+So this class is pretty braindead, there aren't necessarily anything you need to manage other than making sure you use 5 right before 4 is about to end.
 
 - Use 3 before the start of the fight
 - Use 4 as your first skill

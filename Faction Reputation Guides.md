@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Faction Reputation Guides
   og:description: A guide into Faction reputations
   description: A guide into Faction reputations
@@ -49,4 +49,5 @@ This is quite a simple faction and just completing the Blade of Awe quests shoul
 - Best way to do this is through the [**"Masterful Metallurgy"**](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) quest in [/forge](http://aqwwiki.wikidot.com/forge).
 	- Do the **"Mine Crafting"** quest in [/necropolis](http://aqwwiki.wikidot.com/necropolis) and obtain iron daily.
 	- This stacks to 10 and you can turn these in during a rep boost/server rep boost for the best yield.
-- Alternatively if you have a lot of gold you can complete the [**"Interprid Investing"**](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) quest, this requires around 30 million gold with both server and rep boost on, however can require a lot more if this is not the case.
+- Alternatively if you have a lot of gold you can complete the [**"Interprid Investing"**](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) quest
+	- Requires around 30 million gold if you have boosts and server boosts both active

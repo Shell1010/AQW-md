@@ -2,10 +2,10 @@
 dg-home: true
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Welcome
-  og:description: Welcome to the guide
-  description: Welcome to the guide
+  og:description: Welcome to the hub, your guide for all things AQW
+  description: Welcome to the hub, your guide for all things AQW
   og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
 ---
 # Welcome to the site

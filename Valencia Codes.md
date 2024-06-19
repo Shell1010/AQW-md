@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 dg-metatags:
-  og:site_name: AQW Guide
+  og:site_name: AQW Hub
   og:title: Valencia Codes
   og:description: List of Valencia codes for /museum
   description: List of Valencia codes for /museum
