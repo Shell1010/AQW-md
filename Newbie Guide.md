@@ -158,6 +158,13 @@ Below are a list of chat commands you can input in chat to perform an action. Yo
 Pretty much daily there are server-side boosts that are active when you play the game, this may be related to Gold, XP, CP, Rep, or even boosts for materials for certain farms like BLoD (Spirit Orbs) or SDKA (Dark Spirit Orbs). You can view all the calendar boosts [here](https://www.artix.com/calendar/).
 
 ---
+
+# Stats and Miscellaneous Information
+
+Head to this page to learn about stats and other miscellaneous info:
+[[Stats & Misc]]
+
+---
 # Story/Progression
 
 I'll try to outline some goals you should accomplish during different parts of the game. There are quite a lot of things you can do and there is no *best* way to play this game but this guide will try to help you reach endgame somewhat smoothly.
@@ -224,3 +231,5 @@ The following are Weekly Ultras and other than Nulgath have their own requiremen
 - [[Astravia Ultras#Ultra Darkon|Ultra Darkon]]
 - [[Astravia Ultras#Ultra Drago|Ultra Drago]]
 - [[Ultra Malgor]]
+
+The guides for these Ultras are mainly through the contributions of Misfit members and some additions from Bootiest's guides. At this point onwards your goal is to finish the [[Forge Guide]] and grab all your enhancements. Grab a bunch of 51% and 75% from the [[Boosted Weapon Guide]] , grab some classes from [[Basic Class Guide#Endgame/Meta Classes]] section and sell your soul to AE.

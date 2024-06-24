@@ -24,3 +24,5 @@ When killing the blade Nulgath gains a damage boost so it is preferred to not ki
 | AP    | Valiance or Ravenous/Forge/Vainglory | Fate/Destruction Elixir + Scroll of Enrage | Role is to loop taunt nulgath with LOO.                                                               |
 | LR    | Arcana's Concerto/Wizard/Vainglory   | Sage/Malevolence Elixir + Scroll of Enrage | Role is to loop taunt nulgath with AP                                                                 |
 | LOO   | Awe Blast/Forge/Absolution           | Body/Divine Elixir + Potent Honor          | Just keep buffs up and focus nulgath.                                                                 |
+
+Alternatively DOT can swap to AF or VHL if not possible.
