@@ -210,7 +210,7 @@ Items you should also farm in the mean time while you are waiting in-between Lor
 - [[Awescended]]
 - [[Blinding Light of Destiny]]
 - [[Drakath Armour]]
-- [[Boosted Weapon Guide|Some 30% or 15% Boosted Weapons]]
+- [[Boosted Item Guide|Some 30% or 15% Boosted Weapons]]
 
 After the 13 Lords of Chaos saga you can continue to follow the story tab for the map, or alternatively if you wish to unlock some ultras content, complete the [Shadows of War](http://aqwwiki.wikidot.com/story:shadows-of-war) and [Shadows of War II](http://aqwwiki.wikidot.com/shadows-of-war-ii) through their storyline maps for [[Ultra Tyndarius]] and [[Ultra Malgor]]. For [[Astravia Ultras#Ultra Drago|Ultra Drago]] and [[Astravia Ultras#Ultra Darkon|Ultra Darkon]] complete the [Darkon's Elegy of Madness](http://aqwwiki.wikidot.com/story:darkon-s-elegy-of-madness)(Best Saga ever).
 
@@ -232,4 +232,4 @@ The following are Weekly Ultras and other than Nulgath have their own requiremen
 - [[Astravia Ultras#Ultra Drago|Ultra Drago]]
 - [[Ultra Malgor]]
 
-The guides for these Ultras are mainly through the contributions of Misfit members and some additions from Bootiest's guides. At this point onwards your goal is to finish the [[Forge Guide]] and grab all your enhancements. Grab a bunch of 51% and 75% from the [[Boosted Weapon Guide]] , grab some classes from [[Basic Class Guide#Endgame/Meta Classes]] section and sell your soul to AE.
+The guides for these Ultras are mainly through the contributions of Misfit members and some additions from Bootiest's guides. At this point onwards your goal is to finish the [[Forge Guide]] and grab all your enhancements. Grab a bunch of 51% and 75% from the [[Boosted Item Guide]] , grab some classes from [[Basic Class Guide#Endgame/Meta Classes]] section and sell your soul to AE.

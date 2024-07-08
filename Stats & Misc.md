@@ -24,12 +24,22 @@ This will entail information regarding player stats alongside some information t
 
 **Dexterity**
 - Increases Dodge to all stat models, increases Hit chance and Haste to melee and hybrid models
+	- Max dodge is considered to be 86.3%, if an enemy still hits you after having more than 86.3% dodge they probably don't miss
+	- Max Haste is 50%, meaning skill cooldowns are decreased by 50%.
 
 **Wisdom**
 - Increases Dodge to all stat models, increases Hit and Critical change to caster and hybrid luck models
 
+
 **Endurance**
 - Increases health to all stat models
+- Gives +5 HP per point
+$$
+BaseHP = (\frac{CurrenLevel - 1}{MaxLevel - 1})^{0.66}\times1640+360
+$$
+$$
+HP = Endurance \times EndMod + BaseHP
+$$
 
 **Luck**
 - Increases Hit, Haste, Dodge, Critical Chance, Critical Damage, AP to melee classes and SP to caster classes, hybrid get both AP/SP.
@@ -117,22 +127,29 @@ Enhancement type modifier values
 | Helm             | 0.25       |
 | Cape             | 0.20       |
 
-Primary stat modifier values
+Primary stat modifier values, the inaccurate ones are done by me and I am pretty sure they're correct but it's based on the values given for each enhancement and rounded to 2 DP. By adding all the modifiers they should equal 1.
 
-| Enhancement Type | STR  | INT  | END  | DEX  | WIS  | LUK  |
-| ---------------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Fighter          | 0.44 | 0    | 0.43 | 0.13 | 0    | 0    |
-| Thief            | 0.30 | 0    | 0.25 | 0.45 | 0.0  | 0    |
-| Wizard           | 0    | 0.50 | 0.10 | 0    | 0.20 | 0.20 |
-| Healer           | 0    | 0.45 | 0.40 | 0    | 0.15 | 0.00 |
-| Hybird           | 0.28 | 0.27 | 0.25 | 0.20 | 0    | 0    |
-| Lucky            | 0.10 | 0.10 | 0.10 | 0.10 | 0.10 | 0.50 |
-| Spellbreaker     | 0.00 | 0.40 | 0.20 | 0.00 | 0.30 | 0.10 |
+| Enhancement Type     | STR   | INT   | END   | DEX   | WIS   | LUK   |
+| -------------------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Fighter              | 0.44  | 0.00  | 0.43  | 0.13  | 0.00  | 0.00  |
+| Thief                | 0.30  | 0.00  | 0.25  | 0.45  | 0.00  | 0.00  |
+| Wizard               | 0.00  | 0.50  | 0.10  | 0.00  | 0.20  | 0.20  |
+| Healer               | 0.00  | 0.45  | 0.40  | 0.00  | 0.15  | 0.00  |
+| Hybrid               | 0.28  | 0.27  | 0.25  | 0.20  | 0.00  | 0.00  |
+| Lucky                | 0.10  | 0.10  | 0.10  | 0.10  | 0.10  | 0.50  |
+| Spellbreaker         | 0.00  | 0.40  | 0.20  | 0.00  | 0.30  | 0.10  |
+| Forge                | 0.25  | 0.25  | 0.00  | 0.00  | 0.00  | 0.5   |
+| Anima, Clairvoyance  | 1.35  | 0.16  | -0.90 | 0.24  | 0.16  | 0.00  |
+| Pneuma, Clairvoyance | 0.24  | 1.18  | -0.90 | 0.24  | 0.24  | 0.00  |
+| Vim, Ether           | 0.10  | 0.00  | -0.90 | 1.31  | 0.00  | 0.50  |
+| Examen, Ether        | 0.00  | 0.10  | -0.90 | 0.00  | 1.31  | 0.50  |
+| Grimskull, Hearty    | -0.11 | -0.12 | 1.59  | -0.12 | -0.12 | -0.12 |
+| Acheron, Depths      | 0.00  | 0.50  | 0.00  | 0.00  | 0.00  | 0.50  |
 
-Kind of looks pointless to have this information but it's pretty much there if you would like to figure out why the member enhances are more despite the modifier being +1. 
+Kind of looks pointless to have this information but it's pretty much there if you would like to figure out why the member enhances are more despite the modifier being +1.  Also probably on an unrelated note but dauntless uses fighter and elysium uses wizard if it wasn't already established.
 
 
-**Non-member version of Level 100 enhancement.**
+**Member version of Level 100 enhancement.**
 ![[Pasted image 20240624151123.png]]
 $$
 12 + \frac{100+5-1}{100-1}\times560 = 600.283
@@ -174,7 +191,7 @@ We can now find the true values for this enhancement.
 196.35 x 0.50 = 98.175 - LUK
 ```
 
-Basically if you have member you're 1.8 points better than a f2p player!!! This is heresy!!! P2W!!! I don't know for sure if aqw rounds values up/down in actual backend but like if they don't then yes that's a thing.
+Basically if you have member you're 1.65 points better than a f2p player!!! This is heresy!!! P2W!!! I don't know for sure if aqw rounds values up/down in actual backend but like if they don't then yes that's a thing.
 
 ---
 
@@ -198,13 +215,19 @@ $$
 
 [Referencing some data stated here](https://sites.google.com/view/aqwadvancedmechanics/creditsreferences?authuser=0)
 
-DoT/HoT refers to "Damage over Time" and "Heal over Time". They're effected by All out %, Mag out % but not effected by Phy out %. HoTs are just DoTs but in reverse so they're all effected by the same effects. Weapon Range, % Weapon Damage and Spell/Skill damage, and dps.
+DoT/HoT refers to "Damage over Time" and "Heal over Time". They're effected by All out %, Mag out %, DoT out %, but not effected by Phy out %. HoTs are just DoTs but in reverse so they're all effected by the same effects. Weapon Range, % Weapon Damage and Spell/Skill damage, and dps.
 
 **DOT/HOT Squaring**
 - When any outgoing modifier, all out, phy out, mag out, is applied before the application of a DoT/HoT, it will cause the all out to be squared during the calculation.
 - In a scenario where your base HoT with a fixed weapon is 144 using Bard, after applying drums and potent honour it should equate to 1.95x as your all out modifier. Your HoT should equate to 547, however 144 * 1.95 != 547 so there is obviously the effect of 1.95 being squared during the calculation to reach 547.
 - It is preferred to apply your buffs before applying said HoT/DoT because if you apply your buffs after the value will not be squared during calculation and just normal.
 - Applying buffs like this Buff > Dot > Buff will lead to the first buff being squared but your 2nd after the DoT will not be squared.
+
+*Squared DoT calculation*
+$$
+TotalDoT = (1 + Buffs)^2 \times UnboostedDoT
+$$
+
 
 **Physical DoTs**
 They're concerned with weapon damage and weapon dps. First you have to calculate the original HoT/DoT without buffs by dividing by the All outs, next divide by the weapon DPS.
@@ -244,7 +267,18 @@ Primarily for support classes, running an %all boosted weapon will boost your he
 When fighting an enemy, your miss chance rolls first and then the dodge chance rolls. So if you have a +100% hit chance then you will not miss, but if you stoop below, you will begin to notice that you will start missing rather than them dodging your hit.
 
 **Crit chance being dependent on Dodge chance**
-Pretty much if your enemy has a high dodge chance, your crit chance also increases, you would assume it's independent but no.
+Pretty much if your enemy has a high dodge chance, your crit chance also increases, you would assume it's independent but no. All rolls are calculated on the same hit, rolling a crit on an enemy with 80% dodge rate implies that you have already hit a high roll so are more likely to have went past the dodge threshold.
 $$
 TrueCritChance = Your Crit Chance +Enemy Dodge Chance
 $$
+
+**Different damage Boosts stacking**
+This is a known mechanic in the community but I'll add it to be thorough. Damage boosts can stack multiplicatively if they are not the same tag. So %All + %All will not work, and only the highest damage boost item will be the final boost. But having %All + %Human will make them stack multiplicatively.
+
+`51% (1.51) * 50% (1.5) = 126%`
+`75% (1.75) * 35% (1.35) = 136%`
+
+**Quest Reward drop manipulation**
+![[Pasted image 20240707230129.png]]
+If a quest states **You will receive one of the following items**, by accepting one of the drops and having it in your invetory you make the other drops guaranteed. This is a useful mechanic for certain farms, in this case the uni 34 can be obtained much easier.
+
