@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Verus Doomknight
   og:description: Class usage guide for VDK
   description: Class usage guide for VDK
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 Guide to obtain [[Verus Doomknight Guide|Verus Doomknight here]] if you don't already have it.
 

@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Awescended Guide
   og:description: Guide to obtain Awescended
   description: Guide to obtain Awescended
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 You can start these quests from [Trissa](http://aqwwiki.wikidot.com/trissa-s-quests) at the [/museum](http://aqwwiki.wikidot.com/museum) by the crossroads. These quests each have level requirements, the final quest requiring you to have level 100. Please use the [[Levelling Guide]] if needed.
 

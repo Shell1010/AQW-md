@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Faction Reputation Guides
   og:description: A guide into Faction reputations
   description: A guide into Faction reputations
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
 

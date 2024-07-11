@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Ultra Dage
   og:description: Guide to Ultra Dage
   description: Guide to Ultra Dage
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 With this boss you can't really heal with regular heals or HoT due to its decay debuff, you can if you time it but you risk killing your party. You can use Auras UI and monitor the decay debuff, but the window to heal is absolutely tiny. It is recommended to use health vamp here but if your class does a "lifesteal-esque" heal you will not need health vamp.
 

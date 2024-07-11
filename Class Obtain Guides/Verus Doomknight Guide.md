@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Verus Doomknight Guide
   og:description: Guide to obtain Verus Doomknight
   description: Guide to obtain Verus Doomknight
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
 Not really any main prerequisites, just that you must be level 40 and by the final quest, level 80. This is an endgame class so you should have probably met that threshold by now.

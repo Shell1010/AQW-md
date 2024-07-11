@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Sepulchure Guide
   og:description: Guide to obtain sepulchure's helm
   description: Guide to obtain sepulchure's helm
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 These are the following prerequisites for this quest. For Rank 10 Evil, please check the [[Faction Reputation Guides]] for more help on this:
 - Throne of Darkness saga completed

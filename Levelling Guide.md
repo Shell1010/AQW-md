@@ -5,7 +5,7 @@ dg-metatags:
   og:title: XP Guide
   og:description: Guide to obtain XP optimally
   description: Guide to obtain XP optimally
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
 Here are some locations to level up fast.

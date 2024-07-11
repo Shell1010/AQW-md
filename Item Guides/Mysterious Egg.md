@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Mysterious Egg Guide
   og:description: Guide to obtain the Mysterious Egg
   description: Guide to obtain the Mysterious Egg
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This is an item required for multiple farms so it is pretty much required for progression. Use the buy back if you already farmed this item before or used it in a quest.
 

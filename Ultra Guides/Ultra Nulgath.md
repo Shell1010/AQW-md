@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Ultra Nulgath
   og:description: Guide to Ultra Nulgath
   description: Guide to Ultra Nulgath
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 When killing the blade Nulgath gains a damage boost so it is preferred to not kill the blade too often, just right before he nukes the lobby would work. The blade nukes every 45 seconds so it is preferred for the DPS to focus on the blade if it is still not dead by 30 seconds.
 

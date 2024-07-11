@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Blade of Awe Guide
   og:description: Guide to obtain the Blade of Awe
   description: Guide to obtain the Blade of Awe
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 You can always refer back to the [wiki](http://aqwwiki.wikidot.com/valencia-s-quests) but this guide should be concise enough for you. This item is integral for a variety of grinds and provides you with some useful awe enhancements.
 

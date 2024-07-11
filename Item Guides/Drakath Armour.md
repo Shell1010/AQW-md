@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Drakath's Armour Guide
   og:description: Guide to obtain Drakath's Armour
   description: Guide to obtain Drakath's Armour
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This is going to be quite a simple guide as the items to get the armour are a combination of other grinds. Utilise the buy back feature in your account manager if needed. You must have completed the [**"Final Showdown"**](http://aqwwiki.wikidot.com/final-showdown-s-quest) quest.
 

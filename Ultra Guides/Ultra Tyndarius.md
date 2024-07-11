@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Ultra Tyndarius
   og:description: Guide to Ultra Tyndarius
   description: Guide to Ultra Tyndarius
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This fight is pretty simple and can be completed in 2-3 minutes should everyone accomplish their roles adequately. The Dragon of Time is meant to taunt if you are not using pots, with pots you will burst it down fast enough that it is not needed.
 

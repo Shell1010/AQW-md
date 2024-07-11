@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Valencia Codes
   og:description: List of Valencia codes for /museum
   description: List of Valencia codes for /museum
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This is a list of all working codes from valencia, not currently implemented but I'll try make a script to automatically update this through github actions.
 

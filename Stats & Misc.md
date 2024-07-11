@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Stats and Misc Guides
   og:description: Player stats and other miscellaneous information 
   description: Player stats and other miscellaneous information 
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This will entail information regarding player stats alongside some information that may not necessarily fall into other guide sections. Here are some abbreviations so you don't get lost:
 - AP - Attack Power

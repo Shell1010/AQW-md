@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Boosted Weapon guides
   og:description: Guide for all Boosted Weapons
   description: Guide for all Boosted Weapons
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This list will merely display some of the damage boosted items in the game that can be obtained. For context damage boosts stack as long as they are not the same type of damage boost, so for example %All + %All will not stack and simply have the highest percent as the boost.
 

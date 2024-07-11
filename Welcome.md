@@ -6,7 +6,7 @@ dg-metatags:
   og:title: Welcome
   og:description: Welcome to the hub, your guide for all things AQW
   description: Welcome to the hub, your guide for all things AQW
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 # Welcome to the site
 

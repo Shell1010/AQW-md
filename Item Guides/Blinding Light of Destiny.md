@@ -5,7 +5,7 @@ dg-metatags:
   og:title: BLoD Guide
   og:description: Guide to obtain the BLoD
   description: Guide to obtain the BLoD
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 For the Blinding Light of Destiny the two main prerequisites you should have completed are Doomwood Part 1 and have the [Reinforced Badge](http://aqwwiki.wikidot.com/bolbadge:20) (slay 100 undead in Screen 4 of [Doomwood Forest](http://aqwwiki.wikidot.com/doomwood-forest)). 
 

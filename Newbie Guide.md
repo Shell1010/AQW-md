@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Newbie Guide
   og:description: Newbie/Returning Player Guide
   description: Newbie/Returning Player Guide
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 A Comprehensive newbie guide, starting from UI elements to a basic game play progression guide.
 
@@ -167,7 +167,8 @@ Head to this page to learn about stats and other miscellaneous info:
 ---
 # Story/Progression
 
-I'll try to outline some goals you should accomplish during different parts of the game. There are quite a lot of things you can do and there is no *best* way to play this game but this guide will try to help you reach endgame somewhat smoothly.
+I'll try to outline some goals you should accomplish during different parts of the game. There are quite a lot of things you can do and there is no *best* way to play this game but this guide will try to help you reach endgame somewhat smoothly. 
+## Early game - Humble Beginnings
 
 At the very start of the game focus on completing the 13 Lord of Chaos storyline. Generally it is a good idea to power level to 30 so that bosses are not too difficult for you at this stage of the game. Please refer to the [[Levelling Guide]] and [[Gold Guide]] if needed. 
 
@@ -180,8 +181,9 @@ You can also begin the [Doomwood Saga](http://aqwwiki.wikidot.com/story:doomwood
 Another saga to get introduced with is the [/citadel](http://aqwwiki.wikidot.com/citadel) questline. This will get you introduced with the evil factions in the game, this being Nation. Legion is another faction in game, accessed in [/underworld](http://aqwwiki.wikidot.com/underworld) but joining Legion requires a bare minimum of having 1200 ACs. You spend only 120 ACs after completing the questline upto **"Fail to the King"** and selling the armour within 24 hours. The two evil factions allow you to obtain special classes, weapons and in general are very useful for those who are willing to put a little time into the game.
 
 Some returning players may not know of this but there are some new enhancements in the game named forge enhancements. These are obtained by completing [these quests](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) at [/forge](http://aqwwiki.wikidot.com/forge), and they provide enhancements similar to awe in the sense that they have special abilities. Some of these abilities activate on certain skills, and even have their own cooldowns, please read the [[Forge Guide]] for a guide to obtain a forge enhancement and their information. For now I'd suggest obtaining lacerate and the basic Forge enhancements since those are the easiest to get.
+## Mid Game - Rising Competence
 
-Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get three of the most useful endgame classes, Archpaladin, Lord of Order, and Stonecrusher. These three classes will be your entry into Ultras and will stick with you long into the endgame.
+Once you have finished with the 13 Lord of Chaos Saga I would suggest starting to get three of the most useful endgame classes, Archpaladin, Lord of Order, and Stonecrusher. These three classes will be your entry into Ultras and will stick with you long into the endgame. They are relatively easy to obtain.
 
 You can actually do LOO, AP, and SC all at the same time, as Lord of Order is simply daily 10 quests and Archpaladin can be completed within a day or two, whereas SC has merely three reputation requirements.
 - [[Lord of Order Guide]]
@@ -212,7 +214,9 @@ Items you should also farm in the mean time while you are waiting in-between Lor
 - [[Drakath Armour]]
 - [[Boosted Item Guide|Some 30% or 15% Boosted Weapons]]
 
-After the 13 Lords of Chaos saga you can continue to follow the story tab for the map, or alternatively if you wish to unlock some ultras content, complete the [Shadows of War](http://aqwwiki.wikidot.com/story:shadows-of-war) and [Shadows of War II](http://aqwwiki.wikidot.com/shadows-of-war-ii) through their storyline maps for [[Ultra Tyndarius]] and [[Ultra Malgor]]. For [[Astravia Ultras#Ultra Drago|Ultra Drago]] and [[Astravia Ultras#Ultra Darkon|Ultra Darkon]] complete the [Darkon's Elegy of Madness](http://aqwwiki.wikidot.com/story:darkon-s-elegy-of-madness)(Best Saga ever).
+After the 13 Lords of Chaos saga you can continue to follow the story tab for the map, or alternatively if you wish to unlock some ultras content, complete the [Shadows of War](http://aqwwiki.wikidot.com/story:shadows-of-war) and [Shadows of War II](http://aqwwiki.wikidot.com/shadows-of-war-ii) through their storyline maps for [[Ultra Tyndarius]] and [[Ultra Malgor]]. For [[Astravia Ultras#Ultra Drago|Ultra Drago]] and [[Astravia Ultras#Ultra Darkon|Ultra Darkon]] complete the [Darkon's Elegy of Madness](http://aqwwiki.wikidot.com/story:darkon-s-elegy-of-madness) (best Saga ever). It is recommended to progress somewhat on the [[Forge Guide]], with atleast having completed the helmet forge enhancements and finishing up the cape forge enhancements. 
+
+## Late Game - Mastery Unlocked
 
 *Not really done with this section but yee*
 
@@ -232,4 +236,6 @@ The following are Weekly Ultras and other than Nulgath have their own requiremen
 - [[Astravia Ultras#Ultra Drago|Ultra Drago]]
 - [[Ultra Malgor]]
 
-The guides for these Ultras are mainly through the contributions of Misfit members and some additions from Bootiest's guides. At this point onwards your goal is to finish the [[Forge Guide]] and grab all your enhancements. Grab a bunch of 51% and 75% from the [[Boosted Item Guide]] , grab some classes from [[Basic Class Guide#Endgame/Meta Classes]] section and sell your soul to AE.
+The guides for these Ultras are mainly through the contributions of Misfit members and some additions from Bootiest's guides. At this point onwards yCOPour goal is to finish the [[Forge Guide]] and grab all your enhancements. Grab a bunch of 51% and 75% from the [[Boosted Item Guide]] , grab some classes from [[Basic Class Guide#Endgame/Meta Classes|Endgame/Meta Classes]] section and sell your soul to AE. It is recommended to obtain more classes for more variety/versatility during ultras, it will allow you to play as different roles and generally will improve your experience having a variety to choose from. 
+
+It is also recommended to start finishing up the final enhancements listed in the [[Forge Guide]]. At this point this should only be the weapon enhancements, so Elysium onwards. You can also go for optional enhancements like Acheron (requires you to spend money), and hearty, but by this point it is recommended to finish up the last few enhancements listed.

@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Arcana Invoker Guide
   og:description: Guide to obtain Arcana Invoker
   description: Guide to obtain Arcana Invoker
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 itThe two main prerequisites for this class is that you must be level 80 and have finished the darkon's elegy questline. This class is quite tedious to farm, each of the materials pretty much has atleast 1 low droprate item you have to farm, however you can skip this with 80 drago or darkon insignias (obtained from [[Astravia Ultras]]). You can use either insignia, and if you were to only do ultras from scratch it would take 8 weeks from the weekly ultras. But this can be shortened through farming the items manually with the [resource shop](http://aqwwiki.wikidot.com/arcana-invoker-resource-shop).
 

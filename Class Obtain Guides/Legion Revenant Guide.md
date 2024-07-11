@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Legion Revenant Guide
   og:description: Guide to obtain Legion Revenant
   description: Guide to obtain Legion Revenant
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 Thanks to the introduction of ultras this class' farm has significantly reduced in time, people can no life this and finish in 3 days or 1-2 weeks depending on when you started. The 3 days feat is only possible where you started farming on a thursday, doing [[Ultra Dage]] on reset also.
 

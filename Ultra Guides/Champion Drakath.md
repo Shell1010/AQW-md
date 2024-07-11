@@ -5,7 +5,7 @@ dg-metatags:
   og:title: Champion Drakath
   og:description: Guide to Champion Drakath
   description: Guide to Champion Drakath
-  og:image: https://cdn.discordapp.com/icons/203072919616618496/f98d38c50b06972678eaaa1aa2c0cedf.png
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 Probably slightly longer ultra on this list without a proper comp. Requires strict timing and some mana reduction classes. Every 2 million HP the boss sends out a nuke and gets stronger, it is recommended to taunt this so it hits 1 player instead of all 4 in the party. He also gets stronger each time he does the nuke so if a taunt is missed it is recommended to reset. It is not required to taunt on 10 million hp.
 
