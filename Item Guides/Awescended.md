@@ -60,7 +60,7 @@ Requires level 25
 
 Requires level 50
 This is one of the more difficult quests if you have to farm the items from scratch, if you have already farmed these items utilise your buy back in manage account.
-- **"The Supreme Arcane Staff"**
+- **"Artifact Hunting"**
 	- Grab "The Supreme Arcane Staff" from killing Ledgermayne at [/ledgermayne](http://aqwwiki.wikidot.com/ledgermayne-location). This is a 1% drop.
 	- Grab the [Blinding Light of Destiny Handle](http://aqwwiki.wikidot.com/blinding-light-of-destiny-handle) from Arryd in [Doomwood Forest](http://aqwwiki.wikidot.com/doomwood-forest) in the Doomwood Challenge Shop. 
 	- Get the [[Blade of Awe Guide|Blade of Awe]] by following [[Blade of Awe Guide|this guide]].
@@ -68,6 +68,8 @@ This is one of the more difficult quests if you have to farm the items from scra
 		- Complete the [/mirrorportal] quest **"Good, Evil, and Chaos Battle"** for an easier time at getting mirror tokens.
 		- Beat up Undead artix at [/overworld](http://aqwwiki.wikidot.com/overworld) till he drops his token, it is a 0.5% drop. Good luck lmao.
 	- Get 50x Mirror Shield Fragments from [/cornelis](http://aqwwiki.wikidot.com/cornelis-ruins) by defeating the Gargoyles.
+
+---
 
 Requires level 75
 Another long farm, requires you to have finished the [/hyperium](http://aqwwiki.wikidot.com/hyperium-starship) storyline so do that first.
@@ -78,6 +80,8 @@ Another long farm, requires you to have finished the [/hyperium](http://aqwwiki.
 	- Read the [[Mysterious Egg]] guide.
 	- Get the Silver Exalted Paladin armour by completing Jill'ett's quests. Specifically the [**"Final Scroll"**](http://aqwwiki.wikidot.com/jill-ette-s-quests).
 	- Complete the ["**Cannon Restoration**"](http://aqwwiki.wikidot.com/tek-s-quests#Repair) quest, this requires you to finish the hyperium questline.
+		- Absolutely ass storyline, [refer to this](http://aqwwiki.wikidot.com/story:j6-s-saga) on the wiki to help you complete it
+		- If I’m bothered enough I’ll write about it
 
 ---
 

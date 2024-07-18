@@ -9,6 +9,7 @@ dg-metatags:
 ---
 
 
+
 This document will be updated as I go on but I intend to have this page be dedicated for guides to reach Rank 10 for each faction reputation. Some factions may have the option for several methods for each reputation.
 
 # Good Reputation
@@ -51,3 +52,13 @@ This is quite a simple faction and just completing the Blade of Awe quests shoul
 	- This stacks to 10 and you can turn these in during a rep boost/server rep boost for the best yield.
 - Alternatively if you have a lot of gold you can complete the [**"Interprid Investing"**](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests) quest
 	- Requires around 30 million gold if you have boosts and server boosts both active
+
+---
+# Swordhaven Reputation
+
+- Join [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon-location) and do the ultra alteon quest. Here you can also farm nulgath materials while killing alteon. 2 in 1.
+
+---
+# Chaos Reputation
+
+- Join [/mountdoomskull](http://aqwwiki.wikidot.com/mount-doomskull-location) and complete [**"Embrace your Chaos"**](http://aqwwiki.wikidot.com/loremaster-maya-s-quests#2) quests till reaching Rank 10.

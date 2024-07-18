@@ -10,8 +10,6 @@ dg-metatags:
 
 Here are some locations to level up fast.
 
-*If someone can give like a XP per second value that'd be cool, but otherwise are there any other meta places for XP?*
-
 | Level  | Location        | Extra Information                                                                                                                                                                                                                        |
 | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-55   | /firewar        | Kill enemies and mass turn-in quests. Usually a group is available in servers like Yorumi and Artix.                                                                                                                                     |

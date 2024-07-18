@@ -28,7 +28,7 @@ This will entail information regarding player stats alongside some information t
 	- Max Haste is 50%, meaning skill cooldowns are decreased by 50%.
 
 **Wisdom**
-- Increases Dodge to all stat models, increases Hit and Critical change to caster and hybrid luck models
+- Increases Dodge to all stat models, increases Hit and Critical chance to caster and hybrid luck models
 
 
 **Endurance**
@@ -245,7 +245,7 @@ $$
 $$
 SpellDPS = (\frac{Factor}{2000}\times 0.85 \times 100) + 0.1(Total SP)
 $$
-*If the DoT is considered refreshable,*
+*If the DoT is considered refreshable*
 $$
 WeaponDamage = WeaponDPS\times2
 $$
@@ -254,6 +254,61 @@ SpellDamage = SpellDPS\times2
 $$
 
 [More equations referencing DoTs here](https://sites.google.com/view/aqwadvancedmechanics/home/dothot-formulae/dot-hot-equations/collection-of-dot-equations?authuser=0) 
+
+---
+## Chronos and their weird intricacies
+
+*Majority of this information is from mole, slgma and other smart people in the community*
+
+Usually what defines a chrono class to other classes is that they can do big boy numbers through the use of a recorded nuke in the span of 10 seconds. All these chronos do this through the use of a variation of the “rift” skill like temporal rift, or chaos rift. They then have some form of “rift collapse” where they basically just consume all their rifts and do a nuke based on the damage they've done in these 10 seconds.
+
+Rifts at their base do two sorts of things, it controls the nuke multiplier through the amount of rift stacks. And it also starts the damage recording from the very start of the first rift being applied.
+
+All rifts stack to 4 however, each rift added will also increase the amount of damage you do from your nuke. Below is the multipliers at each stack:
+- 1 Stack = 0.5
+- 2 Stack = 0.7
+- 3 Stack = 1.0
+- 4 Stack and above = 1.5
+
+For recording damage, it only records the most recent 10 seconds. If your nuke exceeds 10 seconds, it will not add any extra damage and just waste time. [Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.][https://streamable.com/msrl8]
+
+The total damage done during that timespan is then multiplied by any additional all-out, mag-out, phy-out, dot-out (if nuke is dot) buffs, then multiplied by the rift modifiers below. I'm going to refer to the [[Shadow Stalker of Time#Extra information|SSOT Guide]] as it provides an example of how you'd calculate the final "damage recorded".
+
+Calendar Classes' Rift Mods (post-coefficient changes + post-rift multipliers) at 4 stacks:
+- CDK: 2.17
+- Chrono Commander: 1.95
+- Chrono Corruptor: 1.5
+- Chronomancer: 1.5
+- TCM: 1.95
+- IC: 2.7
+- SSoT: 0.3
+- TimeKiller: 1.5
+- Nechronomancer: 0.45
+- CSS: 0.45
+
+The values below are the coefficients, these are multiplied by the 4 stack rift multiplier to reach the modifiers above. 
+
+Calendar Classes' coefficients:
+- CDK: 1.45
+- Chrono Commander: 1.3
+- Chrono Corruptor: 1
+- Chronomancer: 1
+- TCM: 1.3
+- IC: 1.8
+- SSOT: 0.2
+- TK: 1
+- Nechronomancer:  0.3
+- CSS: 0.3
+
+You can utilise this information to understand more about your chrono, especially in bossing situations where you are in a party, you can use this information to calculate the bare minimum amount of rifts required to kill a boss and avoid wasting extra time stacking for extra farming efficiency.
+
+Example with IC:
+1 Stack: 1.8 * 0.5 = 0.9
+2 Stack: 1.8 * 0.7 = 1.26
+3 Stack: 1.8 * 1 = 1.8
+4 Stack: 1.8 * 1.5 = 2.7
+
+If you have a sort of idea of what sort of damage you're dealing at different stages of your nuke, you will not need to fully stack to deal great amounts of damage with certain classes that have high coefficients.
 
 ---
 

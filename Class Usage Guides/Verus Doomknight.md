@@ -13,7 +13,7 @@ Verus doomknight is an incredible simple class and takes the role of DPS/DPS Sup
 
 It is recommended to use the Auras UI [[Newbie Guide#Advanced Options|advanced option]] as you will be able to visibly see how many stacks you have at once.
 
-
+---
 ## Skills Overview
 
 - **Doom's All Around - Passive**

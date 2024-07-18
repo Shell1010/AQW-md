@@ -28,6 +28,7 @@ There are some mechanics to understand when using this class, and the skills hav
 			- 2 Stack = 0.7
 			- 3 Stack = 1.0
 			- 4 Stack and above = 1.5
+		- The first chaos rift is used to start the damage recording over the most recent 10 seconds.
 	- If Temporal Eclipse (5) is active, you gain Grant focus and Grant sight
 		- Lowers their dodge by 3% per stack, stacks to 5
 		- Increases your dodge by 3% per stack, stacks to 5
@@ -89,7 +90,7 @@ Skill used mainly for survivability, most combos start with this. Due to the fac
 
 Usually you shouldn't use this skill with 5 active as it will lower your survivability, since you won't be able to dodge on the next rotation. This is fine if the enemy just doesn't hit hard. 
 
-*Shuga sent some very niche weird bug thingy where nuke damage grows in double nuke when throwing this out after 5. I wasn't really able to replicate this.*
+*Shuga sent some very niche weird bug thingy where nuke damage grows in double nuke when throwing this out after 5. I wasn't really able to replicate this, but just know it exists.*
 
 ---
 
@@ -145,6 +146,8 @@ Rifts multiplier stacks like this:
 
 SSOT/SWOT has an all out passive of 112%
 According to Mole, the class has a base DoT coefficient of 0.2
+
+[[Stats & Misc#Chronos and their weird intricacies|Refer to this for more specific information on chronos]]
 
 With this information we can use this to calculate the modifier used to calculate the modifier for nuke damage.
 

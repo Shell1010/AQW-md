@@ -8,7 +8,7 @@ dg-metatags:
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
-This class is pretty simple to obtain, you can get it from [/curio](http://aqwwiki.wikidot.com/curiosities) for 2400 ACs (buying each orb) or with membership you can farm each of the reputations associated with each orb.
+Legendary Elemental Warrior (LEW) is pretty simple to obtain, you can get it from [/curio](http://aqwwiki.wikidot.com/curiosities) for 2400 ACs (buying each orb) or with membership you can farm each of the reputations associated with each orb.
 
 This class is a decent DPS soloer with great single target farming capabilities due to its high damage output. It is incredibly unique in terms of how it behaves, you are required to utilise different skill combos for different effects.
 
