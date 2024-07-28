@@ -25,7 +25,7 @@ This class is a decent DPS soloer with great single target farming capabilities 
 
 ![[Pasted image 20240619113022.png]]
 - **Elemental Invocation**
-	- Hybrid Attack
+	- Hybrid Attack / 1.2 APSP2
 	- Medium Range
 	- 4 second cooldown, 2 seconds at max haste
 	- Uses 6 mana
@@ -40,7 +40,7 @@ Skill that applies elemental power which is used for your other elemental skills
 
 ![[Pasted image 20240619113316.png]]
 - **Blaze**
-	- Hybrid Attack
+	- Hybrid Attack / 1.9 APSP2
 	- Medium Range
 	- 4 second cooldown, 2 seconds at max haste
 	- Uses 10 mana
@@ -56,7 +56,7 @@ This would be considered your main damage dealer. And usually damage related com
 
 ![[Pasted image 20240619113712.png]]
 - **Stoneskin**
-	- Hybrid Heal
+	- Hybrid Heal / -0.5 Pyro1
 	- Short Range
 	- 4 second cooldown, 2 seconds at max haste
 	- Uses 12 mana
@@ -72,7 +72,7 @@ Used to heal, usually used with earth + fire then energy + earth.
 
 ![[Pasted image 20240619114055.png]]
 - **Voltaic Overlord**
-	- Hybrid Attack
+	- Hybrid Attack / 12 intMP
 	- Medium Range
 	- 6 second cooldown, 3 second at max haste
 	- Uses 12 mana

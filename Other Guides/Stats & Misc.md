@@ -270,9 +270,9 @@ All rifts stack to 4 however, each rift added will also increase the amount of d
 - 3 Stack = 1.0
 - 4 Stack and above = 1.5
 
-For recording damage, it only records the most recent 10 seconds. If your nuke exceeds 10 seconds, it will not add any extra damage and just waste time. [Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.][https://streamable.com/msrl8]
+For recording damage, it only records the most recent 10 seconds. If your nuke exceeds 10 seconds, it will not add any extra damage and just waste time. [Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.](https://streamable.com/msrl8)
 
-The total damage done during that timespan is then multiplied by any additional all-out, mag-out, phy-out, dot-out (if nuke is dot) buffs, then multiplied by the rift modifiers below. I'm going to refer to the [[Shadow Stalker of Time#Extra information|SSOT Guide]] as it provides an example of how you'd calculate the final "damage recorded".
+The total damage done during that timespan is then multiplied by any additional all-out, mag-out, phy-out, dot-out (if nuke is dot) buffs, then multiplied by the rift modifiers below. I'm going to refer to the [[Shadow Stalker of Time#Extra information|SSOT Guide]] as it provides an example of how you'd calculate the final "damage recorded". Divide the damage recorded by any outgoing damage modifiers **BEFORE** putting in the multiplier for nukes, as nukes record the raw damage unaffected by outgoing damage modifiers. The only modifier that is considered to be part of the raw damage would be crit modifiers.
 
 Calendar Classes' Rift Mods (post-coefficient changes + post-rift multipliers) at 4 stacks:
 - CDK: 2.17
@@ -302,6 +302,8 @@ Calendar Classes' coefficients:
 
 You can utilise this information to understand more about your chrono, especially in bossing situations where you are in a party, you can use this information to calculate the bare minimum amount of rifts required to kill a boss and avoid wasting extra time stacking for extra farming efficiency.
 
+It’s good to know that damage boosts scale even higher with chronos, the 75% + 35% combo is especially deadly at reaching extra high nukes.
+
 Example with IC:
 1 Stack: 1.8 * 0.5 = 0.9
 2 Stack: 1.8 * 0.7 = 1.26
@@ -309,6 +311,28 @@ Example with IC:
 4 Stack: 1.8 * 1.5 = 2.7
 
 If you have a sort of idea of what sort of damage you're dealing at different stages of your nuke, you will not need to fully stack to deal great amounts of damage with certain classes that have high coefficients.
+
+I’ve created a [google sheet](https://docs.google.com/spreadsheets/d/1Na6TZo-2t053aG1lz2qJtZ8EtZvfiNqh1wxW-Tlv39Q/edit?usp=sharing) if you’d like to test out numbers for nukes on chronos. You’d have to input damage, outgoing modifiers, crit modifiers, and gear boosts. But the rest of the sheet should more or less calculate itself.
+
+---
+## Skill Functions
+
+Certain skills have different functions for damage. Screenshot below goes over some of the functions. Check the spreadsheet for a more comprehensive list.
+
+![](https://media.discordapp.net/attachments/476856315554037771/948008719768240208/Screenshot_2022-02-28-22-15-43-34.jpg?ex=66a391ab&is=66a2402b&hm=61094e79d8ca85be2ea42d62e83a714d03570f22bc917d7ebba4c3beac946f84&)
+
+This very cool [spreadsheet](![](https://docs.google.com/spreadsheets/d/1WeO37yc7UnPXCya4iiAgBZbSxpLH8nSZiPoOmWuGSuk/edit?gid=101348511#gid=101348511)) (idk who’s the owner) holds some of the functions used for each class. I don’t think it’s fully completed but if you want to be a nerd the stuff exist yes. Found some inconsistencies though, for example when I checked css it used a 1.15 Hours1 damage function but spreadsheet uses 1.05. This is probably due to the fact CSS was changed on March 8th 2024, either way it’s still a decent thing to know.
+
+(I will try make an updated version of the above spreadsheet [here](https://docs.google.com/spreadsheets/d/1wU6JlyrK_jYn5mVAzrLI4pRA4UM8LgY715kKU2U1vbQ/edit?gid=101348511#gid=101348511) but I just started so it’ll be slow)
+
+Chrono2 follows this formula and is only for chronos
+
+$$
+RecordedDamageMod = RiftMod \times Coefficient \times Outgoing Modifiers \times Incoming Modifiers \times CritMod
+$$
+
+Then the `RecordedDamageMod` is multiplied by the Raw damage, without outgoing or incoming modifiers.
+
 
 ---
 

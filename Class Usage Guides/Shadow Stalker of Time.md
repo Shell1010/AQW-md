@@ -9,7 +9,9 @@ dg-metatags:
 ---
 This guide is for the Shadow stalker of time (SSOT) class and it's variants like SWOT. This is the first chrono I'm making a guide for here, it is a great versatile class that has some average farming capabilities, alongside high DPS derived from an infinitely scaling dot nuke. It is also incredibly safe, providing a great "dodge" support for your team, with the right rotation and timing your team would basically be invincible.
 
-There are some mechanics to understand when using this class, and the skills have different abilities during the time the 5 skill is active. To note some of this information comes from mole.
+There are some mechanics to understand when using this class, and the skills have different abilities during the time the 5 skill is active. To note some of this information comes from mole and shuga.
+
+[Shuga’s amazing SWOT/SSOT guide here for another resource.](https://docs.google.com/document/d/100wt-J757ps3B2Dv-P6ZoDTFAtJi8f9gFikRbFJ3uTk/edit)
 
 *If you're buying this class, get it from /curio, you get 2 classes SSOT and SWOT, their cosmetics, for the price of 6k ACs*
 
@@ -17,7 +19,7 @@ There are some mechanics to understand when using this class, and the skills hav
 
 ![[Pasted image 20240710131730.png]]
 - **Rift of Shadows**
-	- 50% Physical Damage
+	- 50% Physical Damage / 0.5 AP2
 	- Short Range Attacka
 	- 1.2 second cooldown, 0.6 seconds at max haste
 	- Single Target
@@ -39,7 +41,7 @@ This is your auto attack which automatically stacks rifts for you, and increases
 
 ![[Pasted image 20240710132944.png]]
 - **Exude/Devour**
-	- 150% Physical Damage/Magical Damage
+	- 150% Physical Damage/Magical Damage / 1 AP2
 	- Long Range Attack
 	- 6 second cooldown, 3 seconds at max haste
 	- Uses 15 mana
@@ -53,7 +55,7 @@ Some basic damage/healing capability through DoTs and HoTs. Used to rack up more
 
 ![[Pasted image 20240710133459.png]]
 - **Vendetta/Umbral Stigma**
-	- 100% Physical Damage/Magical Damage
+	- 100% Physical Damage/Magical Damage / 1 AP2 / 0.2 Chrono2
 	- Long Range Attack
 	- 6 second cooldown, 3 seconds at max haste
 	- Uses 30 mana
@@ -65,13 +67,13 @@ Some basic damage/healing capability through DoTs and HoTs. Used to rack up more
 
 This skill before entering 5 is used to increase your all out damage on the enemy. Pretty much necessary to build higher nukes. When in 5, it deals a delayed nuke. The delay is integral to the class as it helps build more greater nukes during the next rotation, as atleast 1 auto attack will land before the nuke fully processes, meaning the nuke damage from this rotation is carried into the next.
 
-[Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.][https://streamable.com/msrl8]
+[Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.](https://streamable.com/msrl8)
 
 ---
 
 ![[Pasted image 20240710134514.png]]
 - **Silhouette/Shadow Warp**
-	- 380% Attack power as damage to self after 2 seconds
+	- 380% Attack power as damage to self after 2 seconds / 1.2 AP2
 	- 180% Physical Damage/Magical Damage
 	- 12 second cooldown, 6 seconds at max haste
 	- Uses 0 mana

@@ -17,7 +17,7 @@ It is recommended to use Auras UI in the [[Newbie Guide#Advanced Options|advance
 
 ![[Pasted image 20240608192240.png]]
 - **Commandment**
-	- 135% Hybrid Damage
+	- 135% Hybrid Damage / 1.5 EX1
 	- Long Range Attack
 	- 5 second cooldown, 2.5 seconds at max haste
 	- Uses 10 mana
@@ -37,7 +37,7 @@ There is a misconception that these stacks disappear whenever you use your 5 ski
 
 ![[Pasted image 20240608192715.png]]
 - **Hymn of Light**
-	- 660% Hybrid Heal (been reduced by an unknown amount in design notes)
+	- 660% Hybrid Heal (been reduced by an unknown amount in design notes) / -3.8 APSP1
 	- Long Range Skill
 	- 10 second cooldown, 5 seconds at max haste
 	- Uses 40 mana
@@ -52,7 +52,7 @@ This skill is mainly used before starting a fight, granting you and your allies 
 
 ![[Pasted image 20240608193810.png]]
 - **Righteous Seal**
-	- 135% Hybrid
+	- 135% Hybrid / 1.35 APSP2
 	- Long Range Attack
 	- 25 second cooldown, 12.5 seconds at max haste
 	- Uses 20 mana
@@ -69,7 +69,7 @@ In the past you were able to easily loop this skill before the archpaladin rewor
 ![[Pasted image 20240608194606.png]]
 
 - **Sacred Magic: Eden**
-	- 475% Hybrid
+	- 475% Hybrid Damage / 5.5 Pyro1
 	- Long Range Attack
 	- 25 second cooldown, 12.5 seconds at max haste
 	- Uses 40 mana

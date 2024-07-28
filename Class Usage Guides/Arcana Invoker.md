@@ -17,7 +17,7 @@ It is recommended to use Auras UI in the [[Newbie Guide#Advanced Options|advance
 
 ![[Pasted image 20240712175031.png]]
 - **The Beginning and the End**
-	- 222% Magical Damage
+	- 222% Magical Damage / 2.22 Legend1
 	- Infinite Range Attack
 	- 5 second cooldown, 2.5 seconds at max haste
 	- Uses 0 mana
@@ -39,7 +39,7 @@ When "The World" is about to end, you can use this again to reset the cycle and 
 
 ![[Pasted image 20240712180019.png]]
 - **Arcana Invocation**
-	- 100% Hybrid Damage
+	- 100% Hybrid Damage / 1 Spell1
 	- Infinite Range Attack
 	- 3 second cooldown, 1.5 seconds at max haste
 	- Uses 0 mana
@@ -79,7 +79,7 @@ Each arcana has the same effects of the previously summoned arcana, even though 
 
 ![[Pasted image 20240712181816.png]]
 - **Arcana Revocation**
-	- 80% Magical Damage
+	- 80% Magical Damage / 0.8 Legend1
 	- Infinite Range Attack
 	- - 3 second cooldown, 1.5 seconds at max haste
 	- Uses 40 mana
@@ -117,8 +117,8 @@ The impact to DPS from just mindlessly spamming vs the above isn't too different
 ---
 
 ![[Pasted image 20240712183721.png]]
-- **One with the Cycle**
-	- 20% Magical Damage
+- **One with the Cycle** 
+	- 20% Magical Damage / 0.2 EEAPSP
 	- Infinite Range Attack
 	- 9 second cooldown, 4.5 seconds at max haste
 	- Uses 0 mana

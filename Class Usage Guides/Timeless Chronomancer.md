@@ -30,7 +30,7 @@ With thanks to the following for extra information:
 ![[Pasted image 20240715151723.png]]
 
 - **Corrupted Sand Strike - Auto Attack**
-	- 100% Weapon Damage (Physical)
+	- 100% Weapon Damage (Physical) / 1 AP2
 	- Short Range Attack
 	- 2 second cooldown, 1 seconds at max haste
 	- Single Target
@@ -48,7 +48,7 @@ This is your auto attack which tends to do the most damage outside of your nuke,
 
 ![[Pasted image 20240715152710.png]]
 - **Sand Rift**
-	- Hybrid Damage
+	- Hybrid Damage / 0.1  APSP2
 	- Short Range Attack
 	- 2.5 second cooldown, 1.25 seconds at max haste
 	- Uses 15 mana
@@ -68,7 +68,7 @@ This skill is used to stack temporal rifts for your nuke as well as starting the
 
 ![[Pasted image 20240715153911.png]]
 - **Hourglass Inversion**
-	- Hybrid Heal
+	- Hybrid Heal / -3 Spell1
 	- Infinite Range Attack
 	- 8 second cooldown, 4 seconds at max haste
 	- Single Target
@@ -118,7 +118,7 @@ This skill is usually what you start every rotation with due to the buffs it app
 
 ![[Pasted image 20240715162104.png]]
 - **Temporal Collapse**
-	- Magical Damage
+	- Magical Damage / 1.3 Chrono2
 	- Short Range Attack
 	- 15 second cooldown, 7.5 seconds at max haste
 	- Uses 35 mana

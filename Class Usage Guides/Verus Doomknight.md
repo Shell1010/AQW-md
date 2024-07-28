@@ -24,7 +24,7 @@ It is recommended to use the Auras UI [[Newbie Guide#Advanced Options|advanced o
 ![[Pasted image 20240610234842.png]]
 
 - **Necrotic Blade - Auto Attack**
-	- Physical Damage
+	- Physical Damage / 0.8 AP2
 	- Short Range Attack
 	- 2 second cooldown, 1 second at max haste
 	- Single target
@@ -38,7 +38,7 @@ A very useful auto attack, can make VDK survive some decently hard hitting monst
 ![[Pasted image 20240610235438.png]]
 
 - **Soul Fracture**
-	- 85% Magical Damage
+	- 85% Magical Damage / 0.85 AP2
 	- Long Range Attack
 	- 5 seconds cooldown, 2.5 seconds at max haste
 	- Uses 5 mana
@@ -56,7 +56,7 @@ Generally a good idea to use your Darkness Gathered stack on this skill as it in
 ![[Pasted image 20240611001018.png]]
 
 - **Life Carve**
-	- 95% Physical Damage
+	- 95% Physical Damage / 0.95 Leech1
 	- Long Range Attack
 	- 5 seconds cooldown, 2.5 seconds at max haste
 	- Uses 5 mana
@@ -75,7 +75,7 @@ It can be situational to use your darkness gathered stack on this skill as it pr
 ![[Pasted image 20240611000647.png]]
 
 - **Doom Spikes**
-	- 90% Physical Damage
+	- 90% Physical Damage / 0.9 AP2
 	- Long range Attack
 	- 5 seconds cooldown, 2.5 seconds at max haste
 	- Uses 10 mana
@@ -93,7 +93,7 @@ The darkness gathered buff here can be usefull too as it provides 15% outgoing d
 ![[Pasted image 20240611002022.png]]
 
 - **Unleash Doom**
-	- 120% Magical Damage
+	- 120% Magical Damage / 1.2 Hours1
 	- Long range Attack
 	- 10 seconds cooldown, 5 seconds at max haste
 	- Uses 8 mana
