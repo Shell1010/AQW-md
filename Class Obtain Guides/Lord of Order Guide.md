@@ -112,4 +112,4 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Remember to select the Lord of Order class, or you'll have to wait another day.
 
 
-I don't feel like I should make a guide for this class as it is very braindead, just make sure your buffs do not fade when using the class. For enhancements read [[Basic Class Guide]].
+I don't feel like I should make a usage guide for this class as it is very braindead, just make sure your buffs do not fade when using the class. For enhancements read [[Basic Class Guide]].

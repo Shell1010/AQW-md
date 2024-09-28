@@ -211,6 +211,50 @@ $$
 
 ---
 
+## Stat Caps
+
+Caps for each stat below. 
+
+- Damage Resistance: 80% (0.2 All In)
+- Damage Boost: -90% (0.1 All Out)
+- Physical Resistance: 80% (0.2 Phys In)
+- Physical Boost: not capped
+- Magical Resistance: 80% (0.2 Mag In)
+- Magical Boost: has a cap, but because of weird circumstances regarding the magical damage type, it actually doesn't matter
+- Healing intake: not capped (you can have negative healing intake and take damage from healing sources)
+- Healing boost: unknown, pretty much irrelevant if it is or not, we just haven't been able to confirm it yet with current tools
+- DoT resist: 80% (0.2 DoT In)
+- DoT boost: Unknown
+- Haste: 50% (1.5 Haste)
+
+---
+
+## Monster Secondary Stats
+
+Assuming no other skills passives or mechanics are present Monster Secondary Stats: 
+- Hit chance: 90% 
+- Haste: 37.5% 
+- Crit chance: 15% 
+- Evasion: 10% 
+- Crit Mod: 200% 
+- Base auto cd: 4s 
+- Base damage range: 27-33
+
+---
+
+## Character Secondary Stats
+
+This is base stats without additions from stats from enhancements.
+
+- Hit Chance: 90%
+- Crit Chance: 5%
+- Crit Multiplier: 150%
+- Dodge Chance: 4%
+- Haste: 0%
+- Health: 1640*((Level-1)/99)^0.66+360
+- All Ins and Outs: 100%
+
+---
 ## DoT/HoT Mechanics
 
 [Referencing some data stated here](https://sites.google.com/view/aqwadvancedmechanics/creditsreferences?authuser=0)
@@ -255,6 +299,19 @@ $$
 
 [More equations referencing DoTs here](https://sites.google.com/view/aqwadvancedmechanics/home/dothot-formulae/dot-hot-equations/collection-of-dot-equations?authuser=0) 
 
+**Dynamic and Static stats**
+
+Stats that are dynamic means it’ll calculate per tick, and static meaning on initial application.
+
+- all out - dynamic & static
+- all in - dynamic 
+- mag out - dynamic
+- mag in - x
+- phys out - x
+- phys in - x
+- dot out - static
+- dot in - dynamic
+
 ---
 ## Chronos and their weird intricacies
 
@@ -270,7 +327,7 @@ All rifts stack to 4 however, each rift added will also increase the amount of d
 - 3 Stack = 1.0
 - 4 Stack and above = 1.5
 
-For recording damage, it only records the most recent 10 seconds. If your nuke exceeds 10 seconds, it will not add any extra damage and just waste time. [Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.](https://streamable.com/msrl8)
+For recording damage, it only records the most recent 10 seconds. If your nuke exceeds 10 seconds, it will not add any extra damage and just waste time. [Refer to this amazing animation made by SLGMA for an example of how the damage changes if you exceed 10 seconds.](https://streamable.com/msrl8) Do understand that the damage recorded during this time period doesn’t take into outgoing modifiers. So if you did 5000 with 1.2 all out, it does 5000/1.2 and that will be your raw damage that is recorded. However, it does take into account weapon boosts and crits.
 
 The total damage done during that timespan is then multiplied by any additional all-out, mag-out, phy-out, dot-out (if nuke is dot) buffs, then multiplied by the rift modifiers below. I'm going to refer to the [[Shadow Stalker of Time#Extra information|SSOT Guide]] as it provides an example of how you'd calculate the final "damage recorded". Divide the damage recorded by any outgoing damage modifiers **BEFORE** putting in the multiplier for nukes, as nukes record the raw damage unaffected by outgoing damage modifiers. The only modifier that is considered to be part of the raw damage would be crit modifiers.
 
@@ -321,7 +378,7 @@ Certain skills have different functions for damage. Screenshot below goes over s
 
 ![](https://media.discordapp.net/attachments/476856315554037771/948008719768240208/Screenshot_2022-02-28-22-15-43-34.jpg?ex=66a391ab&is=66a2402b&hm=61094e79d8ca85be2ea42d62e83a714d03570f22bc917d7ebba4c3beac946f84&)
 
-This very cool [spreadsheet](![](https://docs.google.com/spreadsheets/d/1WeO37yc7UnPXCya4iiAgBZbSxpLH8nSZiPoOmWuGSuk/edit?gid=101348511#gid=101348511)) (idk who’s the owner) holds some of the functions used for each class. I don’t think it’s fully completed but if you want to be a nerd the stuff exist yes. Found some inconsistencies though, for example when I checked css it used a 1.15 Hours1 damage function but spreadsheet uses 1.05. This is probably due to the fact CSS was changed on March 8th 2024, either way it’s still a decent thing to know.
+This very cool [spreadsheet](https://docs.google.com/spreadsheets/d/1WeO37yc7UnPXCya4iiAgBZbSxpLH8nSZiPoOmWuGSuk/edit?gid=101348511#gid=101348511) (idk who’s the owner) holds some of the functions used for each class. I don’t think it’s fully completed but if you want to be a nerd the stuff exist yes. Found some inconsistencies though, for example when I checked css it used a 1.15 Hours1 damage function but spreadsheet uses 1.05. This is probably due to the fact CSS was changed on March 8th 2024, either way it’s still a decent thing to know.
 
 (I will try make an updated version of the above spreadsheet [here](https://docs.google.com/spreadsheets/d/1wU6JlyrK_jYn5mVAzrLI4pRA4UM8LgY715kKU2U1vbQ/edit?gid=101348511#gid=101348511) but I just started so it’ll be slow)
 

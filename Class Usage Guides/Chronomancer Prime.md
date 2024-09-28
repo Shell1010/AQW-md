@@ -12,6 +12,7 @@ Possibly one of the easiest chronos to use with great overall output. Short nuke
 Thank you to the following people for providing me with information:
 - FurianX2
 - Milenius
+- Origamipaper (happy birthday 🎂)
 
 ## Skills Overview
 

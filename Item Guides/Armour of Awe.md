@@ -39,7 +39,7 @@ Once you have these prerequisites out of the way, you can accept the Armour of A
 - **"Gauntlet of Awe"**
 	- Gauntlet Shards stack to 100 and dropped by Ultra Alteon at [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon-location).
 	- You need 25 Gauntlet Fragments to create a Gauntlet Relic.
-	- You will need a total of 150 Gauntlet Shards, turn in 100 and farm the final 50.
+	- You will need a total of 125 Gauntlet Shards, turn in 100 and farm the final 50.
 
 ---
 

@@ -229,7 +229,7 @@ Sometimes it’s just better to just pot and run [feli](http://aqwwiki.wikidot.c
 ---
 ## Extra Information
 
-Refer to the [[Stats & Misc#Chronos and their weird intricacies|Chrono Section]] for the Stats & Misc area for general information, this will be specified for TCM. This section is to tell you how to optimise damage with TCM, I will go over the base class in this section as well as under the effects of particular consumables if they effect the class nukes in any way.
+Refer to the [[Stats & Misc|Chrono Section]] for the Stats & Misc area for general information, this will be specified for TCM. This section is to tell you how to optimise damage with TCM, I will go over the base class in this section as well as under the effects of particular consumables if they effect the class nukes in any way.
 
 Chronos like TCM are literally funny number machine due to the fact they utilise so many buffs together the damage for nukes is exponential. Utilising pots and 
 

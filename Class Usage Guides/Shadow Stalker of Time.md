@@ -129,13 +129,23 @@ Generally the idea of the class in 99% of scenarios, is go into dodge, apply 2-3
 
 4-2-3-5-2-3 (Wait for 5 to expire)
 
+For a more DPS oriented playstyle without the need for dodge follow this:
+3-2-5-4-3-2 
+
+For ultras this requires you to adapt your playstyle for the type of boss, you will need to manage your 4 usage (due to the fact it taunts) and it reduces your HP. Generally not recommended in pubs.
+
+Chainkilling using SSOT utilises the below knowledge in extra information, and it's required to have atleast a bare minimum Phonor or VG in order to actually have enough all out that your nuke damage doesn't drop by too much from the next kill. Make sure you kill the boss with a DoT, because if it dies without it going off you may risk your damage resetting by the next kill. You also may need to drop some skills in order to make sure you’re still within the 10s threshold between nukes.
+
+432523 (dies) 3s to respawn
+43532 (skipped initial 2 to compensate for respawn timer)
+
 ## Extra information
 
 This section is pretty much for those who want to maximise damage and have a bit more understanding on how the class works. This will go over stuff like chainkilling and infinitely increasing damage.
 
 In 99% of scenarios, where the bosses are low to medium hp, you can get away with just having a LOO/LR as support, since the damage you do will be high enough. But for much difficult bosses like Azalith, read onwards.
 
-Refer to [[Stats & Misc#DoT/HoT Mechanics|DoT/HoT mechanics section for understanding on the mechanics]], the base is 1x. Basically it utilises these things:
+Refer to [[Stats & Misc|DoT/HoT mechanics section for understanding on the mechanics]], the base is 1x. Basically it utilises these things:
 - All Out - All in
 - Mag Out - Mag in
 - DoT out - DoT in
@@ -149,7 +159,7 @@ Rifts multiplier stacks like this:
 SSOT/SWOT has an all out passive of 112%
 According to Mole, the class has a base DoT coefficient of 0.2
 
-[[Stats & Misc#Chronos and their weird intricacies|Refer to this for more specific information on chronos]]
+[[Stats & Misc|Refer to the chrono section for more specific information]]
 
 With this information we can use this to calculate the modifier used to calculate the modifier for nuke damage.
 
@@ -175,4 +185,4 @@ Damage cap is 100m but having 122%+ worth of buffs will allow you to reach it re
 
 Classes like arachno, vdk, and other classes that debuff defense will not necessarily be calculated into the recorded damage modifier. But they will still increase the overall nuke damage. 
 
-Chainkilling using SSOT utilises above knowledge, and it's required to have atleast a bare minimum LOO/LR and using Potent honor in order to actually have enough all out that your nuke damage doesn't drop by the next kill. Make sure you kill the boss with a DoT, because if it dies without it going off you may risk your damage resetting by the next kill.
+The reason we can’t reach infinite scaling solo is because the 0.636 multiplier essentially means that the damage we record essentially caps out at a certain point. Because our nuke is divided by outgoing modifiers in the [[Stats & Misc#Chronos and their weird intricacies|explained in this section]] and then multiplied out again by the function. If the nuke multiplier is stuck at 0.636 we can never get infinite scaling, it will never grow. Hence we need 1.0 or above for atleast a net positive gain.

@@ -13,6 +13,13 @@ Arcana Invoker (AI) is a great generalist, its main strengths are DPS and Farmin
 
 It is recommended to use Auras UI in the [[Newbie Guide#Advanced Options|advanced options]] since you will need to track how long you have left in "The World".
 
+Here’s a video guide by mynth!
+![](https://youtu.be/fAzpxEYNfY4?si=-cT57PRzRIjN7Ua4)
+
+*Literally my 2nd wife…*
+![[arcana-propaganda.png]]
+
+
 ## Skills Overview
 
 ![[Pasted image 20240712175031.png]]
@@ -135,10 +142,10 @@ This skill you pretty much use whenever you can, inbetween 3 usage when it's on 
 
 ## Enhancements
 
-| Situation       | Enhancements              | Rating | Extra Information                                                                   |
-| --------------- | ------------------------- | ------ | ----------------------------------------------------------------------------------- |
-| Farming/Soloing | Elysium/Pneuma/Vainglory  | 10/10  | Best in class DPS, and elysium helps manage mana.                                   |
-| Soloing         | Valiance/Pneuma/Vainglory | 9/10   | Alternative to Elysium for more damage, though more restrictive due to mana issues. |
+| Situation       | Enhancements                                    | Rating | Extra Information                                                                   |
+| --------------- | ----------------------------------------------- | ------ | ----------------------------------------------------------------------------------- |
+| Farming/Soloing | Elysium or Ravenous/Pneuma/Vainglory or Lament  | 10/10  | Best in class DPS, and elysium helps manage mana.                                   |
+| Soloing         | Valiance or Ravenous/Pneuma/Vainglory or Lament | 9/10   | Alternative to Elysium for more damage, though more restrictive due to mana issues. |
 
 ---
 

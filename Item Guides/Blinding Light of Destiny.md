@@ -66,7 +66,7 @@ Also needs to be done 3 times.
 	- Defeat the Leatherwing at [/pines](http://aqwwiki.wikidot.com/pinewood-forest) for leather.
 	- Head to [/lycan](http://aqwwiki.wikidot.com/lycan-ridge) and defeat the vampire knights for silver brush.
 	- Go to [/mobius](http://aqwwiki.wikidot.com/mobius) and defeat the Cyclops Raider for Brass Awl.
-	- Defeat the Lich of the Stone at [/darkovia](http://aqwwiki.wikidot.com/darkovia-forest).
+	- Defeat the Lich of the Stone at [/darkoviaforest](http://aqwwiki.wikidot.com/darkovia-forest).
 	- Head to [/airstorm](http://aqwwiki.wikidot.com/air-storm) and defeat the lightning ball for a Shining Lacquer Finish.
 	- Defeat the tomb robber at [/sandport](http://aqwwiki.wikidot.com/sandsea-port).
 
