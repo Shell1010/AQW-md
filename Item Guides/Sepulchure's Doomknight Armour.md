@@ -9,9 +9,16 @@ dg-metatags:
 ---
 Before you embark on this grind, make sure to have **Rank 10 Doomknight** (Membership required) in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to progress through this entire questline. Once the armour is obtained, it can be used as a non-mem player.
 
-This Armor grants access to the best Void Aura farming quest (although a literal pay to win method) in the game that can be accessed even if the user is no longer renewing their membership. The main use of the armor is to expedite the user's farm for the [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) (NSoD for short) and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
+This Armor grants 
+- Access to the best Void Aura farming quest (a literal pay to win method) in the game that can be accessed even if the user is no longer renewing their membership.
+- The main use of the armor is to expedite the user's farm for:
+    - The [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) (NSoD for short) and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords)
+    - [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians)
+    - [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall)
+    - [Lae's Quests](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set, especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/hollowborn-sword-of-doom-sword)
+    - The [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
 
-You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by speaking to [Vayle](http://aqwwiki.wikidot.com/vayle), located right beside [Artix](http://aqwwiki.wikidot.com/artix-npc) at [/necropolis](http://aqwwiki.wikidot.com/necropolis).
+You can start the [questchain for the SDKA](http://aqwwiki.wikidot.com/vayle-s-quests#3) by speaking to [Vayle](http://aqwwiki.wikidot.com/vayle), located right beside [Artix](http://aqwwiki.wikidot.com/artix-npc) at [/necropolis](http://aqwwiki.wikidot.com/necropolis).
 
 ---
 
