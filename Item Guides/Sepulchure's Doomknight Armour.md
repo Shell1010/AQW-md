@@ -7,9 +7,9 @@ dg-metatags:
   description: Guide to obtain the SDKA 
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-Before you embark on this grind, make sure to have **Rank 10 Doomknight** in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to commence this questline. Though this armour is non-mem.
+Before you embark on this grind, make sure to have **Rank 10 Doomknight** (Membership required) in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to progress through this entire questline. Once the armour is obtained, it can be used as a non-mem player.
 
-This Armor grants access to the best Void Aura farming quest(although a literal pay to win method) in the game that can be accessed retroactively even if the user is no longer renewing his membership. This is to speedrun the user's farm mainly [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) or NSoD for short and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
+This Armor grants access to the best Void Aura farming quest (although a literal pay to win method) in the game that can be accessed even if the user is no longer renewing their membership. The main use of the armor is to expedite the user's farm for the [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) (NSoD for short) and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
 
 You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by speaking to [Vayle](http://aqwwiki.wikidot.com/vayle), located right beside [Artix](http://aqwwiki.wikidot.com/artix-npc) at [/necropolis](http://aqwwiki.wikidot.com/necropolis).
 
@@ -31,7 +31,7 @@ You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by 
 ---
 ### Phase 2A: Pondering the (Dark Spirit) Orbs
 
-Similar to Blinding Light of Destiny, this is the only really grindy and considered the hardest part of the questline, here you must farm over **10,518 Dark Spirit Orbs** using the previously outlined methods. It is recommended you only do **”Toiling with Terror”** daily then just do **”A Penny for Your Foughts.”** and multi turn in over and over until done.
+Similar to Blinding Light of Destiny, this is the only really grindy and considered the hardest part of the questline, here you must farm over **10,500 Dark Spirit Orbs** using the previously outlined methods. It is recommended you only do **”Toiling with Terror”** daily then just do **”A Penny for Your Foughts.”** and multi turn in over and over until done.
 
 - **”Toiling with Terror”**
     - Navigate to [/battleundera](http://aqwwiki.wikidot.com/battle-under) to obtain the [Shadow Terror Axe](http://aqwwiki.wikidot.com/shadow-terror-axe).
@@ -85,15 +85,15 @@ Each metal upgrade requests (Evil Alliteration Metal of DOOM) similar drops as A
 ## Phase 3 Morbin' Time Merger
 
 - **Access [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) at /necropolis** and merge these:
-    - Merge **10,518 Dark Spirit Orbs into 105 Corrupt Spirit Orbs**.
+    - Merge **10,500 Dark Spirit Orbs into 105 Corrupt Spirit Orbs**.
     - Merge **100 Corrupt Spirit Orbs into 2 Ominous Auras**.
 
 Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopetal and forge the 
 
 - **Accursed Arsenic of Doom**.
 	- Defeat an Albino Bat at [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) for a Forge Key (Cost: **N/A; misc quest item**). 
-	- merge and turn in [**Accursed Arsenic of Doom**]([Accursed Arsenic of Doom](http://aqwwiki.wikidot.com/accursed-arsenic-of-doom))
-	- quest can only be done once
+	- Merge and turn in [**Accursed Arsenic of Doom**]([Accursed Arsenic of Doom](http://aqwwiki.wikidot.com/accursed-arsenic-of-doom)).
+	- Quest can only be done once
 	
 - DoomSquire Weapon Kit 
 	- Complete this quest THREE(or FOUR for anti RNG method) times. 
