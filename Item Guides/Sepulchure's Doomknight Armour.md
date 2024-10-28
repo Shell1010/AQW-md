@@ -1,8 +1,15 @@
 ---
 dg-publish: true
 dg-metatags:
+  og:site_name: AQW Hub
+  og:title: Sepulchure's Doomknight Armour Guide
+  og:description: Guide to obtain the SDKA
+  description: Guide to obtain the SDKA 
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-Before you embark on this grind, make sure to have **Rank 10 Doomknight** in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to commence this questline, though you can acquire the armor without being a member. This Armor grants access to the best Void Aura farming quest(although a literal pay to win method) in the game that can be accessed retroactively even if the user is no longer renewing his membership. This is to speedrun the user's farm mainly [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) or NSoD for short and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
+Before you embark on this grind, make sure to have **Rank 10 Doomknight** in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to commence this questline, though you can acquire the armor without being a member. 
+
+This Armor grants access to the best Void Aura farming quest(although a literal pay to win method) in the game that can be accessed retroactively even if the user is no longer renewing his membership. This is to speedrun the user's farm mainly [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) or NSoD for short and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
 
 You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by speaking to [Vayle](http://aqwwiki.wikidot.com/vayle), located right beside [Artix](http://aqwwiki.wikidot.com/artix-npc) at [/necropolis](http://aqwwiki.wikidot.com/necropolis).
 
@@ -16,24 +23,26 @@ You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by 
         - **Drop Rate**: 100% from the quest **"Dark Spirit Orbs."**
         - Stacking Limit: **65,000**x
         - Acquired by completing the **"Dark Spirit Orbs"** quest methods.
-    Remember to keep the reward **[Experimental Dark Item](http://aqwwiki.wikidot.com/experimental-dark-item)**(Cost: **N/A; Mem AC item**) and bank it until you need it for the final quest.
+	- Remember to keep the reward **[Experimental Dark Item](http://aqwwiki.wikidot.com/experimental-dark-item)**(Cost: **N/A; Mem AC item**) and bank it until you need it for the final quest.
 
 - **”The Doom that Looms”** 
 	- ensuring you have  [DoomKnight, Rank 10](http://aqwwiki.wikidot.com/doomknight-0-ac) , the gigachad 0 AC version (you need the new [Warrior, Rank10](http://aqwwiki.wikidot.com/warrior) and new [Healer, Rank 10](http://aqwwiki.wikidot.com/healer) not the rare tagged variants for the returning players so just use any [Class Boost ](http://aqwwiki.wikidot.com/list-of-all-cp-boosts)from [logging in 5 days in a row](http://aqwwiki.wikidot.com/daily-login-class-boost-20-min), [Ragnar's Daily Boosts](http://aqwwiki.wikidot.com/class-boost-60-min-2) or [Wheel of Doom Merge](http://aqwwiki.wikidot.com/doom-class-boost-1-hr) to speed up your ranking up) or the 2000 AC ~~soyjack trashy useless wasteful~~ Member variant, based on your preference.
+
+---
 ### Phase 2A: Pondering the (Dark Spirit) Orbs
 
 Similar to Blinding Light of Destiny, this is the only really grindy and considered the hardest part of the questline, here you must farm over **10,518 Dark Spirit Orbs** using the previously outlined methods. It is recommended you only do **”Toiling with Terror”** daily then just do **”A Penny for Your Foughts.”** and multi turn in over and over until done.
 
 - **”Toiling with Terror”**
-    
     - Navigate to [/battleundera](http://aqwwiki.wikidot.com/battle-under) to obtain the [Shadow Terror Axe](http://aqwwiki.wikidot.com/shadow-terror-axe) (Cost: **0 AC; quest item**).
     - Collect [Elders' Blood](http://aqwwiki.wikidot.com/elders-blood) (Cost: **N/A; non-mem gold item**) (stacks to 20x) from either [Experiment 107: Elder's Blood Potion](http://aqwwiki.wikidot.com/reens-quests#Daily) from [/arcangrove](http://aqwwiki.wikidot.com/arcangrove) (this is a daily quest from Reens just enter tower and goto right most platform and pick Daily Tasks.)
      OR
      [Assisting Crag and Bamboozle](http://aqwwiki.wikidot.com/tendurrr-the-assistant-s-quests) if you own [Tendurr the Assistant](http://aqwwiki.wikidot.com/tendurrr-the-assistant) and [Crag and Bamboozle](http://aqwwiki.wikidot.com/crag-bamboozle)
-- ”A Penny for Your Foughts”**
-    
+ 
+- **”A Penny for Your Foughts”**
 	- Gather **20 [DoomCoin](http://aqwwiki.wikidot.com/doomcoin)** at [/maul](http://aqwwiki.wikidot.com/chopping-maul).
 	    - (Cost: **N/A ; stacks to 1000x**) your bread and butter for this phase due to multi turn ins and fast respawn rates please do take advantage of the [Artix Calendar schedule](https://www.artix.com/calendar) to be updated on [upcoming boosts](https://x.com/Alina_AE) to maximize your farm grind.
+
 - **”Dark Spirit Donation”** 
 	- You must retrieve the [Dark Skull](http://aqwwiki.wikidot.com/dark-skull) from Shadow Imps and other mobs in [/necrocavern](http://aqwwiki.wikidot.com/necro-cavern) (Cost: N/A; quest misc item**) and at least 100 Dark Spirit Orbs as you only need to do this quest once. This quest enables for certain mobs to drop [Dark Energy](http://aqwwiki.wikidot.com/dark-energy-misc)  (Cost: **N/A ; AC Legend Item, stacks to 10,000x**)
 
@@ -62,7 +71,8 @@ Each metal upgrade requests (Evil Alliteration Metal of DOOM) similar drops as A
     - **Dark Spirit Orb x5**: As mentioned.
     - **Deadly Knightshade x16**: Defeat Seed Spitters at [/arcangrove](http://aqwwiki.wikidot.com/arcangrove) (as of 2024 the screen on the right of Arcangrove tower has a mob of 3) (Cost: **N/A; temp quest item, stacks to 32x**).
 
-### As of now, you must have...:
+---
+### As of now, you must have...
 
 - **10,518 Dark Spirit Orbs**
 - **1 Accursed Arsenic**
@@ -70,8 +80,9 @@ Each metal upgrade requests (Evil Alliteration Metal of DOOM) similar drops as A
 - **1 Reprehensible Rhodium**
 - (Optional) **1 Pernicious Palladium**
 
-## Phase 3 Morbin' Time Merger
+---
 
+## Phase 3 Morbin' Time Merger
 
 - **Access [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) at /necropolis** and merge these:
     - Merge **10,518 Dark Spirit Orbs into 105 Corrupt Spirit Orbs**.
@@ -108,7 +119,6 @@ Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopeta
 - DoomSoldier Weapon Kit 
 	- Complete this quest THREE(or FOUR for anti RNG method) times. 
 	- Gather the following:
-	- 
 		- [Stone Hammer](http://aqwwiki.wikidot.com/stone-hammer) (**non-mem non-AC weapon Price N/A:**)
 			- (Dropped by [Stone Golem](http://aqwwiki.wikidot.com/stone-golem)) in [/cornelis](http://aqwwiki.wikidot.com/cornelis-ruins)or [/pollution](http://aqwwiki.wikidot.com/pollution) 
 		- Superior Blade Oil x1
@@ -141,7 +151,7 @@ Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopeta
 	- Gather the following:
 
 		- [Grumpy Warhammer](http://aqwwiki.wikidot.com/grumpy-warhammer) (Legend Non-AC Weapon)
-			- - Dropped by: [Sneeviltron (Monster)](http://aqwwiki.wikidot.com/sneeviltron-monster)
+			- Dropped by: [Sneeviltron (Monster)](http://aqwwiki.wikidot.com/sneeviltron-monster)
 			- from [/boxes](http://aqwwiki.wikidot.com/boxes)walk/sprint/emote right
 		- No. 1337 Blade Oil x1
 		    - Dropped by [Kitsune (Monster) (1)](http://aqwwiki.wikidot.com/kitsune-monster-1)in [/kitsune](http://aqwwiki.wikidot.com/kitsune-s-lair)
@@ -161,10 +171,13 @@ Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopeta
 		    - taxiable if you have a BattleBuddy who cleared that area otherwise finish the questline on your own
 		- Dark Wyvern Hide Travel Case x1
 		    - Dropped by [Dark Wyvern](http://aqwwiki.wikidot.com/dark-wyvern)
+
 NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the final phase
 - [Corrupt Spirit Orb](http://aqwwiki.wikidot.com/corrupt-spirit-orb)x10
 - [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura)x3
 - [Dark Spirit Orb](http://aqwwiki.wikidot.com/dark-spirit-orb) x100
+
+---
 ### Before Moving to Phase 4, Gather:
 
 - **1 Accursed Arsenic of Doom**
@@ -172,21 +185,25 @@ NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the fi
 - **3(or 4) [DoomSoldier Weapon Kits](http://aqwwiki.wikidot.com/doomsoldier-weapon-kit)
 - **4(or 5) [DoomKnight Weapon Kits](http://aqwwiki.wikidot.com/doomknight-weapon-kit)
 - **3 or more - [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura)
+
+---
 ## Step 4: Festering Finite Foreclosure
+
 - Access Vayle's [DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) shop at /necropolis. Complete merges for the Daggers, Bow, then Broadsword.
 	- Open Vayle's merge shop at /necropolis and merge the Daggers of Destruction > Shadow Daggers of Destruction > Necrotic Daggers of Destruction.  
 	- Use this weapon to complete the "Pinpoint the Pieces with Necrotic Daggers" quest from Vayle for 30 Ominous Auras.
 	- Spend time obtaining **30 Ominous Auras** for the corresponding quest by battling at [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) against Chaos Drows.
 	- Merge **25 Auras into 1 Diabolical Aura** at [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) 
 	
-	- Merge Reprehensible Rhodium > Reprehensible Rhodium of Doom  
-      Do this at Geopetal's forge at /dwarfhold.
+	- Merge Reprehensible Rhodium > Reprehensible Rhodium of Doom.
+		- Do this at Geopetal's forge at /dwarfhold.
     - Merge [Bow of the Shadows](http://aqwwiki.wikidot.com/bow-to-the-shadows) to [ShadowBow of the Shadows](http://aqwwiki.wikidot.com/shadowbow-of-the-shadows) to  [Necrotic Bow of the Shadow](http://aqwwiki.wikidot.com/necrotic-bow-of-the-shadow) in [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1)  at /necropolis.
 
 	- Merge [Broadsword of Bane](http://aqwwiki.wikidot.com/broadsword-of-bane) > [Shadow Broadsword of Bane](http://aqwwiki.wikidot.com/shadow-broadsword-of-bane) >  [Necrotic Broadsword of Bane](http://aqwwiki.wikidot.com/necrotic-broadsword-of-bane) at  [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) at /necropolis.
 	- Complete "Pinpoint the Pieces with Necrotic Broadsword"
 	- Do this for a Diabolical Aura.
-    
+
+---
 ## We've come a long way, just double-check if you have:
 
 -  [Necrotic Daggers of Destruction](http://aqwwiki.wikidot.com/necrotic-daggers-of-destruction)
@@ -194,6 +211,7 @@ NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the fi
 -  [**Necrotic Bow of the Shadow**](http://aqwwiki.wikidot.com/necrotic-bow-of-the-shadow)
 -  [Necrotic Scythe of Scourge](http://aqwwiki.wikidot.com/necrotic-scythe-of-scourge) (for Doom Aura if you didn't get it yet from pinpoint quests).
 
+---
 ## Phase 5: Forbearing Forlorn Finale
 
 - Collate the following items:
@@ -213,7 +231,6 @@ so that is a total of 1100 Doomknight Armor Pieces or 110 multi turn-ins or less
 If still frustrated and unlucky at getting skill issue'd merge go for
 Necrotic Scythe of Scourge which will give you the Doom Aura after 1 turn in. 
 Ragequit or Grind the choice is yours.
-
 
 
 Enjoy your **Rewards:**

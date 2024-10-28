@@ -23,8 +23,8 @@ Additions added by the following people, thank you for contributions:
 			- [/maloth](http://aqwwiki.wikidot.com/maloth-location) (Envy) - Maloth (RNG EZ to compensate you for struggling in the two-part zone)
 			- [/gluttony](http://aqwwiki.wikidot.com/gluttony-location) - Glutus or Deflated Glutus (RNG medium-hard difficulty)
 			- [/greed](http://aqwwiki.wikidot.com/greed) - Goregold (RNG easy-medium difficulty)
-     		-IS THIS SKIPPABLE? (In all zones except Envy's you can ask a fellow BattleBuddy to taxi you to the boss area since it requires you to do an hour of errands and mini gauntlet respectively.
-     		Then by the time you defeat the guard(final boss quest in the zone questline), only then can you be taxi'd without even doing a single quest in /Maloth)
+				- IS THIS SKIPPABLE? (In all zones except Envy's you can ask a fellow BattleBuddy to taxi you to the boss area since it requires you to do an hour of errands and mini gauntlet respectively.
+				- Then by the time you defeat the guard(final boss quest in the zone questline), only then can you be taxi'd without even doing a single quest in /Maloth)
 		- Once finished you can get the Mysterious Egg Non-member AC tagged pet and travel to the [/mysteriousegg](http://aqwwiki.wikidot.com/mysterious-egg-location) location.
 		- This pet is used in Dragon of Time's quests, however, if you need the [Shadow Dragon Defender armor](http://aqwwiki.wikidot.com/shadow-dragon-defender) you can do a few extra steps.
 			- From here, you have completed [Maya's quests](http://aqwwiki.wikidot.com/loremaster-maya-s-quests#14) till you get the Manticore cub pet. Use this to open the Shadow Dragon Gear shop and get the [Shadow Dragon Defender armor](http://aqwwiki.wikidot.com/shadow-dragon-defender) used primarily for the Awescension questline.
