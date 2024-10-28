@@ -7,7 +7,7 @@ dg-metatags:
   description: Guide to obtain the SDKA 
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-Before you embark on this grind, make sure to have **Rank 10 Doomknight** in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to commence this questline, though you can acquire the armor without being a member. 
+Before you embark on this grind, make sure to have **Rank 10 Doomknight** in your inventory, as it is essential to start on **”The Doom that Looms”** quest. Membership is also required to commence this questline. Though this armour is non-mem.
 
 This Armor grants access to the best Void Aura farming quest(although a literal pay to win method) in the game that can be accessed retroactively even if the user is no longer renewing his membership. This is to speedrun the user's farm mainly [Necrotic Sword of Doom](http://aqwwiki.wikidot.com/necrotic-sword-of-doom-sword) or NSoD for short and its boosted [variants](http://aqwwiki.wikidot.com/list-of-all-necrotic-swords), [Nightmare Carnax Guardians](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians), and many more from [Braeus's Quests](http://aqwwiki.wikidot.com/braeus-quests#1) at [/shadowfall](http://aqwwiki.wikidot.com/shadowfall) and is also used for acquiring the member only [questchain](http://aqwwiki.wikidot.com/lae-s-quests#HBKnight) for [/hollowdeep](http://aqwwiki.wikidot.com/hollowdeep)'s HollowBorn DoomKnight set especially one of the most sought after and IoDA top choices the 51% Static [Hollowborn Sword of Doom](http://aqwwiki.wikidot.com/nightmare-carnax-s-guardians) and the [Ravenous Forge Enhancement](http://aqwwiki.wikidot.com/cysero-s-forge-s-quests#Weapons)
 
@@ -26,7 +26,7 @@ You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by 
 	- Remember to keep the reward **[Experimental Dark Item](http://aqwwiki.wikidot.com/experimental-dark-item)**(Cost: **N/A; Mem AC item**) and bank it until you need it for the final quest.
 
 - **”The Doom that Looms”** 
-	- ensuring you have  [DoomKnight, Rank 10](http://aqwwiki.wikidot.com/doomknight-0-ac) , the gigachad 0 AC version (you need the new [Warrior, Rank10](http://aqwwiki.wikidot.com/warrior) and new [Healer, Rank 10](http://aqwwiki.wikidot.com/healer) not the rare tagged variants for the returning players so just use any [Class Boost ](http://aqwwiki.wikidot.com/list-of-all-cp-boosts)from [logging in 5 days in a row](http://aqwwiki.wikidot.com/daily-login-class-boost-20-min), [Ragnar's Daily Boosts](http://aqwwiki.wikidot.com/class-boost-60-min-2) or [Wheel of Doom Merge](http://aqwwiki.wikidot.com/doom-class-boost-1-hr) to speed up your ranking up) or the 2000 AC ~~soyjack trashy useless wasteful~~ Member variant, based on your preference.
+	- Ensuring you have [DoomKnight, Rank 10](http://aqwwiki.wikidot.com/doomknight-0-ac) , the gigachad 0 AC version (you need the new [Warrior, Rank10](http://aqwwiki.wikidot.com/warrior) and new [Healer, Rank 10](http://aqwwiki.wikidot.com/healer) not the rare tagged variants for the returning players so just use any [Class Boost ](http://aqwwiki.wikidot.com/list-of-all-cp-boosts)from [logging in 5 days in a row](http://aqwwiki.wikidot.com/daily-login-class-boost-20-min), [Ragnar's Daily Boosts](http://aqwwiki.wikidot.com/class-boost-60-min-2) or [Wheel of Doom Merge](http://aqwwiki.wikidot.com/doom-class-boost-1-hr) to speed up your ranking up) or the 2000 AC ~~soyjack trashy useless wasteful~~ Member variant, based on your preference.
 
 ---
 ### Phase 2A: Pondering the (Dark Spirit) Orbs
@@ -34,7 +34,7 @@ You can start this [questchain](http://aqwwiki.wikidot.com/vayle-s-quests#3) by 
 Similar to Blinding Light of Destiny, this is the only really grindy and considered the hardest part of the questline, here you must farm over **10,518 Dark Spirit Orbs** using the previously outlined methods. It is recommended you only do **”Toiling with Terror”** daily then just do **”A Penny for Your Foughts.”** and multi turn in over and over until done.
 
 - **”Toiling with Terror”**
-    - Navigate to [/battleundera](http://aqwwiki.wikidot.com/battle-under) to obtain the [Shadow Terror Axe](http://aqwwiki.wikidot.com/shadow-terror-axe) (Cost: **0 AC; quest item**).
+    - Navigate to [/battleundera](http://aqwwiki.wikidot.com/battle-under) to obtain the [Shadow Terror Axe](http://aqwwiki.wikidot.com/shadow-terror-axe).
     - Collect [Elders' Blood](http://aqwwiki.wikidot.com/elders-blood) (Cost: **N/A; non-mem gold item**) (stacks to 20x) from either [Experiment 107: Elder's Blood Potion](http://aqwwiki.wikidot.com/reens-quests#Daily) from [/arcangrove](http://aqwwiki.wikidot.com/arcangrove) (this is a daily quest from Reens just enter tower and goto right most platform and pick Daily Tasks.)
      OR
      [Assisting Crag and Bamboozle](http://aqwwiki.wikidot.com/tendurrr-the-assistant-s-quests) if you own [Tendurr the Assistant](http://aqwwiki.wikidot.com/tendurrr-the-assistant) and [Crag and Bamboozle](http://aqwwiki.wikidot.com/crag-bamboozle)
@@ -48,7 +48,7 @@ Similar to Blinding Light of Destiny, this is the only really grindy and conside
 
 -  **"Dark Spirit Orbs"**
 	- Acquire the [Shadow Serpent Scythe](http://aqwwiki.wikidot.com/shadow-serpent-scythe) (Cost: **N/A; non-mem non-AC weapon). -optionally you may complete the quest in [/bludrut4](http://aqwwiki.wikidot.com/bludrut-keep-4).
-    - Travel to [/bludrut2](http://aqwwiki.wikidot.com/bludrut-keep-2) and defeat the Shadow Creepers to obtain the **[Shadow Creeper Enchant](http://aqwwiki.wikidot.com/shadow-creeper-enchant)** (Cost: **N/A; non-mem gold helm).
+    - Travel to [/bludrut2](http://aqwwiki.wikidot.com/bludrut-keep-2) and defeat the Shadow Creepers to obtain the **[Shadow Creeper Enchant](http://aqwwiki.wikidot.com/shadow-creeper-enchant)** (Cost: **N/A; non-mem gold helm**).
     - Head over to [/marsh](http://aqwwiki.wikidot.com/marsh) and banish the [Dark Witch](http://aqwwiki.wikidot.com/dark-witch) to collect a total of **6 Shadow Whiskers** (Cost: **N/A; temp quest item**, stacks to 6x).
 
 
@@ -68,7 +68,7 @@ Each metal upgrade requests (Evil Alliteration Metal of DOOM) similar drops as A
 
 - **Accursed Arsenic Hex:**
     - **Dark Energy x26**: Obtain from [Sanguine Souleater Version 1](http://aqwwiki.wikidot.com/sanguine-souleater) (mob of 3 in level 11) from [/temple](http://aqwwiki.wikidot.com/temple-of-the-light) or [Chaos Vampire Knights](http://aqwwiki.wikidot.com/chaos-vampire-knight-monster) (mob of 3 in screen 5) at [/lycan](http://aqwwiki.wikidot.com/lycan-ridge)
-    - **Dark Spirit Orb x5**: As mentioned.
+    - **Dark Spirit Orb x6**: As mentioned.
     - **Deadly Knightshade x16**: Defeat Seed Spitters at [/arcangrove](http://aqwwiki.wikidot.com/arcangrove) (as of 2024 the screen on the right of Arcangrove tower has a mob of 3) (Cost: **N/A; temp quest item, stacks to 32x**).
 
 ---
@@ -173,8 +173,8 @@ Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopeta
 		    - Dropped by [Dark Wyvern](http://aqwwiki.wikidot.com/dark-wyvern)
 
 NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the final phase
-- [Corrupt Spirit Orb](http://aqwwiki.wikidot.com/corrupt-spirit-orb)x10
-- [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura)x3
+- [Corrupt Spirit Orb](http://aqwwiki.wikidot.com/corrupt-spirit-orb) x10
+- [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura) x3
 - [Dark Spirit Orb](http://aqwwiki.wikidot.com/dark-spirit-orb) x100
 
 ---
@@ -182,9 +182,9 @@ NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the fi
 
 - **1 Accursed Arsenic of Doom**
 - **3(or 4) [DoomSquire Weapon Kits](http://aqwwiki.wikidot.com/doomsquire-weapon-kit)**
-- **3(or 4) [DoomSoldier Weapon Kits](http://aqwwiki.wikidot.com/doomsoldier-weapon-kit)
-- **4(or 5) [DoomKnight Weapon Kits](http://aqwwiki.wikidot.com/doomknight-weapon-kit)
-- **3 or more - [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura)
+- **3(or 4) [DoomSoldier Weapon Kits](http://aqwwiki.wikidot.com/doomsoldier-weapon-kit)**
+- **4(or 5) [DoomKnight Weapon Kits](http://aqwwiki.wikidot.com/doomknight-weapon-kit)**
+- **3 or more [Ominous Aura](http://aqwwiki.wikidot.com/ominous-aura)**
 
 ---
 ## Step 4: Festering Finite Foreclosure
@@ -208,7 +208,7 @@ NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the fi
 
 -  [Necrotic Daggers of Destruction](http://aqwwiki.wikidot.com/necrotic-daggers-of-destruction)
 -  [Necrotic Broadsword of Bane](http://aqwwiki.wikidot.com/necrotic-broadsword-of-bane)
--  [**Necrotic Bow of the Shadow**](http://aqwwiki.wikidot.com/necrotic-bow-of-the-shadow)
+-  [Necrotic Bow of the Shadow](http://aqwwiki.wikidot.com/necrotic-bow-of-the-shadow)
 -  [Necrotic Scythe of Scourge](http://aqwwiki.wikidot.com/necrotic-scythe-of-scourge) (for Doom Aura if you didn't get it yet from pinpoint quests).
 
 ---
@@ -221,10 +221,10 @@ NOTE: a couple of these mem AC Tagged do drop at random so hoard them for the fi
 - [Diabolical Aura](http://aqwwiki.wikidot.com/diabolical-aura) x75 (75 turn-ins worth of 1 aura per 10 fragments each broadsword)
 - [Experimental Dark Item](http://aqwwiki.wikidot.com/experimental-dark-item) 
 - Heart of Darkness x1 (temp misc drop item)
-    - Dropped by [Dark Elemental (Level 6)](http://aqwwiki.wikidot.com/dark-elemental)found in either - [/clubhouse](http://aqwwiki.wikidot.com/cysero-s-clubhouse) [Ruins](http://aqwwiki.wikidot.com/ruins)
-- [Doom Aura](http://aqwwiki.wikidot.com/doom-aura)x1 (a guaranteed 100% drop from the Scythe, but for other weps only 1% AC Mem quest item). 
-- [DoomKnight Weapon Kit](http://aqwwiki.wikidot.com/doomknight-weapon-kit)  x1
-- Complete "Pinpoint the Pieces with ___" for Bow x10, Daggers x25, and Broadsword x75.
+    - Dropped by [Dark Elemental (Level 6)](http://aqwwiki.wikidot.com/dark-elemental) found in either - [/clubhouse](http://aqwwiki.wikidot.com/cysero-s-clubhouse) [Ruins](http://aqwwiki.wikidot.com/ruins)
+- [Doom Aura](http://aqwwiki.wikidot.com/doom-aura) x1 (a guaranteed 100% drop from the Scythe, but for other weps only 1% AC Mem quest item). 
+- [DoomKnight Weapon Kit](http://aqwwiki.wikidot.com/doomknight-weapon-kit) x1
+- Complete "Pinpoint the Pieces with __" for Bow x10, Daggers x25, and Broadsword x75.
 Note that DoomKnight Armor Piece x10 (Stacks up to 1,000) 
 so that is a total of 1100 Doomknight Armor Pieces or 110 multi turn-ins or less if you have some resources leftover.
 
@@ -233,6 +233,6 @@ Necrotic Scythe of Scourge which will give you the Doom Aura after 1 turn in.
 Ragequit or Grind the choice is yours.
 
 
-Enjoy your **Rewards:**
+Enjoy your Rewards:
 - [Sepulchure's Armor Character Page Badge](http://aqwwiki.wikidot.com/charpage:28)
 - [Sepulchure's DoomKnight Armor](http://aqwwiki.wikidot.com/sepulchure-s-doomknight-armor) (Cost: N/A, Non-mem AC)
