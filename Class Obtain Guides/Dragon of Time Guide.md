@@ -129,10 +129,19 @@ To start the quests head to [/timeinn](http://aqwwiki.wikidot.com/inn-at-the-edg
 	- [Conquered Past](http://aqwwiki.wikidot.com/conquered-past)
 		- Defeat yourself at [/chaoslord](http://aqwwiki.wikidot.com/chaos-lord)
 	- 100x [Slugbutter Trophy](http://aqwwiki.wikidot.com/slugbutter-trophy)
-		- Defeat slugbutter at [/towerofdoom10](http://aqwwiki.wikidot.com/tower-of-doom-10)
+		- Defeat Slugbutter at [/towerofdoom10](http://aqwwiki.wikidot.com/tower-of-doom-10)
 	- 30x [Icewing's Laurel](http://aqwwiki.wikidot.com/icewing-s-laurel)
 		- From [/icewing](http://aqwwiki.wikidot.com/icewing)
 
 ---
-
 You should now have obtained the class!!! I’ll write a usage guide later.
+
+---
+
+###Bonus quest for those who want the around 2 Character Page Badges and bonus gear
+- **”I'm Loving it My Way”**
+	- [Borgar](http://aqwwiki.wikidot.com/borgar)
+		-finish first the questline in [/borgars](http://aqwwiki.wikidot.com/yulgar-s-borgars-location)
+		-Then do the Burglinster's Revenge quest four times by
+   		-Defeating [Burglinster](http://aqwwiki.wikidot.com/burglinster)
+   		-once you have 4x Burger Buns merge them from Yulgar into the Borgar then turn in with 15,000gold
