@@ -20,7 +20,7 @@ There are some mechanics to understand when using this class, and the skills hav
 ![[Pasted image 20240710131730.png]]
 - **Rift of Shadows**
 	- 50% Physical Damage / 0.5 AP2
-	- Short Range Attacka
+	- Short Range Attack
 	- 1.2 second cooldown, 0.6 seconds at max haste
 	- Single Target
 	- Applies chaos rift
@@ -118,6 +118,7 @@ Used usually to execute your nuke straight after, and apply a HoT. Changes your 
 | DPS Soloing               | Dauntless/Vim/Vainglory            | 10/10  | Probably best in class DPS, haste buff also useful to maintain high nukes.                                                                                        |
 | Sustain Soloing           | Elysium or Mana vamp/Vim/Vainglory | 8/10   | Provides a more consistent DPS, with mana regeneration.                                                                                                           |
 | DPS Soloing (alternative) | Smite/Vim/Vainglory                | 9/10   | 2nd best in DPS however, due to the fact you basically can't regenerate mana fast enough. You will suffer in longer fights if you can't get your nuke up in time. |
+|                           |                                    |        |                                                                                                                                                                   |
 
 ---
 
