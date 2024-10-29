@@ -1,11 +1,15 @@
 ---
 dg-publish: true
 dg-metatags:
+  og:site_name: AQW Hub
+  og:title: Chrono ShadowSlayer
+  og:description: Class Usage guide for CSS
+  description: Class Usage guide for CSS
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 This is probably one of the more weird chronos, not really that complex to use as some people make it out to be. It is possibly the best DPS chronos currently (2024) due to the really fast nuke rotations and high damage output. It also has dodge, being able to solo one shot bosses too. It is recommended to pilot this class with Feli. 
 
-Also this video by Wanderlust is pretty much all you need to know about CSS if you prefer video guides. ![](https://www.youtube.com/watch?v=uYuulGi0YXo)
-
+Also [this video by Wanderlust](https://www.youtube.com/watch?v=uYuulGi0YXo) is pretty much all you need to know about CSS if you prefer video guides.
 
 There are some mechanics to understand, as there are two modes for it, but generally it is quite a simple class to use.
 
@@ -123,8 +127,7 @@ The 5 also blinds enemy, which is useful for dodge rotations.
 ---
 ## Gameplay/Combos
 
-Plugging Wander’s video anyway but I’ll simplify gameplay here.
-![](https://www.youtube.com/watch?v=uYuulGi0YXo) 
+Plugging [Wander’s video](https://www.youtube.com/watch?v=uYuulGi0YXo) anyway but I’ll simplify gameplay here. 
 
 The main DPS temporal rift rotation is:
 44444452 
