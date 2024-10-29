@@ -33,7 +33,7 @@ You can start the [questchain for the SDKA](http://aqwwiki.wikidot.com/vayle-s-q
 	- Remember to keep the reward **[Experimental Dark Item](http://aqwwiki.wikidot.com/experimental-dark-item)**(Cost: **N/A; Mem AC item**) and bank it until you need it for the final quest.
 
 - **”The Doom that Looms”** 
-	- Ensuring you have [DoomKnight, Rank 10](http://aqwwiki.wikidot.com/doomknight-0-ac) , the gigachad 0 AC version (you need the new [Warrior, Rank10](http://aqwwiki.wikidot.com/warrior) and new [Healer, Rank 10](http://aqwwiki.wikidot.com/healer) not the rare tagged variants for the returning players so just use any [Class Boost ](http://aqwwiki.wikidot.com/list-of-all-cp-boosts)from [logging in 5 days in a row](http://aqwwiki.wikidot.com/daily-login-class-boost-20-min), [Ragnar's Daily Boosts](http://aqwwiki.wikidot.com/class-boost-60-min-2) or [Wheel of Doom Merge](http://aqwwiki.wikidot.com/doom-class-boost-1-hr) to speed up your ranking up) or the 2000 AC ~~soyjack trashy useless wasteful~~ Member variant, based on your preference.
+	- Ensuring you have [DoomKnight, Rank 10](http://aqwwiki.wikidot.com/doomknight-0-ac) , the gigachad 0 AC version (you need the new [Warrior, Rank10](http://aqwwiki.wikidot.com/warrior) and new [Healer, Rank 10](http://aqwwiki.wikidot.com/healer) not the rare tagged variants for the returning players so just use any [Class Boost ](http://aqwwiki.wikidot.com/list-of-all-cp-boosts)from [logging in 5 days in a row](http://aqwwiki.wikidot.com/daily-login-class-boost-20-min), [Ragnar's Daily Boosts](http://aqwwiki.wikidot.com/class-boost-60-min-2) or [Wheel of Doom Merge](http://aqwwiki.wikidot.com/doom-class-boost-1-hr) to speed up your ranking up) or the 2000 AC Member variant, based on your preference.
 
 ---
 ### Phase 2A: Pondering the (Dark Spirit) Orbs
@@ -89,7 +89,7 @@ Each metal upgrade requests (Evil Alliteration Metal of DOOM) similar drops as A
 
 ---
 
-## Phase 3 Morbin' Time Merger
+## Phase 3 Orb Merger
 
 - **Access [Vayle's DOOM Merge](http://aqwwiki.wikidot.com/doom-merge-1) at /necropolis** and merge these:
     - Merge **10,500 Dark Spirit Orbs into 105 Corrupt Spirit Orbs**.
