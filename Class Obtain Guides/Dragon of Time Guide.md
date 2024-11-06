@@ -20,7 +20,7 @@ To start the quests head to [/timeinn](http://aqwwiki.wikidot.com/inn-at-the-edg
 	- [Frost King's Story](http://aqwwiki.wikidot.com/frost-king-s-story)
 		- Kill [/kingcoal](http://aqwwiki.wikidot.com/king-coal)
 	- [Your Own Memories](http://aqwwiki.wikidot.com/your-own-memories)
-		- Go to [/bacocatyou](http://aqwwiki.wikidot.com/bacon-cat-you) and defeat yourself 
+		- Go to [/baconcatyou](http://aqwwiki.wikidot.com/bacon-cat-you) and defeat yourself 
 
 ---
 
@@ -143,5 +143,5 @@ You should now have obtained the class!!! I’ll write a usage guide later.
 	- [Borgar](http://aqwwiki.wikidot.com/borgar)
 		-finish first the questline in [/borgars](http://aqwwiki.wikidot.com/yulgar-s-borgars-location)
 		-Then do the Burglinster's Revenge quest four times by
-   		-Defeating [Burglinster](http://aqwwiki.wikidot.com/burglinster)
-   		-once you have 4x Burger Buns merge them from Yulgar into the Borgar then turn in with 15,000gold
+   		-Defeating [Burglinster](http://aqwwiki.wikidot.com/burglinster)(can be taxi'd for all quests by a fellow Battlebuddy if they completed it)
+   		-once you have 5x Burger Buns merge them from Yulgar into the Borgar then turn in with 15,000gold
