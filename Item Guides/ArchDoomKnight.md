@@ -25,7 +25,7 @@ You are required to have Rank 7 Evil Reputation, please check [[Faction Reputati
 Really unnecessarily long.
 - **"Death's Door"**
 	- Grab death's power from [/deathsrealm](http://aqwwiki.wikidot.com/death-s-realm)
-	- Kill death from [/shadowattack](http://aqwwiki.wikidot.com/souls-of-the-dead) x400
+	- Kill death from [/shadowattack](http://aqwwiki.wikidot.com/souls-of-the-dead) x400 (drops 1-15 per kill)
 
 ---
 

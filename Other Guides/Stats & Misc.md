@@ -7,6 +7,8 @@ dg-metatags:
   description: Player stats and other miscellaneous information 
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
+I’ve made a Utility application for AQW, mainly terminal based. If anyone’s interested in testing it out it’s on [this repository](https://github.com/Shell1010/aqw-utils). Reason I put it here is because it’s nerd related as most of it is gathered from packet sniffing.
+
 This will entail information regarding player stats alongside some information that may not necessarily fall into other guide sections. Here are some abbreviations so you don't get lost:
 - AP - Attack Power
 - SP - Spell Power
