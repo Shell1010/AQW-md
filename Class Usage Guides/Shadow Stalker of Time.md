@@ -198,4 +198,5 @@ Notice how on the first kill around the 25s mark, I actually dropped it to 100k 
 My 5 skill was still active so I chose to use 3 immediately on respawn so it’d still carry on the nuke growth, this was by pure luck that I didn’t get one shot here. 
 I then use 4 once my 5 expires and switch back to 4235232, killing the boss with a 700k nuke on 2nd kill.
 At this point, by next rotation I basically have enough to consistently one shot the boss using the rotation 435232, where I drop the initial 2 to compensate for respawn times.
+
 ![[AQW-SSOT-Chainkill.mp4]]

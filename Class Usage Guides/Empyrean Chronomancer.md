@@ -8,7 +8,7 @@ dg-metatags:
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
-While not considered a meta chronomancer, it's fun to use and can be a source of big damage. It has a large nuke coefficient and somewhat decent nuke cooldown, making it great for deleting damage sponge mobs. It's a pretty basic class overall.
+While not considered a meta chronomancer, it's fun to use and can be a source of big damage. It has a large nuke coefficient and somewhat decent nuke cooldown, making it great for deleting damage sponge mobs. It also has very good defenses for a chronomancer, 30% Damage reduction and a decent HoT. It's a pretty basic class to use overall.
 
 It goes by a few names, like Immortal Chronomancer, Empyrean Chronomancer, or Eternal Chronomancer. During this guide I'll refer to it as ECM. 
 

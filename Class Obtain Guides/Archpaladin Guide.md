@@ -20,7 +20,9 @@ If you are member or non-mem and had the Paladin class at one point you can skip
 ---
 
 - **"Proof of Valor"**
-	- For x1000 Undead Energy you need to first have completed the quests in [/necropolis](http://aqwwiki.wikidot.com/necropolis) upto ["A Loyal Follower"](http://aqwwiki.wikidot.com/artix-s-quests#26). This will allow you to start gathering Undead Energy. You can obtain this resource the fastest at [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) from the 5 Headed Dracolich.
+	- For x1000 Undead Energy you need to first have completed the quests in [/necropolis](http://aqwwiki.wikidot.com/necropolis) upto ["A Loyal Follower"](http://aqwwiki.wikidot.com/artix-s-quests#26). 
+		- This will allow you to start gathering Undead Energy. You can obtain this resource the fastest at [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) from the Doom Overlord as it drops multiple per kill.
+		- Otherwise if you can’t kill it fast enough, the 5 headed dracolich is a good alternative
 	- You can receive [Binky's Uni-Horn](http://aqwwiki.wikidot.com/binky-s-uni-horn) as drop from Binky at [/doomvault](http://aqwwiki.wikidot.com/doom-vault).
 	- Complete the questline at [/banished](http://aqwwiki.wikidot.com/banished) or /goto someone and defeat [desterrat moya](http://aqwwiki.wikidot.com/desterrat-moya) for his drop.
 	- Travel to [/dreadhaven](http://aqwwiki.wikidot.com/dreadhaven) and defeat the Dreadhaven General. You may need to have completed the 13 Lords of Chaos storyline for this map to be available.

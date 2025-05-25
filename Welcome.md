@@ -21,3 +21,6 @@ This is going to be an attempt at making a somewhat updated version of AQWG. Mos
 [[Gold Guide]] - Showcasing some areas to gain gold fast.
 
 Remember to also follow the [AQW Wiki](http://aqwwiki.wikidot.com/) as it updated constantly with information regarding the new releases and is the best resource for anything and everything AQW related.
+
+**Disclaimer:**
+This website is **not affiliated with or endorsed by Artix Entertainment, LLC**. All game content, including but not limited to artwork, character designs, and logos, are the **intellectual property of Artix Entertainment, LLC**. This site is a fan-made project intended for informational and entertainment purposes only.

@@ -40,6 +40,7 @@ This guide will attempt to go over important farms that should be done while you
 - [Ultra Elemental Warrior](http://aqwwiki.wikidot.com/ultra-elemental-warrior)
 	- Get with AC’s or for free with reputation
 	- Good single target farming class for high HP mobs
+	- Has decent DPS capability
 - [HSoD](http://aqwwiki.wikidot.com/hollowborn-sword-of-doom-sword)
 	- Hollowborn version of NSOD
 	- Another 51%
@@ -66,9 +67,20 @@ This guide will attempt to go over important farms that should be done while you
 - [Deathknight Lord](http://aqwwiki.wikidot.com/deathknight-lord-class-merge)
 	- Haters will tell you it’s bad (kinda is)
 	- Has an AoE taunt gimmick, can *somewhat* carry teams in tyndarius and drago as solo taunter
-		- Requires a decent DPS though
+		- Requires a decent DPS in the team
+		- Take a look [here](https://www.reddit.com/r/AQW/comments/1fxh3y3/dkl_in_tyndarius/)
 - [The Collector](http://aqwwiki.wikidot.com/the-collector-class-merge)
 	- Mid game class with a hefty nuke'
 	- Pretty decent at PvP too
 - [Swag Token A’s](http://aqwwiki.wikidot.com/super-fan-swag-token-a)
 	- Used for easy reputation for factions listed [here](http://aqwwiki.wikidot.com/malorie-s-quests)
+- [Blood Titan](http://aqwwiki.wikidot.com/blood-titan-legend)
+	- Literal wall
+	- If you can’t kill a hard hitting boss, this class can most likely help you out
+	- Abysmal dps
+- [The Leery Contract](http://aqwwiki.wikidot.com/nulgath-s-quests)
+	- Fastest gold farm in the game
+	- Absurd with nulgath pets like crag and bamboozle
+	- Infinite gold generator
+- [Icewing](http://aqwwiki.wikidot.com/king-rimescar-s-quests)
+	- Additional member quests for icewing for easier XP farm

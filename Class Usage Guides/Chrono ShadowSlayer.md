@@ -7,7 +7,7 @@ dg-metatags:
   description: Class Usage guide for CSS
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-This is probably one of the more weird chronos, not really that complex to use as some people make it out to be. It is possibly the best DPS chronos currently (2024) due to the really fast nuke rotations and high damage output. It also has dodge, being able to solo one shot bosses too. It is recommended to pilot this class with Feli. 
+This is probably one of the more weird chronos, not really that complex to use as some people make it out to be. It is possibly one of the best DPS Chrono currently (2024) due to the really fast nuke rotations and high damage output. It also has dodge, being able to solo one shot bosses too. It is recommended to pilot this class with Feli. 
 
 Also [this video by Wanderlust](https://www.youtube.com/watch?v=uYuulGi0YXo) is pretty much all you need to know about CSS if you prefer video guides.
 

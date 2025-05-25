@@ -84,9 +84,7 @@ If you do have SDKA, then you can do this quest at [/shadowrealmpast](http://aqw
 **”Find the Doom Blade’s Hilt”**
 - 800x [Cavern Celestite](http://aqwwiki.wikidot.com/cavern-celestite) from defeating the crystallised mobs at [/battleunderc](http://aqwwiki.wikidot.com/battle-under-c)
 	- Also the [Soul Searching](http://aqwwiki.wikidot.com/yara-s-quests#3) exists that gives a decent amount
-- 5000x [Undead Energy](http://aqwwiki.wikidot.com/undead-energy) preferrably from [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) the 5 headed dracolich
-	- Also if you’re in a group [/necroproject](http://aqwwiki.wikidot.com/necro-project) is actually more viable dropping 40x bone dust per kill
-		- Use the bust for dust quest
+- 5000x [Undead Energy](http://aqwwiki.wikidot.com/undead-energy) preferrably from [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) the 5 headed dracolich or Doom overlord (drops multiple)
 - 10x VA
 - [Primarch's Hilt](http://aqwwiki.wikidot.com/primarch-s-hilt) from [/bosschallenge](http://aqwwiki.wikidot.com/boss-challenge)
 - 50x [Bones from the Void Realm](http://aqwwiki.wikidot.com/bones-from-the-void-realm)

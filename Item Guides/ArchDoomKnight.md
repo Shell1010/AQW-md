@@ -16,7 +16,8 @@ You are required to have Rank 7 Evil Reputation, please check [[Faction Reputati
 - **"Gathering power"**
 	- 1800x Undead Energy, dropped from most undead.
 		- You need to complete upto the **"A Loyal Follower"** quest for [[Blinding Light of Destiny]] quests in order to start collecting Undead Energy.
-		- Fastest to obtain from [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) 5 headed dracolich.
+		- Fastest to obtain from [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) Doom Overlord as it drops multiple.
+		- Alternatively the 5 headed dracolich
 	- 500x Human Souls from [/noxustower](http://aqwwiki.wikidot.com/noxus-tower).
 	- 600x Dragon Energy, drops from most dragon kin, I recommend killing mobs at [/etherwardes](http://aqwwiki.wikidot.com/etherstorm-war-desoloth).
 
@@ -50,7 +51,8 @@ Basically kill each chaos lord for a drop
 
 - **"A Means to an End"**
 	- Get the ultimate darkness gem from [/shadowfallwar](http://aqwwiki.wikidot.com/shadowfall-war-location).
-	- Grab x2000 Undead Energy from the 5 headed dracolich at [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon).
+	- Grab x2000 Undead Energy from the Doom Overlord at [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon)
+		- Alternatively the 5 headed dracolich
 	- The Necro Scroll of Dark Arts is a really low drop from the [/epicvordred](http://aqwwiki.wikidot.com/epic-vordred) map. It also drops from the originul void quest.
 	- Doom heart drops from Ultra Sepulchure at [/sepulchurebattle](http://aqwwiki.wikidot.com/sepulchure-battle).
 	- The Dread Knight Cleaver is dropped by Dark Sepulchure at [/sepulchure](http://aqwwiki.wikidot.com/sepulchure-location).

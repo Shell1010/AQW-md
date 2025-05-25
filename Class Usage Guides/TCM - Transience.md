@@ -165,7 +165,7 @@ Big damage, big risks, great in parties due to boost scaling. Often used alongsi
 	- Auto Attack applies a DoT that stacks to 15 and lasts 40 seconds
 	- Hourglass Inversion (3) applies a HoT for 20 seconds
 
-Often used with Hourglassof Transience if you do not have dauntless. Due to the fact the HoT output is kinda low ish, it is recommended to square the output. So utilise Corruption Through Time’s (4) 20% all out buff and then apply the HoT.
+Often used with Hourglass of Transience if you do not have dauntless. Due to the fact the HoT output is kinda low ish, it is recommended to square the output. So utilise Corruption Through Time’s (4) 20% all out buff and then apply the HoT.
 
 ---
 ### Foresee Corruption

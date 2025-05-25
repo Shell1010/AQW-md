@@ -1,5 +1,11 @@
 ---
 dg-publish: true
+dg-metatags:
+  og:site_name: AQW Hub
+  og:title: Dragon of Time Guide
+  og:description: Guide to obtain Dragon of Time
+  description: Guide to obtain Dragon of Time
+  og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 Dragon of time has some really basic prerequisites:
 - Having level 75
@@ -20,7 +26,7 @@ To start the quests head to [/timeinn](http://aqwwiki.wikidot.com/inn-at-the-edg
 	- [Frost King's Story](http://aqwwiki.wikidot.com/frost-king-s-story)
 		- Kill [/kingcoal](http://aqwwiki.wikidot.com/king-coal)
 	- [Your Own Memories](http://aqwwiki.wikidot.com/your-own-memories)
-		- Go to [/baconcatyou](http://aqwwiki.wikidot.com/bacon-cat-you) and defeat yourself 
+		- Go to [/baconcatyou](http://aqwwiki.wikidot.com/bacon-cat-you) and defeat yourself
 
 ---
 
@@ -45,7 +51,7 @@ To start the quests head to [/timeinn](http://aqwwiki.wikidot.com/inn-at-the-edg
 	- [Pink Blade of Destruction](http://aqwwiki.wikidot.com/pink-blade-of-destruction)
 		- Reward from a [/techfortress](http://aqwwiki.wikidot.com/tech-fortress) quest, may need to complete the questline
 	- [Cross-Era Stabilizer](http://aqwwiki.wikidot.com/cross-era-stabilizer)
-		- Head to [/evilwarnul]([Evil War Nulgath](http://aqwwiki.wikidot.com/evil-war-nulgath)) and beat laken till he drops it
+		- Head to [/evilwarnul](http://aqwwiki.wikidot.com/evil-war-nulgath) and beat laken till he drops it
 	- [Chronomancer's Codex](http://aqwwiki.wikidot.com/chronomancer-s-codex)
 		- Defeat Iadoa in [/timespace](http://aqwwiki.wikidot.com/time-space) for the drop
 		- Have the [dragonoid of hours](http://aqwwiki.wikidot.com/dragonoid-of-hours) in your inventory so you don’t take 3 hours due to his mechanic
@@ -138,10 +144,10 @@ You should now have obtained the class!!! I’ll write a usage guide later.
 
 ---
 
-###Bonus quest for those who want the around 2 Character Page Badges and bonus gear
+### Bonus quest for those who want the around 2 Character Page Badges and bonus gear
 - **”I'm Loving it My Way”**
 	- [Borgar](http://aqwwiki.wikidot.com/borgar)
-		-finish first the questline in [/borgars](http://aqwwiki.wikidot.com/yulgar-s-borgars-location)
-		-Then do the Burglinster's Revenge quest four times by
-   		-Defeating [Burglinster](http://aqwwiki.wikidot.com/burglinster)(can be taxi'd for all quests by a fellow Battlebuddy if they completed it)
-   		-once you have 5x Burger Buns merge them from Yulgar into the Borgar then turn in with 15,000gold
+		- Finish first the questline in [/borgars](http://aqwwiki.wikidot.com/yulgar-s-borgars-location)
+		- Then do the Burglinster's Revenge quest four times by
+			- Defeating [Burglinster](http://aqwwiki.wikidot.com/burglinster)(can be taxi'd for all quests by a fellow Battlebuddy if they completed it)
+			- Once you have 5x Burger Buns merge them from Yulgar into the Borgar then turn in with 15,000gold
