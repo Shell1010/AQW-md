@@ -36,7 +36,7 @@ Checkout: [http://aqwwiki.wikidot.com/boosted-items-sorted-by-boost]
 | ----- | -------------------------------------------- | ------------------------------------------ | ----------------------------- |
 | CmD   | Ravenous or Dauntless/Forge/Penitence/Lucky  | Fate/Destruction Elixir + Scroll of Enrage | Taunt every 2 million hp lost |
 | VHL   | Smite or Dauntless/Anima/Penitence/Fighter   | Fate/Destruction Elixir + Scroll of Enrage | Taunt every 2 million hp lost |
-| DoT   | Elysium/Pneuma or Wizard/Vainglory/Wizard    | Fate/Destruction Elixir + Scroll of Enrage | Taunt every 2 million hp lost |
+| DoT   | Elysium/Pneuma or Wizard/Wizard              | Fate/Destruction Elixir + Scroll of Enrage | Taunt every 2 million hp lost |
 | LR    | Valiance/Pneuma or Wizard/Vainglory          | Fate/Destruction Elixir + Scroll of Enrage | Taunt every 2 million hp lost |
 
 ### SC Alternatives
