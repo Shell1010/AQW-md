@@ -63,7 +63,7 @@ Notes:
 | Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )              | Extra Information |
 | ----------- | ------------------------------------- | ------------------------------------------ | ----------------- |
 | SC          | Awe Blast or ArCon/Forge/Abs/Wizard   | Fate/Destruction Elixir + Potent Honor     |                   |
-| LH/DLH      | Dauntless/Wiz/Vainglory               | Fate/Destruction Elixir + Potent Honor     |                   |
+| LH/DLH      | Dauntless/Wiz/Vainglory/Wizard        | Fate/Destruction Elixir + Potent Honor     |                   |
 | IK          | Elysium/Pneuma/Vainglory/Wizard       | Fate/Destruction Elixir + Potent Honor     |                   |
 
 ## Alternatives (CaV)
