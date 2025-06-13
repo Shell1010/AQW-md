@@ -2,39 +2,82 @@
 dg-publish: true
 dg-metatags:
   og:site_name: AQW Hub
-  og:title: Timeinn Ultras
-  og:description: Guide to the Timeinn Ultras
-  description: Guide to the Timeinn Ultras
+  og:title: TimeInn Ultras
+  og:description: Guide to the TimeInn Ultras
+  description: Guide to the TimeInn Ultras
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
+
 # Ultra Ezrajal
 
-Honestly if you really wanted you could run mostly anything but there are spots like AP/LOO/LR that are that can't always be replaced, LOO and LR in particular. You can use any DPS also. There are no weird difficult mechanics but he has a counter attack so it is a good idea to hit esc when he starts the counter attack. Also make sure your useful skill doesn't get locked.
+**Equipment Recommended:** All-tagged
 
-| Class       | Enhancements                          | Consumables                            | Extra Information |
+Notes:
+
+* You can use any DPS
+* Has a counter attack mechanic, **hit ESC** when he starts the counter attack.
+* Make sure your useful skill doesn't get locked.
+
+| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )          | Extra Information |
 | ----------- | ------------------------------------- | -------------------------------------- | ----------------- |
 | LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor      |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent honor |                   |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
+| AP/alt      | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent Honor |                   |
 | LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
+| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
+
+# Ultra Warden
+
+**Equipment Recommended:** All-tagged
+
+Notes:
+
+* Boss drops your hp to 1 every 5%
+* LR can taunt here to prevent the party getting wiped.
+* Alternatively can replace AP for something like SC/LH for more consistent heals.
+
+| Class       | Enhancements (Weapon/Helm/Cape/Class)       | Consumables (15min + Active )              | Extra Information |
+| ----------- | ------------------------------------------- | ------------------------------------------ | ----------------- |
+| LOO         | Awe Blast/Forge/Vainglory/Lucky             | Body/Divine Elixir + Potent Honor          |                   |
+| AP          | Valiance or Ravenous/Forge/Vainglory/Lucky  | Fate/Destruction Elixir + Potent honor     |                   |
+| LR          | Dauntless or Valiance/Wiz/Vainglory/Wizard  | Sage/Malevolence Elixir + Scroll of Enrage | Spam taunt        |
+| CaV/any dps | Valiance or Dauntless/Anima/Vainglory/Lucky | Fate/Destruction Elixir + Potent Honor     |                   |
 
 # Ultra Engineer
 
-Destroy the defense drone first as it has a counter attack. You have an option to taunt the nuke but usually you kill him before that.
+**Equipment Recommended:** All-tagged
 
-| Class       | Enhancements                          | Consumables                            | Extra Information |
+Notes:
+
+* Destroy the **defense drone first** as it has a counter attack.
+* You have an option to taunt the nuke but usually you kill him before that.
+
+| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )          | Extra Information |
 | ----------- | ------------------------------------- | -------------------------------------- | ----------------- |
 | LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor      |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent honor |                   |
+| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent Honor |                   |
+| LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
 | CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
-| LR/any      | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
-# Ultra Warden
 
-Boss drops your hp to 1 every 5%, LR can taunt here to prevent the party getting wiped. Alternatively can replace AP for something like SC/LH for more consistent heals, it's better to have more heals than 
+## Alternatives (AP)
 
-| Class       | Enhancements                          | Consumables                                | Extra Information |
+| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )              | Extra Information |
 | ----------- | ------------------------------------- | ------------------------------------------ | ----------------- |
-| LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor          |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent honor     |                   |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor     |                   |
-| LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Scroll of Enrage | Spam taunt        |
+| SC          | Awe Blast or ArCon/Forge/Abs/Wizard   | Fate/Destruction Elixir + Potent Honor     |                   |
+| LH/DLH      | Dauntless/Wiz/Vainglory               | Fate/Destruction Elixir + Potent Honor     |                   |
+| IK          | Elysium/Pneuma/Vainglory/Wizard       | Fate/Destruction Elixir + Potent Honor     |                   |
+
+## Alternatives (CaV)
+
+| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )              | Extra Information |
+| ----------- | ------------------------------------- | ------------------------------------------ | ----------------- |
+| VDK         | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor     |                   |
+
+**Legend:**
+
+* LoO - Lord of Order
+* AP - ArchPaladin
+* LR - Legion Revenant
+* VDK - Verus DoomKnight
+* SC/IT - StoneCrusher/Infinity Titan
+* LH/DLH - Legendary Hero/Dark Legendary Hero
+* IK - Interstellar Knight/Infinity Knight
