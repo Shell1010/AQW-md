@@ -6,11 +6,13 @@ dg-metatags:
   og:description: Guide to the TimeInn Ultras
   description: Guide to the TimeInn Ultras
   og:image: https://bigrat.monster/media/bigrat.jpg
+dg-added: June-13-2025
+dg-updated: June-13-2025
 ---
 
 # Ultra Ezrajal
 
-**Equipment Recommended:** All-tagged
+**Equipment Recommended:** All-tagged (40% - 51%)
 
 Notes:
 
@@ -18,12 +20,12 @@ Notes:
 * Has a counter attack mechanic, **hit ESC** when he starts the counter attack.
 * Make sure your useful skill doesn't get locked.
 
-| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )          | Extra Information |
-| ----------- | ------------------------------------- | -------------------------------------- | ----------------- |
-| LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor      |                   |
-| AP/alt      | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent Honor |                   |
-| LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
+| Class       | Enhancements (Weapon/Helm/Cape/Class)       | Consumables (15min + Active )          | Extra Information |
+| ----------- | ------------------------------------------- | -------------------------------------- | ----------------- |
+| LOO         | Awe Blast/Forge/Vainglory/Lucky             | Body/Divine Elixir + Potent Honor      |                   |
+| AP/alt      | Valiance or Ravenous/Forge/Vainglory/Lucky  | Fate/Destruction Elixir + Potent Honor |                   |
+| LR          | Dauntless/Wiz/Vainglory/Wizard              | Sage/Malevolence Elixir + Potent Honor |                   |
+| CaV/alt     | Valiance or Dauntless/Anima/Vainglory/Lucky | Fate/Destruction Elixir + Potent Honor |                   |
 
 # Ultra Warden
 
@@ -40,7 +42,7 @@ Notes:
 | LOO         | Awe Blast/Forge/Vainglory/Lucky             | Body/Divine Elixir + Potent Honor          |                   |
 | AP          | Valiance or Ravenous/Forge/Vainglory/Lucky  | Fate/Destruction Elixir + Potent honor     |                   |
 | LR          | Dauntless or Valiance/Wiz/Vainglory/Wizard  | Sage/Malevolence Elixir + Scroll of Enrage | Spam taunt        |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory/Lucky | Fate/Destruction Elixir + Potent Honor     |                   |
+| CaV/alt     | Valiance or Dauntless/Anima/Vainglory/Lucky | Fate/Destruction Elixir + Potent Honor     |                   |
 
 # Ultra Engineer
 
@@ -51,12 +53,12 @@ Notes:
 * Destroy the **defense drone first** as it has a counter attack.
 * You have an option to taunt the nuke but usually you kill him before that.
 
-| Class       | Enhancements (Weapon/Helm/Cape/Class) | Consumables (15min + Active )          | Extra Information |
-| ----------- | ------------------------------------- | -------------------------------------- | ----------------- |
-| LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor      |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent Honor |                   |
-| LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
+| Class       | Enhancements (Weapon/Helm/Cape/Class)       | Consumables (15min + Active )          | Extra Information |
+| ----------- | ------------------------------------------- | -------------------------------------- | ----------------- |
+| LOO         | Awe Blast/Forge/Vainglory/Lucky             | Body/Divine Elixir + Potent Honor      |                   |
+| AP          | Valiance or Ravenous/Forge/Vainglory/Lucky  | Fate/Destruction Elixir + Potent Honor |                   |
+| LR          | Dauntless/Wiz/Vainglory                     | Sage/Malevolence Elixir + Potent Honor |                   |
+| CaV/alt     | Valiance or Dauntless/Anima/Vainglory/Lucky | Fate/Destruction Elixir + Potent Honor |                   |
 
 ## Alternatives (AP)
 
