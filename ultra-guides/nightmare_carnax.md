@@ -22,14 +22,14 @@ Notes:
 
 ## Team Composition
 
-| Class   | Enhancements (Weapon/Helm/Cape/Class)            | Consumables (15min + Active )     | Extra Information  |
-| ------- | ------------------------------------------------ | --------------------------------- | ------------------ |
-| DoT     | Valiance or Elysium/Healer/Vainglory/Healer      | Body/Divine Elixir + Potent Honor | 2-3-5-4-3-(Repeat) |
-| QCM     | Dauntless or Smite/Forge/Vainglory/Lucky         | Body/Divine Elixir + Potent Honor |                    |
-| LR      | Valiance/Pneuma/Vainglory/Wizard                 | Body/Divine Elixir + Potent Honor |                    |
-| LoO     | ArCon or Awe Blast(Lucky)/Forge/Absolution/Lucky | Body/Divine Elixir + Potent Honor |                    |
-| AP      | Valiance or Awe Blast(Lucky)/Forge/Lament/Lucky  | Body/Divine Elixir + Potent Honor |                    |
-| PCM     | Mana Vamp(Healer)/Healer/Vainglory/Healer        | Body/Divine Elixir + Potent Honor |                    |
-| SC/IT   | Awe Blast(Wiz)/Forge/Absolution/Lucky            | Body/Divine Elixir + Potent Honor |                    |
-| FB      | Awe Blast(Lucky)/Fighter/Absolution/Fighter      | Body/Divine Elixir + Potent Honor |                    |
-| Healer  | Ravenous/Healer/Healer/Healer                    | Body/Divine Elixir + Potent Honor |                    |
+| Class   | Enhancements (Weapon/Helm/Cape/Class)            | Consumables (15min + Active )                 | Extra Information  |
+| ------- | ------------------------------------------------ | --------------------------------------------- | ------------------ |
+| DoT     | Valiance or Elysium/Healer/Vainglory/Healer      | Body/Divine Elixir + Potent Honor             | 2-3-5-4-3-(Repeat) |
+| LoO     | ArCon or Awe Blast(Lucky)/Forge/Absolution/Lucky | Body/Divine Elixir + Potent Honor             |                    |
+| QCM     | Dauntless or Smite/Forge/Vainglory/Lucky         | Fate/Potent Destruction Elixir + Potent Honor |                    |
+| FB      | Awe Blast(Lucky)/Fighter/Absolution/Fighter      | Fate/Potent Destruction Elixir + Potent Honor |                    |
+| LR      | Valiance/Pneuma/Vainglory/Wizard                 | Sage/Potent Malevolence Elixir + Potent Honor |                    |
+| AP      | Valiance or Awe Blast(Lucky)/Forge/Lament/Lucky  | Sage/U. Malevolence Elixir + Potent Honor     |                    |
+| PCM     | Mana Vamp(Healer)/Healer/Vainglory/Healer        | Sage/U. Malevolence Elixir + Potent Honor     |                    |
+| SC/IT   | Awe Blast(Wiz)/Forge/Absolution/Lucky            | Sage/U. Malevolence Elixir + Potent Honor     |                    |
+| Healer  | Ravenous/Healer/Healer/Healer                    | Sage/U. Malevolence Elixir + Potent Honor     |                    |
