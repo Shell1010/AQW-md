@@ -112,16 +112,16 @@ Go to [/dwarfhold](http://aqwwiki.wikidot.com/dwarfhold) to speak with Geopeta
 		    - Dropped by [Horc Noob](http://aqwwiki.wikidot.com/horc-noob) in  [/noobshire](http://aqwwiki.wikidot.com/noobshire) and [/tutor](http://aqwwiki.wikidot.com/tutor)
 		- Bronze Brush x1
 		    - Dropped by [Bronze Draconian](http://aqwwiki.wikidot.com/bronze-draconian)
-		    - access point to monster is [/underlair](http://aqwwiki.wikidot.com/underlair) Northwest of Screen 1
+		    - Access point to monster is [/lair](http://aqwwiki.wikidot.com/vasalkar-s-lair)
 		- Burlap Cloth x4
 		    - Dropped by [Scarecrow](http://aqwwiki.wikidot.com/scarecrow)at [/farm](http://aqwwiki.wikidot.com/farm)
 		- Elemental Stone Sharpener x1
-		    - Dropped by [Rock Elemental (1)](http://aqwwiki.wikidot.com/rock-elemental-1)from - [/bludrut](http://aqwwiki.wikidot.com/bludrut-keep)- 
-		    - can accessed by Ladder near [Fire Thief Ghost](http://aqwwiki.wikidot.com/fire-thief-ghost) in [/bludrut2](http://aqwwiki.wikidot.com/bludrut-keep-2) - 
+		    - Dropped by [Rock Elemental](http://aqwwiki.wikidot.com/rock-elemental-1) from [/bludrut](http://aqwwiki.wikidot.com/bludrut-keep)
+		    - Can be accessed by Ladder near [Fire Thief Ghost](http://aqwwiki.wikidot.com/fire-thief-ghost) in [/bludrut2](http://aqwwiki.wikidot.com/bludrut-keep-2) - 
 		    - taxiable if BattleBuddy has unlocked/cleared boss area quest
 		- Dark Makai Lacquer Finish x1
 		    - Dropped by [Dark Makai (Level 25)](http://aqwwiki.wikidot.com/dark-makai) 
-		    - mobs located at [Evil Marsh](http://aqwwiki.wikidot.com/evil-marsh) [Nulgath (Location)](http://aqwwiki.wikidot.com/nulgath-location) [Tercessuinotlim](http://aqwwiki.wikidot.com/tercessuinotlim)
+		    - Mobs located at [Evil Marsh](http://aqwwiki.wikidot.com/evil-marsh) / [Nulgath (Location)](http://aqwwiki.wikidot.com/nulgath-location) / [Tercessuinotlim](http://aqwwiki.wikidot.com/tercessuinotlim)
 	
 - DoomSoldier Weapon Kit 
 	- Complete this quest THREE(or FOUR for anti RNG method) times. 

@@ -24,6 +24,7 @@ With thanks to the following people for providing me with information:
 | 2000            | [/templeshrine](http://aqwwiki.wikidot.com/eclipse-ascent)                                                                   | Completing the Ascension of the Eclipse dungeon drops 7 [Hallowed Remains](http://aqwwiki.wikidot.com/hallowed-remains) which sell for 50,000 Gold. With a good group you can average around 3min 25sec per dungeon. |
 | 3000-6500       | [/doomvault](http://aqwwiki.wikidot.com/doom-vault)                                                                          | Killing Binky with [Yulgar's Worst Nightmare](http://aqwwiki.wikidot.com/yulgar-s-quests) and [Darkon's Second Errand](http://aqwwiki.wikidot.com/darkon-s-quests#Garden).                                           |
 | 400-2100        | [/icestormunder](http://aqwwiki.wikidot.com/icestorm-under)                                                                  | Only with eternal inversionist. With LR/LOO you can get really high upto 350 KPM.                                                                                                                                    |
+| 10000 - 15000   | [/lichwar](http://aqwwiki.wikidot.com/lich-war)                                                                              | Friday 13th or Member exclusive. Basically 2nd best gold farm in the game. Kill the 30k HP mobs.                                                                                                                     |
 
 ---
 

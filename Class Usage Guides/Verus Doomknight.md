@@ -110,11 +110,10 @@ This skill is generally used to enter into the Unleashed doom state to get even 
 
 Some scenarios where VDK may do better in than others.
 
-| Situation | Enhancements                                    | Rating | Extra Information                                |
-| --------- | ----------------------------------------------- | ------ | ------------------------------------------------ |
-| Farming   | Valiance or Dauntless/Vim/Avarice               | 2/10   | Short cooldowns but Single Target holds it back. |
-| Solo      | Dauntless/Anima/Vainglory                       | 9/10   |                                                  |
-| Party     | Dauntless or Valiance/Forge/Lament or Penitence | 8/10   | Provides great party burst dps support.          |
+| Situation | Enhancements                       | Rating | Extra Information                                |
+| --------- | ---------------------------------- | ------ | ------------------------------------------------ |
+| Solo      | Dauntless/Anima/Vainglory          | 9/10   |                                                  |
+| Party     | Ravenous/Forge/Lament or Penitence | 8/10   | Provides great party burst dps support.          |
 
 ---
 
@@ -125,6 +124,8 @@ Very braindead to play, pretty much get stacks of doom from using your skill and
 You get a gather darkness stack from using 5 while in unleashed doom or initiating unleashed doom.
 
 
-2345 234 2345 234 ...
+2345 234
+
+Or just any variation of 234 works.
 
 Depending on the situation you can change what you use the Gather Darkness stack on, for example if you want extra defense, use it on 3.

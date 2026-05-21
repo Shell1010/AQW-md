@@ -11,12 +11,12 @@ dg-metatags:
 
 Honestly if you really wanted you could run mostly anything but there are spots like AP/LOO/LR that are that can't always be replaced, LOO and LR in particular. You can use any DPS also. There are no weird difficult mechanics but he has a counter attack so it is a good idea to hit esc when he starts the counter attack. Also make sure your useful skill doesn't get locked.
 
-| Class       | Enhancements                          | Consumables                            | Extra Information |
-| ----------- | ------------------------------------- | -------------------------------------- | ----------------- |
-| LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor      |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent honor |                   |
-| CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor |                   |
-| LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Potent Honor |                   |
+| Class       | Enhancements                    | Consumables                            | Extra Information |
+| ----------- | ------------------------------- | -------------------------------------- | ----------------- |
+| LOO         | Awe Blast/Forge/Vainglory       | Body/Divine Elixir + Potent Honor      |                   |
+| AP          | Valiance/Forge/Lament           | Fate/Destruction Elixir + Potent honor |                   |
+| CaV/any dps | Valiance/Anima/Vainglory        | Fate/Destruction Elixir + Potent Honor |                   |
+| LR          | Arcana’s Concerto/Wiz/Vainglory | Sage/Malevolence Elixir + Potent Honor |                   |
 
 # Ultra Engineer
 
@@ -35,6 +35,6 @@ Boss drops your hp to 1 every 5%, LR can taunt here to prevent the party getting
 | Class       | Enhancements                          | Consumables                                | Extra Information |
 | ----------- | ------------------------------------- | ------------------------------------------ | ----------------- |
 | LOO         | Awe Blast/Forge/Vainglory             | Body/Divine Elixir + Potent Honor          |                   |
-| AP          | Valiance or Ravenous/Forge/Vainglory  | Fate/Destruction Elixir + Potent honor     |                   |
+| AP          | Valiance or Ravenous/Forge/Lament     | Fate/Destruction Elixir + Potent honor     |                   |
 | CaV/any dps | Valiance or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Potent Honor     |                   |
 | LR          | Dauntless/Wiz/Vainglory               | Sage/Malevolence Elixir + Scroll of Enrage | Spam taunt        |

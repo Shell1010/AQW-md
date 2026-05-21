@@ -17,3 +17,4 @@ These drop rates are gathered using this [companion application](https://github.
 | Ethereal Essence (/Towerofdoom10) (Crickets)    | 75-80%    |                                                                                         |
 | Ethereal Essence (/Towerofdoom10) (Dread Thing) | 80-85%    |                                                                                         |
 | Ultimate Darkness Gem (/Shadowfallwar) (All)    | 2%        | ~2000 kills, low variance overall                                                       |
+|                                                 |           |                                                                                         |

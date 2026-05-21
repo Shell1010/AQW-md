@@ -7,7 +7,7 @@ dg-metatags:
   description: Newbie/Returning Player Guide
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-A Comprehensive newbie guide, starting from UI elements to a basic game play progression guide.
+A Comprehensive newbie guide, starting from UI elements to a basic game play progression guide. It doesn’t cover everything though. For a checklist of what to obtain as you progress, check out [KooRowMe’s Progress Tracker](https://aqwtracker.com/) which is a very useful checklist as you progress through the game.
 
 Thank you to the following people for advice:
 - Shuga (Red Sugar)
@@ -133,11 +133,9 @@ Below are a list of chat commands you can input in chat to perform an action. Yo
 | {player name} > (space bar)                                   | Temporarily switch chat to private chat with specified player (works for players that have a space in their name)                                    |
 | /w, /tell {player} (space bar)                                | Temporarily switch chat to private chat with specified player (does not work for players with a space in their name)                                 |
 | /s, /say, /1 (space bar)                                      | Switch chat to normal chat                                                                                                                           |
-| /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
 | /g (space bar)                                                | Switches chat to guild chat (**s**, **say** or **1** followed by pressing the space bar deactivates guild chat)                                      |
 | /c (space bar)                                                | Switch chat to private chat with the last player that PM'd you (**s**, **say** or **1** followed by pressing the space bar deactivates private chat) |
 | /r (space bar)                                                | Reply to the last person who whispered to you in private chat                                                                                        |
-| > (space bar)                                                 | Reply to the last person who whispered to you in private chat                                                                                        |
 | /e, /me, /em {message}                                        | Displays a custom emote in chat                                                                                                                      |
 | /afk                                                          | Toggles your AFK status on/off                                                                                                                       |
 | /friend {player}                                              | Invites player to join your friends list                                                                                                             |
@@ -149,7 +147,7 @@ Below are a list of chat commands you can input in chat to perform an action. Yo
 | /invite {player}                                              | Invites player to join your party                                                                                                                    |
 | /ps {player}                                                  | Summons a player from another map (must be in your party to do so)                                                                                   |
 | /pi {player}                                                  | Invites a player to your party                                                                                                                       |
-| /p (space bar)                                                | Switch chat to party chat (**s**, **say** or **1** followed by pressing the space bar deactivates party chat)                                        |
+
 
 ---
 

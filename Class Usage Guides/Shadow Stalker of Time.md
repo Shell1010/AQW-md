@@ -13,6 +13,8 @@ There are some mechanics to understand when using this class, and the skills hav
 
 [Shuga’s amazing SWOT/SSOT guide here for another resource.](https://docs.google.com/document/d/100wt-J757ps3B2Dv-P6ZoDTFAtJi8f9gFikRbFJ3uTk/edit)
 
+[Me showcasing chainkilling potential of ssot real](https://www.youtube.com/watch?v=efdcha9Mt7s)
+
 *If you're buying this class, get it from /curio, you get 2 classes SSOT and SWOT, their cosmetics, for the price of 6k ACs*
 
 ## Skills Overview

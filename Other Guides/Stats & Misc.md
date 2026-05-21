@@ -259,63 +259,7 @@ This is base stats without additions from stats from enhancements.
 ---
 ## DoT/HoT Mechanics
 
-[Referencing some data stated here](https://sites.google.com/view/aqwadvancedmechanics/creditsreferences?authuser=0)
-
-DoT/HoT refers to "Damage over Time" and "Heal over Time". They're effected by All out %, Mag out %, DoT out %, but not effected by Phy out %. HoTs are just DoTs but in reverse so they're all effected by the same effects. Weapon Range, % Weapon Damage and Spell/Skill damage, and dps.
-
-**DOT/HOT Squaring**
-- When any outgoing modifier, all out, phy out, mag out, is applied before the application of a DoT/HoT, it will cause the all out to be squared during the calculation.
-- In a scenario where your base HoT with a fixed weapon is 144 using Bard, after applying drums and potent honour it should equate to 1.95x as your all out modifier. Your HoT should equate to 547, however 144 * 1.95 != 547 so there is obviously the effect of 1.95 being squared during the calculation to reach 547.
-- It is preferred to apply your buffs before applying said HoT/DoT because if you apply your buffs after the value will not be squared during calculation and just normal.
-- Applying buffs like this Buff > Dot > Buff will lead to the first buff being squared but your 2nd after the DoT will not be squared.
-
-*Squared DoT calculation*
-$$
-TotalDoT = (1 + Buffs)^2 \times UnboostedDoT
-$$
-
-
-**Physical DoTs**
-They're concerned with weapon damage and weapon dps. First you have to calculate the original HoT/DoT without buffs by dividing by the All outs, next divide by the weapon DPS.
-$$
-Physical DoT = \frac{CurrentValue}{buffs^2}\div WeaponDPS
-$$
-
-**Magical DoTs**
-$$
-Factor = 360 + (\frac{Weapon Enh Level - 1}{MaxLevel - 1})^{0.66}\times1640
-$$
-$$
-WeaponDPS = (\frac{Factor}{2000}\times 0.85 \times 100) + 0.1(Total AP)
-$$
-$$
-SpellDPS = (\frac{Factor}{2000}\times 0.85 \times 100) + 0.1(Total SP)
-$$
-*If the DoT is considered refreshable*
-$$
-WeaponDamage = WeaponDPS\times2
-$$
-$$
-SpellDamage = SpellDPS\times2
-$$
-
-[More equations referencing DoTs here](https://sites.google.com/view/aqwadvancedmechanics/home/dothot-formulae/dot-hot-equations/collection-of-dot-equations?authuser=0) 
-
-**Dynamic and Static stats**
-
-Stats that are dynamic means it’ll calculate per tick, and static meaning on initial application.
-
-- all out - dynamic & static
-- all in - dynamic 
-- mag out - dynamic
-- mag in - x
-- phys out - x
-- phys in - x
-- dot out - static
-- dot in - dynamic
-
-*Squaring demonstration below*
-[Post is here](https://www.reddit.com/r/AQW/comments/1iiitgx/squaring_demonstration/)
+[[DoTs Explained|Moved it here]]
 
 ---
 ## Chronos and their weird intricacies
@@ -336,17 +280,18 @@ For recording damage, it only records the most recent 10 seconds. If your nuke e
 
 The total damage done during that timespan is then multiplied by any additional all-out, mag-out, phy-out, dot-out (if nuke is dot) buffs, then multiplied by the rift modifiers below. I'm going to refer to the [[Shadow Stalker of Time#Extra information|SSOT Guide]] as it provides an example of how you'd calculate the final "damage recorded". Divide the damage recorded by any outgoing damage modifiers **BEFORE** putting in the multiplier for nukes, as nukes record the raw damage unaffected by outgoing damage modifiers. The only modifier that is considered to be part of the raw damage would be crit modifiers.
 
-Calendar Classes' Rift Mods (post-coefficient changes + post-rift multipliers) at 4 stacks:
+Calendar Classes' Rift Mods (post-rift multipliers) at 4 stacks:
 - CDK: 2.17
 - Chrono Commander: 1.95
 - Chrono Corruptor: 1.5
 - Chronomancer: 1.5
 - TCM: 1.95
-- IC: 2.7
+- IC: 2.25
 - SSoT: 0.3
 - TimeKiller: 1.5
 - Nechronomancer: 0.45
 - CSS: 0.45
+- PhCM: 0.24
 
 The values below are the coefficients, these are multiplied by the 4 stack rift multiplier to reach the modifiers above. 
 
@@ -356,21 +301,22 @@ Calendar Classes' coefficients:
 - Chrono Corruptor: 1
 - Chronomancer: 1
 - TCM: 1.3
-- IC: 1.8
+- IC: 1.5
 - SSOT: 0.2
 - TK: 1
 - Nechronomancer:  0.3
 - CSS: 0.3
+- PhCM: 0.16
 
 You can utilise this information to understand more about your chrono, especially in bossing situations where you are in a party, you can use this information to calculate the bare minimum amount of rifts required to kill a boss and avoid wasting extra time stacking for extra farming efficiency.
 
 It’s good to know that damage boosts scale even higher with chronos, the 75% + 35% combo is especially deadly at reaching extra high nukes.
 
 Example with IC:
-1 Stack: 1.8 * 0.5 = 0.9
-2 Stack: 1.8 * 0.7 = 1.26
-3 Stack: 1.8 * 1 = 1.8
-4 Stack: 1.8 * 1.5 = 2.7
+1 Stack: 1.5 * 0.5 = 0.45
+2 Stack: 1.5 * 0.7 = 1.07
+3 Stack: 1.5 * 1 = 1
+4 Stack: 1.5 * 1.5 = 2.25
 
 If you have a sort of idea of what sort of damage you're dealing at different stages of your nuke, you will not need to fully stack to deal great amounts of damage with certain classes that have high coefficients.
 
@@ -378,10 +324,6 @@ I’ve created a [google sheet](https://docs.google.com/spreadsheets/d/1Na6TZo-2
 
 ---
 ## Skill Functions
-
-Certain skills have different functions for damage. Screenshot below goes over some of the functions. Check the spreadsheet for a more comprehensive list.
-
-![](https://media.discordapp.net/attachments/476856315554037771/948008719768240208/Screenshot_2022-02-28-22-15-43-34.jpg?ex=66a391ab&is=66a2402b&hm=61094e79d8ca85be2ea42d62e83a714d03570f22bc917d7ebba4c3beac946f84&)
 
 This very cool [spreadsheet](https://docs.google.com/spreadsheets/d/1WeO37yc7UnPXCya4iiAgBZbSxpLH8nSZiPoOmWuGSuk/edit?gid=101348511#gid=101348511) (idk who’s the owner) holds some of the functions used for each class. I don’t think it’s fully completed but if you want to be a nerd the stuff exist yes. Found some inconsistencies though, for example when I checked css it used a 1.15 Hours1 damage function but spreadsheet uses 1.05. This is probably due to the fact CSS was changed on March 8th 2024, either way it’s still a decent thing to know.
 
@@ -399,7 +341,7 @@ Then the `RecordedDamageMod` is multiplied by the Raw damage, without outgoing o
 ---
 
 
-## Other Mechanics
+## Other Mechanics and Weirdisms
 
 **%ALL Boosted Weapons effect heals**
 Primarily for support classes, running an %all boosted weapon will boost your heals significantly. This doesn't work with tagged weapons.
@@ -422,4 +364,31 @@ This is a known mechanic in the community but I'll add it to be thorough. Damage
 **Quest Reward drop manipulation**
 ![[Pasted image 20240707230129.png]]
 If a quest states **You will receive one of the following items**, by accepting one of the drops and having it in your invetory you make the other drops guaranteed. This is a useful mechanic for certain farms, in this case the uni 34 can be obtained much easier.
+
+**SOS Shocked Healing**
+Has a bunch of weird mechanics that puts it apart from normal types of healing.
+
+- Unaffected by Mag Out
+- Unaffected by Phy Out
+- Unaffected by All Out
+- Unaffected by Weapon Boost
+- Unaffected by Heal Out
+- Unaffected by Noxious Decay (Ultradage)
+- Affected by SP
+- Affected by Weapon Range
+- Classed as a DoT in packets, obviously doesn’t behave like one
+- When negative roll (due to weapon range), actually goes into a decimal. Doesn’t always display the decimals but it’s visible in packets
+- 1.5 SP2
+
+**Damage Rounding**
+Unsolved for the most part, gonna note down what I find here. Ignore for the most part.
+- Crit Mod is rounded to 2 decimal places, so 335.40% → 3.354 → 3.35
+	- Worked with CSS, but failed with AP with 323.97%
+	- Off by a factor of 0.1%
+	- Assume Crit Mod is used separately
+- What if they just round up regardless? 
+	- Raw APSP2 x Coef (560.4 → 561 x 1.35 = 757.38 → 758)
+	- 758 x 1.2 = 909.6 → 910
+- Assuming Crit Mod, modifiers, coefficient (and maybe damage boosts) all calculated separately and rounded at each point. Whether it’s Math.Ceil or Regular round is dependent on what modifier it is? Also order matters too.
+	- Current Attempt to find pattern of order and rounding with a script
 

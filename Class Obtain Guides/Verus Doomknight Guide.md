@@ -98,12 +98,12 @@ Most of these quests will require specific strategies or comps, I may go in more
 
 - **"Necrotic Blade"**
 	- The [Shadow Reaper of Doom](http://aqwwiki.wikidot.com/shadowreaper-of-doom) can be created from merging x300 Mirror Realm Tokens and 1x Undead Paladin Token.
-		- Complete the [/mirrorportal] quest **"Good, Evil, and Chaos Battle"** for an easier time at getting mirror tokens.
+		- Complete the [/mirrorportal](http://aqwwiki.wikidot.com/mirror-portal) quest **"Good, Evil, and Chaos Battle"** for an easier time at getting mirror tokens.
 		- Beat up Undead artix at [/overworld](http://aqwwiki.wikidot.com/overworld) till he drops his token, it is a 0.5% drop. Good luck lmao.
 	- Read [[Sepulchure's Helm]] guide.
 	- Read [[ArchDoomKnight]] guide.
-	- Merge this at [/terminatemple](http://aqwwiki.wikidot.com/termina-temple).
-	- Merge this at [/doompirate](http://aqwwiki.wikidot.com/doom-pirate).
+	- Merge Dragonlord of Evil at [/terminatemple](http://aqwwiki.wikidot.com/termina-temple) .
+	- Merge Doomtech Doomknight at [/doompirate](http://aqwwiki.wikidot.com/doom-pirate).
 		- Farming the piece of Eight is difficult if you do not have LR.
 		- It is recommended to run Archpaladin otherwise, or some friends if you still need help.
 
@@ -111,7 +111,7 @@ Most of these quests will require specific strategies or comps, I may go in more
 
 Do not be afraid by the big funni number, they give around 2k-5k each kill.
 - **"Unleashed Doom"**
-	- Defeat the inquisitors at [/citadel](http://aqwwiki.wikidot.com/citadel-ruins).
+	- Defeat the inquisitors at [/citadelruins](http://aqwwiki.wikidot.com/citadel-ruins).
 	- Defeat the robots at [/deltavcore](http://aqwwiki.wikidot.com/delta-v-core).
 	- Defeat the dragons at [/etherwardes](http://aqwwiki.wikidot.com/etherstorm-war-desoloth).
 	- Defeat Chaos Vordred at [/necrocavern](http://aqwwiki.wikidot.com/necropolis-cavern).

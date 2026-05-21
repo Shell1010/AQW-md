@@ -52,6 +52,8 @@ The Necrotic Sword of Doom (NSoD) is one of AdventureQuest Worlds' most coveted 
 
 If you’re non-mem, have fun because there’s only really 1 viable option which is doing dailies. The other option is just terrible, long tedious farms with very little reward even if it’s a non-daily. For non-members I recommend doing [The Encroaching Shadows (Daily)](http://aqwwiki.wikidot.com/braeus-quests) quest that nets you 50x VA. This will take a total of 150 days to reach the 7500x VA requirement.
 
+[Gravelyn Friendship](http://aqwwiki.wikidot.com/friendships) also grants extra void aura. At 6 hearts alongside the regular VA daily, you can reduce it to 109 days (ty Daerinius for info).   
+
 **”The Encroaching Shadows (daily)”**
 - Defeat icewing at [/icewing]
 - Get 3 eyeballs from the level 90 hydras at [/hydrachallenge](http://aqwwiki.wikidot.com/hydra-challenge)

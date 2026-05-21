@@ -20,6 +20,8 @@ This is going to be an attempt at making a somewhat updated version of AQWG. Mos
 
 [[Gold Guide]] - Showcasing some areas to gain gold fast.
 
+[AQWDex](https://aqwhub.com/aqwdex) - Pretty cool damage calculator yes.
+
 Remember to also follow the [AQW Wiki](http://aqwwiki.wikidot.com/) as it updated constantly with information regarding the new releases and is the best resource for anything and everything AQW related.
 
 **Disclaimer:**

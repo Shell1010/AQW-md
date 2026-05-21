@@ -66,6 +66,7 @@ You can start the quest from Mirror Drakath in /battleoff.
 	- Grab "The Supreme Arcane Staff" from killing Ledgermayne at [/ledgermayne](http://aqwwiki.wikidot.com/ledgermayne-location). This is a 1% drop.
 	- Get the "Dragonoid of hours" from killing the Dragonoid boss at [/mqlesson](http://aqwwiki.wikidot.com/mq-lesson)
 	- Grab "Safiria's Spirit Orb" from Safiria after clicking the "Take the Spirit Orb" button at [/maxius](http://aqwwiki.wikidot.com/maxius).
+	- Grab “Ice Katana” from completing the [Inferno Heart](http://aqwwiki.wikidot.com/warlic-s-quests#19) quest at [/Drakonnan](http://aqwwiki.wikidot.com/drakonnan-location)
 
 ---
 
@@ -78,7 +79,7 @@ You can start the quest from Mirror Drakath in /battleoff.
 ---
 
 - **"Ordinance"**
-	- Get "Acolyte's Braille" from [/newfinale](http://aqwwiki.wikidot.com/new-finale) and kill the Chaos Healer from willow creek, screen 2.
+	- Get "Acolyte's Braille" from [/newfinale](http://aqwwiki.wikidot.com/new-finale) and kill the Alliance Healer from willow creek, screen 2.
 	- Kill enemies from [/wardwarf](http://aqwwiki.wikidot.com/dwarf-war-location) for "Suppressed Drow's".
 	- Kill enemies from [/warundead](http://aqwwiki.wikidot.com/undead-war-location) for "Suppressed Undead's".
 	- Kill enemies from [/warhorc](http://aqwwiki.wikidot.com/horc-war-location) for "Suppressed Horc's".

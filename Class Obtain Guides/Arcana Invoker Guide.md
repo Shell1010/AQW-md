@@ -28,7 +28,7 @@ Some requirements from the quests are:
 
 **2 - The High Priestess' Intuition (3 Debris)**
 - [Dishpan Cleric Costume](http://aqwwiki.wikidot.com/dishpan-cleric-costume) from [/cleric](http://aqwwiki.wikidot.com/cleric)
-- [Chaotic Healer](http://aqwwiki.wikidot.com/chaotic-healer) from [/mountdoomskull](http://aqwwiki.wikidot.com/mount-doomskull-location) chaos slayer class shop, requires Rank 10 Chaos
+- [Alliance Healer](http://aqwwiki.wikidot.com/chaotic-healer) from [/mountdoomskull](http://aqwwiki.wikidot.com/mount-doomskull-location) chaos slayer class shop, requires Rank 10 Chaos
 - [Battle Cleric of the Dragon](http://aqwwiki.wikidot.com/battle-cleric-of-the-dragon) from [/terminatemple](http://aqwwiki.wikidot.com/termina-temple) merge
 - [Amia's Cult Secret](http://aqwwiki.wikidot.com/amia-s-cult-secret) from [/fotia](http://aqwwiki.wikidot.com/fotia) dropped by the cult leader
 

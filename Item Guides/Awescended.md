@@ -18,7 +18,7 @@ Requires level 25
 	- Kill the chaos egg's for their Yolk at [/uppercity](http://aqwwiki.wikidot.com/upper-dwarfhold).
 	- Defeat Edvard for his stone mask at [/lycanwar](http://aqwwiki.wikidot.com/lycan-warground).
 	- Join [/pyramid](http://aqwwiki.wikidot.com/sek-duat-pyramids) and defeat the mummies there.
-	- Defeat the Temple Guardians at [/templeravine](http://aqwwiki.wikidot.com/ravine-temple).
+	- Defeat the Stone Golem in [/cornelis](http://aqwwiki.wikidot.com/cornelis-ruins) till you get Block head.
 
 ---
 

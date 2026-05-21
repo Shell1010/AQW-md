@@ -9,7 +9,7 @@ dg-metatags:
 ---
 This here is going to be a general progression guide for forge enhancements. It will also state the improvements a certain forge enhancement may provide. For a guide for reputation, refer to the [[Faction Reputation Guides#Blacksmithing Reputation|Blacksmithing Reputation section]].
 
-With thanks to [this guide](https://docs.google.com/document/d/1-kgQVFhCtCs-akZlw-XeHQOIHcRoOvyIad9wokgnGXA/edit) created by the following people:
+With thanks to [this guide](https://docs.google.com/document/d/13cGAtXKRHiP0fi7knUXoZu5PJMs9pbqqPq7TcgWuL2k/edit?tab=t.0) created by the following people:
 - Shuga (Red Sugar)
 - Amber (apo11y0n)
 - Detective&Writer Koala 
@@ -349,7 +349,21 @@ Most classes can sustain themselves despite the healing penalty so it is mostly 
 - Must be Level 90.
 - Requires Rank 9 [[Faction Reputation Guides#Blacksmithing Reputation|Blacksmithing]].
 - [Indulgence](http://aqwwiki.wikidot.com/indulgence) x50 
+	- Reward from the [Circles of Fate](http://aqwwiki.wikidot.com/virgil-s-quests#7CFarm) quest
+		- In [/sevencircles](http://aqwwiki.wikidot.com/seven-circles) kill Luxuria, Gluttony, Avarice, and Limbo. (Or their guards)
 - [Penance](http://aqwwiki.wikidot.com/penance-misc) x50
+	- Merged from [Sevencircleswar Merge Shop](http://aqwwiki.wikidot.com/seven-circles-war-merge) using [Essence of Wrath](http://aqwwiki.wikidot.com/essence-of-wrath), [Essence of Violence](http://aqwwiki.wikidot.com/essence-of-violence), and [Essence of Treachery](http://aqwwiki.wikidot.com/essence-of-treachery) 
+		- [Essence of Wrath](http://aqwwiki.wikidot.com/essence-of-wrath) obtained via
+			- [Guards of Wrath Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar) 
+			- [Wrath Against the Machine Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+		- [Essence of Violence](http://aqwwiki.wikidot.com/essence-of-violence) obtained via
+			- [Meaningless Violence Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+			- [Violence Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+			- [Violence's Gatekeeper Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+		- [Essence of Treachery](http://aqwwiki.wikidot.com/essence-of-treachery) obtained via
+			- [Hanged for Treason Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+			- [Where the Trea-sun Don't Shine Quest](http://aqwwiki.wikidot.com/virgil-s-quests#7CWar)
+
 
 Haste can improve the performance of classes that can't reach max haste alone. This can be beneficial for classes like LR which require this for optimal farming.
 
@@ -423,11 +437,41 @@ Now with the completion of the cape enhancements you can start the endgame weapo
 - Must be Level 100.
 - Requires Rank 10 [[Faction Reputation Guides#Blacksmithing Reputation|Blacksmithing]].
 - [Fire Champion's Armor](http://aqwwiki.wikidot.com/fire-champion-s-armor).
+	- [Polished DragonSlayer](http://aqwwiki.wikidot.com/polished-dragonslayer) 1x
+		- Merge for this armour at [/wartraining](http://aqwwiki.wikidot.com/war-training)
+		- [Warfury Emblem](http://aqwwiki.wikidot.com/warfury-emblem) 30x
+			- Obtained from [Warfury Training Quest](http://aqwwiki.wikidot.com/varga-s-quests#WarTrainFarm) at same location
+			- Kill Bosses for a faster time
+		- [Enchanted Scale](http://aqwwiki.wikidot.com/enchanted-scale) 30x
+			- From [/dragontown](http://aqwwiki.wikidot.com/dragon-town) - [DragonSlayer General Class Quest](http://aqwwiki.wikidot.com/galanoth-s-quests#5) 
+		- [Dragon Scale (1)](http://aqwwiki.wikidot.com/dragon-scale-1) 30x
+			- Purchase with Dragon Runestone at [/AlchemyAcademy](http://aqwwiki.wikidot.com/alchemy-academy) merge
+		- 1,000,000 Gold
+			- [[Gold Guide]] ig
+	- [Warfury Emblem](http://aqwwiki.wikidot.com/warfury-emblem) 60x
+		- Obtained from [Warfury Training Quest](http://aqwwiki.wikidot.com/varga-s-quests#WarTrainFarm) at same location (kill bosses for faster time if you can)
+	- [Gold Voucher 500k](http://aqwwiki.wikidot.com/gold-voucher-500k) 50x
+		- [[Gold Guide]]
+	- [Enchanted Scale](http://aqwwiki.wikidot.com/enchanted-scale) 125x
+		- From [/dragontown](http://aqwwiki.wikidot.com/dragon-town) - [DragonSlayer General Class Quest](http://aqwwiki.wikidot.com/galanoth-s-quests#5) 
+		- Kill Bosses for a faster time
+	- [Flame-Forged Metal](http://aqwwiki.wikidot.com/flame-forged-metal) 10x
+		- From [/underworld](http://aqwwiki.wikidot.com/underworld) - [Need Flame Quest](http://aqwwiki.wikidot.com/chanky-s-quests)
+			- Kill Frozen Pyromancer
+	- [Void Scale](http://aqwwiki.wikidot.com/void-scale) 13x
+		- From [/underlair](http://aqwwiki.wikidot.com/underlair)
+		- Dropped by Archfiend Dragonlord, use a dodge class (Ninja easiest)
+			- Anything that hits 86.3% Dodge or higher is a dodge class
 - [Dragon of Time (Class)](http://aqwwiki.wikidot.com/dragon-of-time-class).
+	- [[Dragon of Time Guide]]
 - [Drakath the Eternal](http://aqwwiki.wikidot.com/drakath-the-eternal).
+	- [[Drakath Armour]]
 - [Eternity Blade](http://aqwwiki.wikidot.com/eternity-blade).
+	- [[Dragon of Time Guide]] has it at the end iirc
 - [Gravelyn's DoomFire Token](http://aqwwiki.wikidot.com/gravelyn-s-doomfire-token).
-- [ArchPaladin Armor](http://aqwwiki.wikidot.com/archpaladin-armor).
+	- [[Sepulchure's Helm]] has it
+- [ArchPaladin Armor](http://aqwwiki.wikidot.com/archpaladin-armor)
+	- [[Archpaladin Guide]]
 
 Requires the skill to target an enemy to activate, whether it debuffs or is a damaging skill. It can only hit 1 target at a time and will always hit the current enemy selected, even if the skill hits multiple targets.
 
@@ -481,9 +525,21 @@ Since it is multi-target, it can be used on certain farming classes. Since it pr
 - Must be Level 100.
 - Requires Rank 10 [[Faction Reputation Guides#Blacksmithing Reputation|Blacksmithing]].
 - [Darkon's Debris 2 (Reconstructed)](http://aqwwiki.wikidot.com/darkon-s-debris-2-reconstructed)
+	- [Darkon's Debris 2 (Recovered)](http://aqwwiki.wikidot.com/darkon-s-debris-2-recovered) 1x
+		- Merge at [/theworld](http://aqwwiki.wikidot.com/the-world)
+		- Kill Darkon for the Musical Score
+    - [Bandit's Correspondence](http://aqwwiki.wikidot.com/bandit-s-correspondence) 22x
+	    - From [/eridanipast](http://aqwwiki.wikidot.com/eridani-past) Quest
+    - [Suki's Prestige (Misc)](http://aqwwiki.wikidot.com/suki-s-prestige-misc) 22x
+	    - From [/astraviapast](http://aqwwiki.wikidot.com/astravia-past) Quest
+    - [Ancient Remnant](http://aqwwiki.wikidot.com/ancient-remnant) 22x
+	    - From [/firstobservatory](http://aqwwiki.wikidot.com/first-observatory) Quest
+    - [Mourning Flower](http://aqwwiki.wikidot.com/mourning-flower) 22x
+	    - From [/GenesisGarden](http://aqwwiki.wikidot.com/mourning-flower) Quest
+	- [Darkon Insignia](http://aqwwiki.wikidot.com/darkon-insignia) 20x [[Astravia Ultras]]
 - [Prince Darkon's Poleaxe](http://aqwwiki.wikidot.com/prince-darkon-s-poleaxe)
-- [King Drago Insignia](http://aqwwiki.wikidot.com/king-drago-insignia) from [[Astravia Ultras]].
-- [Darkon Insignia](http://aqwwiki.wikidot.com/darkon-insignia) from [[Astravia Ultras]].
+- [King Drago Insignia](http://aqwwiki.wikidot.com/king-drago-insignia) from [[Astravia Ultras]]
+- [Darkon Insignia](http://aqwwiki.wikidot.com/darkon-insignia) from [[Astravia Ultras]]
 
 This will trigger whether the skill does/doesn't do any damage. Seen as a support enhancement as it is basically awe blast but good (they both stack). Great for classes with fast auto attacks for extra DPS, for example against Void bosses.
 
@@ -491,20 +547,14 @@ This will trigger whether the skill does/doesn't do any damage. Seen as a suppor
 # Ravenous
 
 **Special skill on auto attack:**
-- 100% chance to activate on auto attack (10 second cooldown).
-- Deals 75% Hybrid Damage.
-- Recovers 15 mana.
-- Applies Ravenous to the target for 10 seconds:
-    - -5% Haste
-    - -5% Crit Chance
-    - -5% Dodge
-    - -5% Damage Boost
-- Applies Execute to yourself for 10 seconds:
-    - +5% Haste
-    - +5% Crit Chance
-    - +5% Dodge
-    - +5% Damage Boost
-    - Skills deal 0.9% bonus damage for each 1% of the target's missing HP. (This includes normal heals, but not HoT effects.)
+- 100% chance to activate on third skill (no cooldown).
+- Deals 75 - 338% Hybrid Damage, increasing the lower your target's health is.
+- Applies Ravenous to yourself for 10 seconds:
+    - +10% Damage Boost
+    - +25% Crit Chance
+- Applies a stack of Consumed to your target, stacks to 30 and lasts 10 seconds:
+    - -10% Damage Boost, then -1% per additional stack.
+    - -10% Crit Chance, then -1% per additional stack.
 
 |Level|STR|INT|DEX|WIS|END|LUK|Cost|
 |---|---|---|---|---|---|---|---|
@@ -540,9 +590,19 @@ Gives bonus damage for each 1% of the missing HP from the target, effecting norm
 - Must be Level 100.
 - Requires Rank 10 [[Faction Reputation Guides#Blacksmithing Reputation|Blacksmithing]].
 - [Infernal Flame Pyromancer](http://aqwwiki.wikidot.com/infernal-flame-pyromancer)
+	- [Avatar Tyndarius Insignia](http://aqwwiki.wikidot.com/avatar-tyndarius-insignia) 20x
+	- [Fire Avatar's Favor](http://aqwwiki.wikidot.com/fire-avatar-s-favor) 75x
+		- Obtained from [/Fireavatar](http://aqwwiki.wikidot.com/fire-avatar) doing the [Avatar’s Rage Quest](http://aqwwiki.wikidot.com/galanoth-s-quests#FAvatarFarm)
 - [Malgor's ShadowFlame Blade](http://aqwwiki.wikidot.com/malgor-s-shadowflame-blade)
+	- [Malgor Insignia](http://aqwwiki.wikidot.com/malgor-insignia) 20x
+	- [ShadowFlame Dragon Blade](http://aqwwiki.wikidot.com/shadowflame-dragon-blade) 1x
+		- Dropped by Malgor at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)
+	- [Elemental Core](http://aqwwiki.wikidot.com/elemental-core) 20x
+		- [Once Upon Another Time](http://aqwwiki.wikidot.com/tara-s-quests#Cradle) at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)
 - [Malgor the ShadowLord](http://aqwwiki.wikidot.com/malgor-the-shadowlord)
+	- [Build Malgor's Armor Set](http://aqwwiki.wikidot.com/tara-s-quests#CradleFarm) at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)
 - [ShadowLord's Helm](http://aqwwiki.wikidot.com/shadowlord-s-helm)
+	- [Build Malgor's Armor Set](http://aqwwiki.wikidot.com/tara-s-quests#CradleFarm) at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)
 - [Malgor Insignia](http://aqwwiki.wikidot.com/malgor-insignia) from [[Ultra Speaker]].
 - [Avatar Tyndarius Insignia](http://aqwwiki.wikidot.com/avatar-tyndarius-insignia) from [[Ultra Tyndarius]].
 
@@ -599,6 +659,7 @@ No special effects, just a bunch of hp with deduction to other stats.
 
 ### Requirements
 - Must have completed the '[The Gaol of Eternal Torment and Misery](http://aqwwiki.wikidot.com/undead-cashfear-s-quests#GaolCell)' and have Rank 7 [Grimskull Trolling](http://aqwwiki.wikidot.com/grimskull-trolling-faction) to purchase these enhancements.
+	- Just spam the dungeon like a sane person, who even does mechabinky nowadays
 
 ---
 

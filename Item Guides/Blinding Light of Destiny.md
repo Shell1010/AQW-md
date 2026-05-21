@@ -121,6 +121,7 @@ Once you are done with these three weapons you can start the final quest.
 	- 125x Bright Auras - **"Finding Fragments with the Blinding Bow"**.
 	- 75x Brilliant Auras - **"Finding Fragments with the Blinding Mace"**.
 	- 1x Blinding Auras - Drops from any of the Blinding Weapon quests, alternatively you can use **"Mine Crafting"** again and create the Blinding Scythe of Destiny for a guaranteed Blinding Aura.
+		- Requires Iron
 	- 500x Spirit Orbs - **"Finding Fragments with the Blinding Blade"**.
 	- 250x Loyal Spirit Orbs - **"Finding Fragments with the Blinding Blade"**.
 	- 1x Ultimate Weapon Kit - Should have been prefarmed.

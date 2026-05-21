@@ -123,7 +123,7 @@ The 5 also blinds enemy, which is useful for dodge rotations.
 
 | Situation         | Enhancements                                      | Rating | Extra Information                                                          |
 | ----------------- | ------------------------------------------------- | ------ | -------------------------------------------------------------------------- |
-| DPS               | Ravenous/Vim or Forge/Lament                      | 10/10  | Best in class DPS. Can probably swap Lament if you’re being buffed enough. |
+| DPS               | Valiance/Vim or Forge/Lament                      | 10/10  | Best in class DPS. Can probably swap Lament if you’re being buffed enough. |
 | DPS (Alternative) | Arcana’s Concerto or Valiance/Vim or Forge/Lament | 8/10   | Alternative DPS.                                                           |
 
 ---
@@ -149,6 +149,11 @@ Now to talk about **Gunslinger Mode**, this mode is where the idea that CSS reli
 The rotation for this varies depending on the boss, so I’ll list a few rotations.
 4444 (44) 2 → spam 1 (gunslinger mode) → 52 
 4444 (44) 2 → spam 1 (gunslinger mode) → 4444 (44) 52
+
+*Optimised CSS rotation, thanks to Alvii, Dragonripper 201, and other nerds at URE*
+
+4 (1 spam) 2 444 2 (1 spam until gunslinger ends **Not when out of mana**) 
+(44 (1 spam) 2 ) repeat 3x
 
 In general ultras the game plan is to either use the regular DPS **Temporal Rift** rotation or **Chaos Rift** rotations. Swap out Vim and Lament for Forge and Vainglory if you have enough support as it will provide extra damage. Add in an extra 3 in your rotations instead of 4 if you’re in places where you need extra healing, like UltraDarkon.
 

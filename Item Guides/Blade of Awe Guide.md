@@ -12,13 +12,11 @@ You can always refer back to the [wiki](http://aqwwiki.wikidot.com/valencia-s-qu
 Start the Blade of awe by joining /museum, clicking on valencia, Blade of Awe > To the CrossRoads. You then click on valencia again and start her Awe Quests. Each quest item is used to forge the Blade of Awe.
 
 - **"Find the Stonewrit!"**
-	- Drops from any dragon monster.
-	- /join [etherwardes](http://aqwwiki.wikidot.com/etherstorm-war-desoloth) and kill any dragons you find till you get the drop.
+	- /join [greendragon](http://aqwwiki.wikidot.com/greenguard-dragon-s-lair) and kill the green dragon till he drop.
 
 ---
 
 - **"Find the Handle!"**
-	- Drops from any elemental monster.
 	- /join [gilead](http://aqwwiki.wikidot.com/ruins-of-great-gilead) and kill any elementals you find till you get the drop.
 
 ---

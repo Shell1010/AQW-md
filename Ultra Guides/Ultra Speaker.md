@@ -49,6 +49,8 @@ QCM can be swapped to VHL, VDK, SC (why), CAV.
 
 Due to no taunts for the DPS, you can actually run something frail like CSS (or VHL) and full pot for fast 1-1.5 cycle clears, generally recommended to run 3 man taunt over 4 man taunt in most situations. This is because people tend to make mistakes the longer a fight goes on, and this just limits the length of this fight.
 
+[Alie’s Speaker DPS Chart](https://docs.google.com/spreadsheets/d/1B3CTAYDTBRb8jLgx1ztkTKGnOSkLwUFFsgrmMklqoAA/edit?gid=1132544999#gid=1132544999) Dictates which classes perform best in this fight, granted the times here are with optimal usage of each class so may be hard for newbies to completely replicate, it’s still a good metric to use.
+
 ![[Pasted image 20240620201641.png]]
 
 ## 2 Man Taunt

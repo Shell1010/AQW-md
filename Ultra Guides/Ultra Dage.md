@@ -16,7 +16,7 @@ This boss as a ledgermayne like mechanic where there are two platforms, bottom l
 | ----- | ---------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | CaV   | Health Vamp or Dauntless/Anima/Vainglory | Fate/Destruction Elixir + Scroll of Enrage | Loop taunt Dage with 3 and enrage. Don't hit your 4 skill as it is a HoT unless Dauntless.                             |
 | VDK   | Valiance or Dauntless/Anima/Vainglory    | Fate/Destruction Elixir + Potent honor     | Use your 5 skill to decay when he says "I possess the power of the legion at my disposal" to prevent him from healing. |
-| LOO   | Health Vamp/Forge/Vainglory              | Body + Potent Honor                        | Focus on dage, keep buffs up but do not use your heal.                                                                 |
+| LOO   | Health Vamp/Forge/Vainglory              | Body + Potent Honor/Scroll of Decay        | Focus on dage, keep buffs up but do not use your heal. Use scroll if necessary to help VDK decay.                      |
 | AP    | Health Vamp/Forge/Vainglory              | Fate/Destruction Elixir + Potent honor     | Focus on dage, debuff him and stack broken seals. Do not use your heal.                                                |
 
 # Alternative Comps
@@ -34,5 +34,5 @@ Probably the safest way to do this run.
 | ----- | --------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | CaV   | Dauntless/Anima/Vainglory   | Fate/Destruction Elixir + Scroll of Enrage | Loop taunt Dage with 3 and enrage. Don't hit your 4 skill as it is a HoT unless Dauntless.                             |
 | VDK   | Dauntless/Anima/Vainglory   | Fate/Destruction Elixir + Potent honor     | Use your 5 skill to decay when he says "I possess the power of the legion at my disposal" to prevent him from healing. |
-| LOO   | Health Vamp/Forge/Vainglory | Body + Potent Honor                        | Focus on dage, keep buffs up but do not use your heal.                                                                 |
+| LOO   | Health Vamp/Forge/Vainglory | Body + Potent Honor/Scroll of Decay        | Focus on dage, keep buffs up but do not use your heal. Use scroll if necessary to help VDK decay.                      |
 | LR    | Dauntless/Wiz/Vainglory     | Sage/Malevolence Elixir + Potent Honor     | Focus on dage, keep buffs up.                                                                                          |

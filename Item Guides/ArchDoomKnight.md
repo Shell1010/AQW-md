@@ -19,14 +19,15 @@ You are required to have Rank 7 Evil Reputation, please check [[Faction Reputati
 		- Fastest to obtain from [/necrodungeon](http://aqwwiki.wikidot.com/necropolis-dungeon) Doom Overlord as it drops multiple.
 		- Alternatively the 5 headed dracolich
 	- 500x Human Souls from [/noxustower](http://aqwwiki.wikidot.com/noxus-tower).
-	- 600x Dragon Energy, drops from most dragon kin, I recommend killing mobs at [/etherwardes](http://aqwwiki.wikidot.com/etherstorm-war-desoloth).
+	- 600x Dragon Energy, drops from most dragon kin, I recommend killing mobs at [/lair](http://aqwwiki.wikidot.com/vasalkar-s-lair)
 
 ---
 
 Really unnecessarily long.
 - **"Death's Door"**
-	- Grab death's power from [/deathsrealm](http://aqwwiki.wikidot.com/death-s-realm)
-	- Kill death from [/shadowattack](http://aqwwiki.wikidot.com/souls-of-the-dead) x400 (drops 1-15 per kill)
+	- Grab death's power from [/shadowattack](http://aqwwiki.wikidot.com/shadow-attack) from Death
+	- Kill Death from [/shadowattack](http://aqwwiki.wikidot.com/souls-of-the-dead) x400 (drops 1-15 per kill)
+		- You can TP to him using the NPC after finishing the questline
 
 ---
 
@@ -42,7 +43,7 @@ Basically kill each chaos lord for a drop
 	- Go to [/djinn](http://aqwwiki.wikidot.com/djinn) and take the armour
 	- Get the Soul of Chaos armour from [/dreamnexus](http://aqwwiki.wikidot.com/dream-nexus)
 	- Grab the Chaos Lionfang armour from [/stormtemple](http://aqwwiki.wikidot.com/the-storm-temple). This is a low drop rate.
-	- Get the storm chaos king crown from [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon-monster-1). Easiest here since there's usually a group, but go to regular if you struggle.
+	- Get the shorn chaos king crown from [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon-monster-1). Easiest here since there's usually a group, but go to regular if you struggle.
 	- Grab the Xiang Chaos armour from [/mirrorportal](http://aqwwiki.wikidot.com/mirror-portal).
 	- Grab drakath's sword from [/ultradrakath](http://aqwwiki.wikidot.com/ultra-drakath). It is a 1% drop so good luck.
 	- Get the Chaorrupted Hourglass from iadoa in [/timespace](http://aqwwiki.wikidot.com/time-space).
