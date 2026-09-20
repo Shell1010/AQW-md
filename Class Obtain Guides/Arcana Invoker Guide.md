@@ -91,7 +91,7 @@ Some requirements from the quests are:
 - [Strong Drag's Intact Wing](http://aqwwiki.wikidot.com/strong-drag-s-intact-wing)
 
 **12 - The Hanged Man's Discernment (3 Debris)**
-- [Chained Rune Bonebreaker](http://aqwwiki.wikidot.com/chained-rune-bonebreaker)
+- [Chained Rune Bonebreakers](http://aqwwiki.wikidot.com/chained-rune-bonebreakers)
 - [Noble Sacrifice](http://aqwwiki.wikidot.com/noble-sacrifice)
 - [The Answer](http://aqwwiki.wikidot.com/the-answer)
 - [Astero's Insight](http://aqwwiki.wikidot.com/astero-s-insight)

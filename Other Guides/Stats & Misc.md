@@ -7,7 +7,9 @@ dg-metatags:
   description: Player stats and other miscellaneous information 
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
-I’ve made a Utility application for AQW, mainly terminal based. If anyone’s interested in testing it out it’s on [this repository](https://github.com/Shell1010/aqw-utils). Reason I put it here is because it’s nerd related as most of it is gathered from packet sniffing.
+I’ve made a Utility application for AQW, mainly terminal based. If anyone’s interested in testing it out it’s on [this repository](https://github.com/Shell1010/scribe). Reason I put it here is because it’s nerd related as most of it is gathered from packet sniffing.
+
+I will also link [this document](https://docs.google.com/document/d/1zkiClddfuGCcJG6zS-vZfPpRUl5bQBEXBlagDNDvaC4/edit?tab=t.0) I made as it’s much more thorough. If you are interested in this sort of thing and wish to learn more, then you can join my [discord server]([https://discord.gg/unubuPvJ3F](https://discord.gg/unubuPvJ3F "https://discord.gg/unubuPvJ3F")).
 
 This will entail information regarding player stats alongside some information that may not necessarily fall into other guide sections. Here are some abbreviations so you don't get lost:
 - AP - Attack Power

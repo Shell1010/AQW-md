@@ -58,4 +58,38 @@ I’ll only list “new” grinds below but you might’ve done these already.
 - [Hollowborn Doomblade (Sword)](http://aqwwiki.wikidot.com/hollowborn-doomblade-sword) 1x
 	- [[Hollowborn Sword of Doom]] guide has it
 - [Goddess Of War Prestige Cloak](http://aqwwiki.wikidot.com/goddess-of-war-prestige-cloak) 1x
+	- [Goddess Of War Blades](http://aqwwiki.wikidot.com/goddess-of-war-blades) 1x
+		- Gonna just give total mats instead of listing every single blade individually
+		- [Malgor Insignia](http://aqwwiki.wikidot.com/malgor-insignia) 35x
+		- [Brilliant Aura](http://aqwwiki.wikidot.com/brilliant-aura) 50x
+		- [Blinding Aura](http://aqwwiki.wikidot.com/blinding-aura) 1x
+		- [Acquiescence](http://aqwwiki.wikidot.com/acquiescence) 50x
+			- [Tranquil Mediocrity](http://aqwwiki.wikidot.com/tara-s-quests#CoreFarm) at [/worldscore](http://aqwwiki.wikidot.com/world-s-core)
+		- [Enchanted Scale](http://aqwwiki.wikidot.com/enchanted-scale) 250x
+			- [DragonSlayer General Class](http://aqwwiki.wikidot.com/galanoth-s-quests#5) quest at [/dragontown](http://aqwwiki.wikidot.com/dragon-town)
+		- [DragonScale](http://aqwwiki.wikidot.com/dragon-scale-1) 30x at [/lair](http://aqwwiki.wikidot.com/vasalkar-s-lair)
+		- [Ultimate Darkness Gem](http://aqwwiki.wikidot.com/ultimate-darkness-gem) 75x at [/shadowfallwar](http://aqwwiki.wikidot.com/shadowfall-war-location)
+		- [Death’s Oversight](http://aqwwiki.wikidot.com/death-s-oversight) 5x at [/shadowattack](http://aqwwiki.wikidot.com/shadow-attack) from death
+		- [Elemental Core](http://aqwwiki.wikidot.com/elemental-core) 25x
+			- [Once Upon Another Time](http://aqwwiki.wikidot.com/tara-s-quests#Cradle) at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)
+		- [Fire Avatar's Favor](http://aqwwiki.wikidot.com/fire-avatar-s-favor) 25x
+			- [Avatar's Rage](http://aqwwiki.wikidot.com/galanoth-s-quests#FAvatarFarm) at [/fireavatar](http://aqwwiki.wikidot.com/fire-avatar)
+		- [Fragment of the Queen](http://aqwwiki.wikidot.com/fragment-of-the-queen) 13x from QoM at [/transformation](http://aqwwiki.wikidot.com/transformation)
+		- [ShadowChaos Mote](http://aqwwiki.wikidot.com/shadowchaos-mote) 250x
+			- [A Closer Look](http://aqwwiki.wikidot.com/drakath-s-quests#Laguna) and [Snack Time](http://aqwwiki.wikidot.com/drakath-s-quests#CapLaguna) at [/laguna](http://aqwwiki.wikidot.com/laguna) and [/lagunabeach](http://aqwwiki.wikidot.com/laguna-beach)
+	- [Goddess of War Cloak](http://aqwwiki.wikidot.com/goddess-of-war-cloak) 1x
+		- [Malgor Insignia](http://aqwwiki.wikidot.com/malgor-insignia) 10x
+		- [Acquiescence](http://aqwwiki.wikidot.com/acquiescence) 10x
 - [Dragon's Tear](http://aqwwiki.wikidot.com/dragon-s-tear) 1x
+	- [Willpower](http://aqwwiki.wikidot.com/willpower) 10x
+		- [Em-pathetic Connection](http://aqwwiki.wikidot.com/brentan-s-quests#3) at [/ruinedcrown](http://aqwwiki.wikidot.com/ruined-crown)
+	- [Garish Remnant](http://aqwwiki.wikidot.com/garish-remnant) 30x
+		- [Janitorial Duties](http://aqwwiki.wikidot.com/empress-gravelyn-s-quests#KeepFarm) at [/timekeep](http://aqwwiki.wikidot.com/time-keep)
+	- [Prismatic Seams](http://aqwwiki.wikidot.com/prismatic-seams) 100x
+		- From medal quests at [/streamwar](http://aqwwiki.wikidot.com/timestream-war)
+	- [Unbound Thread](http://aqwwiki.wikidot.com/unbound-thread) 30x
+		- [Fallen Branches](http://aqwwiki.wikidot.com/drakath-s-quests#DeadFarm) at [/deadlines](http://aqwwiki.wikidot.com/deadlines)
+	- [Acquiescence](http://aqwwiki.wikidot.com/acquiescence) 25x
+		- [Tranquil Mediocrity](http://aqwwiki.wikidot.com/tara-s-quests#CoreFarm) at [/worldscore](http://aqwwiki.wikidot.com/world-s-core)
+	- [Elemental Core](http://aqwwiki.wikidot.com/elemental-core) 40x
+		- [Once Upon Another Time](http://aqwwiki.wikidot.com/tara-s-quests#Cradle) at [/manacradle](http://aqwwiki.wikidot.com/mana-cradle)

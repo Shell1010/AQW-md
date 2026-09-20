@@ -46,6 +46,7 @@ The Necrotic Sword of Doom (NSoD) is one of AdventureQuest Worlds' most coveted 
 		- 50x for the [Unenhanced Hilt](http://aqwwiki.wikidot.com/unenhanced-hilt) itself
 	- 1x for [Energized Hilt](http://aqwwiki.wikidot.com/energized-hilt)
 	- 1x for [Necrotic Sword's Hilt](http://aqwwiki.wikidot.com/necrotic-sword-s-hilt)
+	- 1600x [Cavern Celestite](http://aqwwiki.wikidot.com/cavern-celestite)
 
 ---
 ## Void Aura farming

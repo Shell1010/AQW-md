@@ -9,7 +9,14 @@ dg-metatags:
 ---
 Alright this is probably the most difficult Ultra amongst the ones listed here. This information is mainly from the Misfit guild.
 
-## 4 Man Taunt
+## 4 Man Taunt && Mole Chart
+
+Average pubs experience, thought I might as well put this here as pubs don’t really deviate much from this and I want this to be a resource that all players can use. Here I present one of the first speaker charts made by mole.
+
+![[Pasted image 20250202233634.png]]
+
+
+However, if you’re not average pub player refer to the charts below, usually much easier to run.
 
 ![[Pasted image 20240620201604.png]]
 
@@ -61,8 +68,5 @@ Due to no taunts for the DPS, you can actually run something frail like CSS (or 
 ## 1.5 Taunt
 ![[Pasted image 20240620201818.png]]
 
-## Mole Chart
 
-Average pubs experience, thought I might as well put this here as pubs don’t really deviate much from this and I want this to be a resource that all players can use. Here I present one of the first speaker charts made by mole.
 
-![[Pasted image 20250202233634.png]]

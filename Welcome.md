@@ -12,6 +12,8 @@ dg-metatags:
 
 This is going to be an attempt at making a somewhat updated version of AQWG. Most of the guides here will be checked through members of the community, if you find any mistakes or want to contribute please contribute via [this repository](https://github.com/Shell1010/AQW-md). The repository contains the markdown for this site (not the actual code), which I will be updating. Please have mercy because like there's a lot of stuff to write, I try to add hyperlinks and reference the wiki when I need to so can take a bit.
 
+[[Credits]] - Thank you to contributors for helping with the guides.
+
 [[Newbie Guide]] - For returning players and new players, or even those who want a quick refresher!
 
 [[Basic Class Guide]] - This guide generally reflects the popular enhancement choice for each class, how to obtain it, as well as a sort of progression of what classes to obtain at different stages of the game.
@@ -23,6 +25,8 @@ This is going to be an attempt at making a somewhat updated version of AQWG. Mos
 [AQWDex](https://aqwhub.com/aqwdex) - Pretty cool damage calculator yes.
 
 Remember to also follow the [AQW Wiki](http://aqwwiki.wikidot.com/) as it updated constantly with information regarding the new releases and is the best resource for anything and everything AQW related.
+
+[Buy me a coffee](https://ko-fi.com/archfishy)
 
 **Disclaimer:**
 This website is **not affiliated with or endorsed by Artix Entertainment, LLC**. All game content, including but not limited to artwork, character designs, and logos, are the **intellectual property of Artix Entertainment, LLC**. This site is a fan-made project intended for informational and entertainment purposes only.

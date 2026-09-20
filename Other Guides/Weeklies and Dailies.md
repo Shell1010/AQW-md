@@ -26,6 +26,8 @@ Stealing from the shuga and others in /aqw yes
 - UltraTyndarius: [Insignia](http://aqwwiki.wikidot.com/avatar-tyndarius-insignia)
 - Grimgaol: [Grimskull Trolling Rep](http://aqwwiki.wikidot.com/undead-cashfear-s-quests#GaolCell) 
 - Apex Azalith: [Divinas Voluntas](http://aqwwiki.wikidot.com/divina-voluntas)
+- Kolr, Usurper of Flames: [Cinders and Flames (for SoF) ](http://aqwwiki.wikidot.com/kolr-usurper-of-flames)
+- Kathool: [Soul Sand](http://aqwwiki.wikidot.com/god-of-the-depths)
 
 ## Templeshrine
 - [Sliver of Moonlight](http://aqwwiki.wikidot.com/sliver-of-moonlight)

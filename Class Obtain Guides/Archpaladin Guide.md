@@ -60,7 +60,7 @@ If you are member or non-mem and had the Paladin class at one point you can skip
 - **"Hymn of Light"**
 	- Grab the Divine Elixir from the [/poisonforest](http://aqwwiki.wikidot.com/poison-forest) by killing Xiaver Lionfang.
 	- Get the Prayer of Salvation from defeating [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon-location).
-	- Get acolyte's braille from [/newfinale](http://aqwwiki.wikidot.com/new-finale) by defeating the Chaos Healer at willow creek, screen 2.
+	- Get acolyte's braille from [/newfinale](http://aqwwiki.wikidot.com/new-finale) by defeating the Alliance Healer at willow creek, screen 3.
 	- Get 25 Innocence from the [/skytower](http://aqwwiki.wikidot.com/skytower-aegis) map by defeating the Dove.
 
 ---
