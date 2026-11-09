@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "garden-plugin-author": {
+      "source": "oleeskild/digitalgarden",
+      "sourceType": "github",
+      "skillPath": "skills/garden-plugin-author/SKILL.md",
+      "computedHash": "3ca0f55be4efdc0bd88d0504f28a6c47c697b5f06923991064d2ec84e1fcb519"
+    }
+  }
+}

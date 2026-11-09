@@ -8,7 +8,7 @@ dg-metatags:
   og:image: https://bigrat.monster/media/bigrat.jpg
 ---
 
-Kathool Adept is another birthday class, that is to be released at the time of writing this guide.
+Kathool Adept is another birthday class, that is still to be released at the time of writing this guide.
 
 Requirements to start:
 - Level 80
@@ -23,16 +23,16 @@ The class is obtained in two quests:
 
 ### **"Kathool Adept"**
 
-You need the following 8 armors to merge for **Adeptus Kathooli** at Kathool's Chest in [/godofdepthsbonus](http://aqwwiki.wikidot.com/god-of-the-depths-bonus-zone):
+You need the following 8 armors to merge for **Adeptus Kathooli** at [/kathooldepths](http://aqwwiki.wikidot.com/god-of-the-depths-bonus-zone):
 
 - Ashray Villager
 - Undine Defence Director
 - Evacuation Protocol Suit
 - Ashray Elf Warden
-- Elven Heritage Guardian
 - DeepWater Drow
 - Midnight Glaucus Sage
 - Kathool Acolyte
+- Elven Heritage Guardian (AFTER CLASS DROPS)
 
 Plus the merge materials:
 - Remnant of the Deep x7
@@ -96,7 +96,7 @@ Plus the merge materials:
 
 ---
 
-### **Elven Heritage Guardian**
+### **Elven Heritage Guardian** (AFTER CLASS DROPS)
 **Location:** Midnight Zone Merge - [/midnightzone](http://aqwwiki.wikidot.com/midnight-zone)
 
 **Merge Requirements:**
