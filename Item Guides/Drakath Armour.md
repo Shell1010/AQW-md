@@ -15,7 +15,7 @@ This is going to be quite a simple guide as the items to get the armour are a co
 	- [Unidentified 13](http://aqwwiki.wikidot.com/the-contract-of-nulgath) can be obtained by completing the **"Supplies to Spin the Wheel of Chance"** quest from [/tercessuinotlim](http://aqwwiki.wikidot.com/tercessuinotlim).
 		- Head to [/ultraalteon](http://aqwwiki.wikidot.com/ultra-alteon) and beat up the old man till he drops 3x Relic of Chaos. Turn those in for 3x Unidentified 13.
 	- Complete the daily quest at [/mountdoomskull](http://aqwwiki.wikidot.com/mount-doomskull-location) 13x for Dage's Scroll Fragments.
-	- To get the [Le Chocolat](http://aqwwiki.wikidot.com/le-chocolat) complete an unnecessarily obscure and long questline for access to the shop. Just complete the [/hyperspace](http://aqwwiki.wikidot.com/hyper-space) questline, I may make a guide for it but the wiki is your best bet in this situation.
+	- Buy the [Le Chocolat](http://aqwwiki.wikidot.com/le-chocolate) from the Bounty Hunter Shop. The wiki page for [/hyperspace](http://aqwwiki.wikidot.com/hyper-space) explains how to access it. The shop and item are not quest locked.
 	- [Treasure Chests](aqwwiki.wikidot.com/treasure-chest-misc) x100 drop from any monster in lore. I suggest going to some map like [/icestormunder](http://aqwwiki.wikidot.com/icestorm-under) or something similar with large mob rooms and beating stuff up there.
 	- Obtain the [Face of Chaos](http://aqwwiki.wikidot.com/face-of-chaos) from beating up Drakath at either [/ultradrakath](http://aqwwiki.wikidot.com/ultra-drakath) or [/finalbattle](http://aqwwiki.wikidot.com/final-battle).
 
